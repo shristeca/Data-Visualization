@@ -1,0 +1,1181 @@
+Song Year,album,artist,genre,track_name,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence,mood,energy_level,positivity_level,Ratings
+2016,1950,King Princess,Pop,1950,0.648,0.6,225133,0.535,4.70E-06,C#,0.162,-7.043,1,0.107,71.912,4,0.269,Empowering,0,1,Poor
+2016,Eyes Open,Snow Patrol,Pop,Chasing Cars,0.193,0.557,267933,0.609,7.69E-05,F#,0.135,-4.463,1,0.0259,104.01,4,0.172,Empowering,0,1,Poor
+2016,In The Lonely Hour,Sam Smith,Pop,I'm Not The Only One,0.554,0.453,239317,0.496,2.65E-05,D,0.0772,-5.785,1,0.0453,80.994,4,0.501,Empowering,0,1,Poor
+2016,Please Don't Go,Joel Adams,Pop,Please Don't Go,0.0118,0.513,210580,0.768,1.94E-05,C#,0.294,-4.868,0,0.0587,84.264,4,0.235,Cool,-1,-1,Poor
+2016,Midnight Memories (Deluxe),One Direction,Pop,Story of My Life,0.225,0.6,245493,0.663,0,C,0.119,-5.802,1,0.0477,121.07,4,0.286,Empowering,0,1,Poor
+2016,We Sing. We Dance. We Steal Things.,Jason Mraz,Pop,I'm Yours,0.595,0.686,242187,0.457,0,G#,0.105,-8.322,1,0.0468,150.953,4,0.718,Cool,-1,-1,Poor
+2016,Back To Bedlam (U.S. Amended),James Blunt,Pop,You're Beautiful,0.603,0.679,213053,0.54,1.70E-05,A,0.0905,-7.457,0,0.026,81.971,4,0.449,Empowering,0,1,Poor
+2016,Love Yourself,Justin Bieber,Pop,Love Yourself,0.859,0.795,233747,0.378,0,C#,0.204,-9.979,1,0.316,100.227,4,0.576,Energizing,2,0,Poor
+2016,Just The Way You Are,Bruno Mars,Pop,Just The Way You Are,0.0151,0.637,220733,0.843,0,D,0.0876,-5.413,1,0.0432,109.012,4,0.434,Cool,-1,-1,Poor
+2016,Naked,James Arthur,Pop,Naked,0.104,0.529,234107,0.607,0,D#,0.0631,-6.781,1,0.0574,101.966,4,0.238,Melancholy,-2,-1,Poor
+2016,A Rush Of Blood To The Head,Coldplay,Pop,The Scientist,0.727,0.56,309600,0.442,1.71E-05,D,0.11,-7.224,1,0.0243,146.448,4,0.212,Romantic,-1,1,Poor
+2016,Is There Anybody Out There?,A Great Big World,Pop,Say Something,0.857,0.407,229400,0.147,2.89E-06,B,0.0913,-8.822,1,0.0355,141.284,3,0.0765,Melancholy,-2,-1,Poor
+2016,Bundle of Tantrums,Jasmine Thompson,Pop,Let Her Go,0.95,0.445,172149,0.407,0,C,0.227,-6.883,1,0.0349,131.479,3,0.231,Empowering,0,1,Poor
+2016,Golden Slumbers,Elbow,Pop,Golden Slumbers,0.886,0.494,144387,0.119,0,A,0.106,-11.831,1,0.0271,81.805,4,0.264,Sentimental,-2,0,Poor
+2016,Beautiful Trauma,P!nk,Pop,Beautiful Trauma,0.0868,0.412,250053,0.619,2.55E-06,E,0.4,-6.39,1,0.0725,95.977,4,0.234,Romantic,-1,1,Poor
+2016,The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack [Deluxe Spotify Exclusive]),Christina Perri,Pop,A Thousand Years,0.309,0.421,285120,0.407,0.000961,G,0.11,-7.445,1,0.0267,139.028,3,0.161,Empowering,0,1,Poor
+2016,I Won't Give Up,Jason Mraz,Pop,I Won't Give Up,0.694,0.585,240166,0.303,0,C#,0.115,-10.058,1,0.0398,136.703,3,0.142,Empowering,0,1,Poor
+2016,Slow Hands,Niall Horan,Pop,Slow Hands,0.0133,0.726,188174,0.429,0,A,0.0574,-6.623,1,0.0519,85.899,4,0.871,Cool,-1,-1,Poor
+2016,When We Were Young,Adele,Pop,When We Were Young,0.348,0.381,290907,0.594,0,C,0.0925,-5.97,1,0.0486,143.86,4,0.273,Empowering,0,1,Poor
+2016,19,Adele,Pop,Make You Feel My Love,0.91,0.325,212040,0.18,0.000633,G,0.113,-10.647,1,0.0311,72.416,1,0.0997,Sentimental,-2,0,Poor
+2016,Malibu,Miley Cyrus,Pop,Malibu,0.0577,0.565,231906,0.782,4.16E-05,F,0.0757,-6.413,1,0.0506,140.004,4,0.4,Empowering,0,1,Poor
+2016,+,Ed Sheeran,Pop,Lego House,0.562,0.592,185093,0.637,0,G#,0.13,-8.48,1,0.0992,159.701,4,0.565,Empowering,0,1,Poor
+2016,13 Reasons Why (A Netflix Original Series Soundtrack),Lord Huron,Pop,The Night We Met,0.97,0.549,206933,0.371,0.132,B,0.639,-9.56,1,0.0378,87.024,3,0.13,Sentimental,-2,0,Poor
+2016,Cheers To The Fall,Andra Day,Pop,Rise Up,0.805,0.398,253342,0.316,0,A#,0.295,-7.031,1,0.0368,118.582,4,0.174,Empowering,0,1,Poor
+2016,Nine Track Mind,Charlie Puth,Pop,One Call Away,0.403,0.667,194453,0.613,0,A#,0.115,-5.353,1,0.0344,91.024,4,0.47,Empowering,0,1,Poor
+2016,Camino Palmero,The Calling,Pop,Wherever You Will Go,0.0367,0.558,208600,0.719,0,B,0.115,-5.113,1,0.0267,112.027,4,0.371,Empowering,0,1,Poor
+2016,Home To Mama,Justin Bieber,Pop,Home To Mama,0.95,0.688,203267,0.296,0.000166,B,0.115,-11.064,1,0.0872,89.091,4,0.478,Sentimental,-2,0,Poor
+2016,÷ (Deluxe),Ed Sheeran,Pop,Shape of You,0.581,0.825,233713,0.652,0,A#,0.0931,-3.183,0,0.0802,95.977,4,0.931,Energizing,2,0,Poor
+2016,The Reason,Hoobastank,Pop,The Reason,0.0129,0.472,232800,0.671,0,C#,0.159,-4.649,1,0.029,82.952,4,0.0681,Empowering,0,1,Poor
+2016,Greatest Hits Volume One - The Singles,The Goo Goo Dolls,Pop,Iris,0.00133,0.291,289907,0.79,5.61E-06,G#,0.0811,-5.683,0,0.0363,155.667,3,0.513,Empowering,0,1,Poor
+2016,This Town,Niall Horan,Pop,This Town,0.711,0.69,232600,0.407,0,F#,0.126,-7.739,1,0.0297,111.916,4,0.181,Melancholy,-2,-1,Poor
+2016,X & Y,Coldplay,Pop,Fix You,0.163,0.209,295533,0.418,0.00195,C,0.113,-8.74,1,0.0338,138.265,4,0.123,Empowering,0,1,Poor
+2016,Lost Without You,Freya Ridings,Pop,Lost Without You,0.928,0.409,225076,0.137,0,D#,0.0706,-9.169,1,0.0446,162.08,1,0.106,Empowering,0,1,Poor
+2016,Rude,MAGIC!,Pop,Rude,0.0435,0.743,224773,0.807,0,A#,0.309,-3.78,1,0.0364,144.062,4,0.899,Energizing,2,0,Poor
+2016,Stargazing - EP,Kygo,Pop,Stargazing,0.152,0.677,236853,0.497,0,D,0.0911,-5.763,1,0.0809,99.137,4,0.419,Romantic,-1,1,Poor
+2016,Over And Over Again,Nathan Sykes,Pop,Over And Over Again,0.962,0.47,246896,0.271,0,F,0.106,-8.335,1,0.0392,129.623,4,0.388,Empowering,0,1,Poor
+2016,Drops Of Jupiter,Train,Pop,Drops of Jupiter,0.154,0.468,259933,0.64,0,A,0.154,-5.862,1,0.0275,79.297,4,0.499,Empowering,0,1,Poor
+2016,Dream Your Life Away,Vance Joy,Pop,Mess Is Mine,0.047,0.595,223640,0.723,0.0286,E,0.0995,-8.256,1,0.0349,108.043,1,0.272,Empowering,0,1,Poor
+2016,Parachutes,Coldplay,Pop,Yellow,0.00239,0.429,266773,0.661,0.00013,G#,0.234,-7.227,1,0.0281,173.365,4,0.285,Empowering,0,1,Poor
+2016,Little Voice,Sara Bareilles,Pop,Love Song,0.0208,0.583,258827,0.786,0,B,0.188,-3.142,0,0.0301,123.052,4,0.573,Empowering,0,1,Poor
+2016,lovestrong.,Christina Perri,Pop,Jar of Hearts,0.726,0.349,246587,0.348,0,C,0.12,-6.142,1,0.0316,74.541,4,0.0886,Empowering,0,1,Poor
+2016,Sheezus,Lily Allen,Pop,Somewhere Only We Know,0.935,0.314,208154,0.286,0.0258,G,0.0999,-10.191,1,0.035,172.021,4,0.278,Empowering,0,1,Poor
+2016,Wrecking Ball,Miley Cyrus,Pop,Wrecking Ball,0.395,0.466,223240,0.403,0,D,0.111,-6.142,1,0.0337,119.81,4,0.337,Empowering,0,1,Poor
+2016,Thrift Shop (feat. Wanz),Macklemore & Ryan Lewis,Pop,Thrift Shop (feat. Wanz),0.0619,0.781,235613,0.526,0,D#,0.0457,-6.985,0,0.293,94.992,4,0.662,Cool,-1,-1,Poor
+2016,Animal + Cannibal (Deluxe Edition),Kesha,Pop,TiK ToK,0.0746,0.755,199693,0.832,1.27E-06,B,0.291,-2.741,0,0.116,120.032,4,0.735,Energizing,2,0,Poor
+2016,Is There Anybody Out There?,A Great Big World,Pop,Say Something,0.872,0.447,233267,0.158,1.58E-06,B,0.0816,-7.571,1,0.036,140.942,3,0.142,Melancholy,-2,-1,Average
+2016,Hot N Cold,Katy Perry,Pop,Hot N Cold,8.10E-05,0.702,223227,0.839,0,E,0.072,-3.992,1,0.0439,132.007,4,0.856,Energizing,2,0,Average
+2016,Pure Heroine,Lorde,Pop,Royals,0.106,0.616,190185,0.432,0,E,0.132,-9.546,1,0.133,84.778,4,0.302,Cool,-1,-1,Average
+2016,Blurred Lines,Robin Thicke,Pop,Blurred Lines,0.00453,0.862,263053,0.503,1.87E-05,E,0.0761,-7.703,1,0.0494,119.998,4,0.863,Energizing,2,0,Average
+2016,The 20/20 Experience,Justin Timberlake,Pop,Suit & Tie,0.103,0.795,326280,0.596,0,G#,0.164,-3.799,0,0.219,101.985,4,0.357,Cool,-1,-1,Average
+2016,Greatest Hits: My Prerogative,Britney Spears,Pop,(You Drive Me) Crazy - The Stop Remix!,0.092,0.684,196667,0.963,6.27E-05,F,0.352,-2.397,1,0.0459,101.078,4,0.781,Energizing,2,0,Average
+2016,Unorthodox Jukebox,Bruno Mars,Pop,Treasure,0.0412,0.874,178560,0.692,7.24E-05,D,0.324,-5.28,0,0.0431,116.017,4,0.937,Cool,-1,-1,Average
+2016,Overexposed,Maroon 5,Pop,One More Night,0.0499,0.717,219467,0.819,0,D,0.0843,-3.435,0,0.032,92.988,4,0.619,Energizing,2,0,Average
+2016,Katy Perry - Teenage Dream: The Complete Confection,Katy Perry,Pop,Firework,0.139,0.638,227880,0.826,0,F,0.0803,-4.968,1,0.0479,124.072,4,0.649,Empowering,0,1,Average
+2016,All About That Bass,Meghan Trainor,Pop,All About That Bass,0.0476,0.811,188754,0.879,1.91E-06,F#,0.109,-3.724,1,0.0514,134.064,4,0.962,Cool,-1,-1,Average
+2016,Greatest Hits: My Prerogative,Britney Spears,Pop,Toxic,0.0279,0.774,198813,0.847,0.0183,D,0.241,-3.925,0,0.121,143.011,4,0.923,Energizing,2,0,Average
+2016,SEX AND LOVE (Deluxe),Enrique Iglesias,Pop,Bailando - Spanish Version,0.0457,0.725,243413,0.779,2.76E-06,E,0.0446,-3.501,1,0.119,91.018,4,0.948,Aggressive,2,-2,Average
+2016,I AM...SASHA FIERCE,Beyoncé,Pop,Single Ladies (Put a Ring on It),0.0383,0.426,193213,0.584,0,A#,0.188,-5.293,1,0.296,193.437,4,0.272,Cool,-1,-1,Average
+2016,Burn,Ellie Goulding,Pop,Burn,0.258,0.309,231212,0.775,0,A#,0.102,-4.915,1,0.0546,84.731,4,0.279,Energizing,2,0,Average
+2016,The Truth About Love,P!nk,Pop,Try,0.00141,0.673,247907,0.629,0,B,0.0944,-7.072,1,0.0299,103.998,4,0.551,Empowering,0,1,Average
+2016,I AM...SASHA FIERCE,Beyoncé,Pop,Halo,0.272,0.508,261640,0.72,0,G#,0.0563,-5.908,0,0.0628,79.983,4,0.472,Empowering,0,1,Average
+2016,The Fame Monster (International Deluxe),Lady Gaga,Pop,Telephone,0.00587,0.825,220627,0.832,0.000789,D,0.114,-5.853,0,0.0403,122.021,4,0.713,Energizing,2,0,Average
+2016,Bang Bang,Jessie J,Pop,Bang Bang,0.27,0.707,199373,0.75,0,A,0.37,-4.421,0,0.0824,149.997,4,0.736,Energizing,2,0,Average
+2016,The Lumineers,The Lumineers,Pop,Ho Hey,0.779,0.685,161227,0.474,1.23E-06,A,0.149,-9.105,1,0.0313,79.991,4,0.36,Empowering,0,1,Average
+2016,Classic,MKTO,Pop,Classic,0.0353,0.713,175333,0.781,0,A#,0.155,-4.859,1,0.121,102.078,4,0.8,Energizing,2,0,Average
+2016,MADE,BIGBANG,Pop,BANG BANG BANG,0.0192,0.694,220238,0.832,0,D,0.355,-3.038,0,0.0598,135.011,4,0.424,Cool,-1,-1,Average
+2016,MADE,BIGBANG,Pop,FXXK IT,0.152,0.72,231811,0.746,0,A,0.276,-3.143,0,0.107,90.026,4,0.587,Energizing,2,0,Average
+2016,EX'ACT - The 3rd Album,EXO,Pop,Monster,0.0066,0.618,221341,0.76,0,D#,0.127,-4.312,1,0.0596,150,4,0.541,Cool,-1,-1,Average
+2016,FATE NUMBER FOR,WINNER,Pop,REALLY REALLY,0.167,0.765,203057,0.769,0,B,0.0854,-3.16,1,0.0595,103.006,4,0.581,Energizing,2,0,Average
+2016,You Never Walk Alone,BTS,Pop,Not Today,0.00181,0.594,231860,0.946,1.04E-06,F,0.923,-3.408,1,0.126,110.024,4,0.665,Aggressive,2,-2,Average
+2016,The 2nd Album ‘EXODUS’,EXO,Pop,CALL ME BABY,0.284,0.692,211013,0.886,0,A#,0.341,-2.519,1,0.0519,100.03,4,0.879,Energizing,2,0,Average
+2016,SQUARE TWO,BLACKPINK,Pop,STAY,0.569,0.628,230400,0.433,7.71E-06,A#,0.104,-6.808,1,0.0383,88.074,4,0.343,Aggressive,2,-2,Average
+2016,LOTTO - The 3rd Album Repackage,EXO,Pop,Lotto,0.0618,0.798,189775,0.867,0,G#,0.193,-3.207,0,0.0386,99.996,4,0.702,Energizing,2,0,Average
+2016,MADE,BIGBANG,Pop,LAST DANCE,0.467,0.621,279719,0.673,0,A#,0.323,-3.194,0,0.0606,143.889,4,0.289,Empowering,0,1,Average
+2016,The Most Beautiful Moment in Life: Young Forever,BTS,Pop,I Need U,0.0184,0.475,210577,0.897,0,D,0.296,-2.383,0,0.0736,78.918,4,0.642,Energizing,2,0,Average
+2016,BODY,Eric Nam,Pop,BODY,0.146,0.769,209760,0.624,0,C#,0.0709,-5.989,0,0.0562,100.021,4,0.753,Sentimental,-2,0,Average
+2016,CRYSTYLE,CLC,Pop,Hobgoblin,0.0194,0.621,210478,0.873,0,G#,0.488,-2.888,0,0.103,169.91,4,0.401,Aggressive,2,-2,Average
+2016,Rookie - The 4th Mini Album,Red Velvet,Pop,Rookie,0.0998,0.681,197638,0.94,0,C,0.334,-3.367,0,0.3,164.035,4,0.889,Energizing,2,0,Average
+2016,NCT #127 - The 1st Mini Album,NCT 127,Pop,소방차 Fire Truck,0.116,0.724,178565,0.976,1.30E-05,A#,0.352,-3.279,1,0.0602,110.006,4,0.626,Aggressive,2,-2,Average
+2016,The Most Beautiful Moment in Life: Young Forever,BTS,Pop,Save Me,0.0269,0.614,196506,0.823,0,A#,0.0783,-3.48,1,0.062,139.949,4,0.539,Energizing,2,0,Average
+2016,FATE NUMBER FOR,WINNER,Pop,FOOL,0.721,0.649,221793,0.601,0,C#,0.108,-5.452,1,0.0347,140.031,4,0.522,Empowering,0,1,Average
+2016,Guardian (Original Television Soundtrack) Part 6,Sam Kim,Pop,Who are you,0.803,0.463,255464,0.449,6.99E-06,F,0.124,-5.993,0,0.0293,131.751,4,0.23,Romantic,-1,1,Average
+2016,Hey Mama! – The 1st Mini Album,EXO-CBX,Pop,Hey Mama!,0.0662,0.532,199796,0.859,0,A#,0.684,-4.106,1,0.142,118.919,4,0.934,Energizing,2,0,Average
+2016,The Most Beautiful Moment in Life: Young Forever,BTS,Pop,Silver Spoon,0.00128,0.649,233185,0.875,0,F#,0.0486,-2.88,1,0.0696,166.927,4,0.557,Energizing,2,0,Average
+2016,LOTTO - The 3rd Album Repackage,EXO,Pop,Lucky One,0.169,0.731,227486,0.787,0,A#,0.0892,-3.95,1,0.055,120.951,4,0.799,Energizing,2,0,Average
+2016,Act. 7,4Minute,Pop,Hate,0.0577,0.681,214957,0.904,1.70E-06,D#,0.469,-3.812,0,0.156,149.883,4,0.595,Energizing,2,0,Good
+2016,Descendants Of The Sun (Original Television Soundtrack) Pt.3,Davichi,Pop,This Love,0.731,0.408,225171,0.445,0,F#,0.194,-4.316,1,0.0337,138.76,4,0.205,Empowering,0,1,Good
+2016,Descendants Of The Sun (Original Television Soundtrack) Pt.4,Gummy,Pop,You Are My Everything,0.675,0.334,240590,0.496,0,D#,0.119,-5.123,1,0.0379,135.064,4,0.111,Empowering,0,1,Good
+2016,SHINE FOREVER,Monsta X,Pop,SHINE FOREVER,0.129,0.625,208036,0.9,0,A,0.337,-3.351,1,0.055,80.007,4,0.606,Energizing,2,0,Good
+2016,Goodbye,2NE1,Pop,Goodbye,0.329,0.653,231445,0.488,0,A#,0.163,-4.042,1,0.0328,151.594,4,0.492,Energizing,2,0,Good
+2016,Through the Night,IU,Pop,Through the Night,0.754,0.401,253293,0.311,0,F,0.279,-7.327,1,0.0437,79.197,4,0.282,Empowering,0,1,Good
+2016,Aşk Melekleri,Berkay,Pop,İnanırım,0.0713,0.623,214227,0.806,0,A#,0.0961,-5.559,0,0.212,179.98,4,0.7,Energizing,2,0,Good
+2016,Vur,Gökhan Tepe,Pop,Vur,0.193,0.84,205760,0.721,0,D#,0.091,-5.171,0,0.0988,97.994,4,0.778,Energizing,2,0,Good
+2016,Kalbimin Tek Sahibine,İrem Derici,Pop,Kalbimin Tek Sahibine,0.689,0.427,212557,0.397,0,D#,0.098,-7.146,0,0.0376,100.019,4,0.391,Empowering,0,1,Good
+2016,Bi' Düşün,Özcan Deniz,Pop,Aklında Olsun,0.519,0.652,300747,0.741,0.00886,G#,0.282,-8.194,0,0.0324,139.984,4,0.666,Romantic,-1,1,Good
+2016,Aşklarım Büyük Benden,Murat Boz,Pop,Soyadımsın,0.423,0.455,259553,0.72,0,B,0.109,-5.471,0,0.045,92.338,4,0.454,Empowering,0,1,Good
+2016,Üç,İrem Derici,Pop,Nabza Göre Şerbet,0.0401,0.783,245422,0.772,0,F,0.325,-5.762,0,0.0897,128.023,4,0.812,Energizing,2,0,Good
+2016,İki,İrem Derici,Pop,Zorun Ne Sevgilim,0.0462,0.784,223687,0.799,0,D#,0.245,-4.135,1,0.049,127.04,4,0.651,Energizing,2,0,Good
+2016,Güm Güm,Ayse Hatun Onal,Pop,Güm Güm,0.324,0.732,223248,0.873,0,D,0.348,-3.101,0,0.0371,110.99,4,0.711,Energizing,2,0,Good
+2017,Rekor,Demet Akalın,Pop,İlahi Adalet,0.00397,0.72,251427,0.954,6.80E-06,D#,0.0758,-4.915,0,0.0446,127.947,4,0.744,Energizing,2,0,Good
+2017,İki,İrem Derici,Pop,Sevgi Olsun Taştan Olsun,0.357,0.755,193959,0.799,0,E,0.124,-4.616,1,0.111,88.041,4,0.73,Energizing,2,0,Good
+2017,Toz Duman,Emrah Karaduman,Pop,İntikam,0.0225,0.78,204890,0.938,0,C,0.0715,-2.744,0,0.121,128.02,4,0.887,Energizing,2,0,Good
+2017,Sor,Atiye,Pop,Sor,0.725,0.249,272916,0.459,0,F#,0.117,-7.465,0,0.03,144.351,4,0.174,Romantic,-1,1,Good
+2017,Tam 90'dan,Volga Tamöz,Pop,Karabiberim,0.15,0.722,265347,0.946,0.117,D,0.0837,-3.183,1,0.0849,129.982,4,0.854,Energizing,2,0,Good
+2017,Rekor,Demet Akalın,Pop,Koltuk,0.175,0.749,244783,0.737,3.35E-05,C#,0.0638,-6.344,0,0.0521,100.01,4,0.778,Energizing,2,0,Good
+2017,Tam 90'dan,Volga Tamöz,Pop,Kalmadı,0.0944,0.7,232147,0.908,0.175,G#,0.058,-2.841,1,0.0516,125.015,4,0.865,Energizing,2,0,Good
+2017,Tavsiye,Hadise,Pop,Prenses,0.012,0.781,235019,0.737,3.28E-05,D#,0.136,-6.552,0,0.0489,121,4,0.946,Energizing,2,0,Good
+2017,Tavsiye,Hadise,Pop,Nerdesin Aşkım,0.0151,0.616,191529,0.845,0,D,0.0523,-8.546,1,0.0541,193.898,4,0.96,Energizing,2,0,Good
+2017,Bul Beni,Gökhan Keser,Pop,Söylesem Ayıp Olur,0.256,0.705,219359,0.92,4.11E-06,A,0.174,-3.382,0,0.104,130.048,4,0.608,Energizing,2,0,Good
+2017,Tatil,Özgün,Pop,Tatil,0.202,0.689,203198,0.811,0,A#,0.126,-4.117,0,0.117,173.915,4,0.921,Energizing,2,0,Good
+2017,Bangır Bangır,Gülşen,Pop,Bangır Bangır,0.00701,0.85,233631,0.872,0,E,0.304,-4.863,1,0.0963,101.987,4,0.715,Energizing,2,0,Good
+2017,Volga Tamöz No 2,Volga Tamöz,Pop,Katilimiz Olursun,0.0764,0.792,210905,0.816,0,D,0.277,-4.671,0,0.15,128.025,4,0.876,Energizing,2,0,Good
+2017,Daha Derine,Murat Dalkılıç,Pop,Yani,0.0114,0.687,186306,0.806,0.00411,B,0.321,-6.214,1,0.0649,94.999,4,0.853,Energizing,2,0,Good
+2017,Rekor,Demet Akalın,Pop,Rekor,0.00131,0.738,229820,0.875,7.06E-05,D,0.323,-5.698,0,0.0773,125.968,4,0.841,Energizing,2,0,Good
+2017,1,Ozan Çolakoğlu,Pop,Aşk Gitti Bizden,0.0369,0.708,275104,0.873,0,C#,0.0805,-5.547,0,0.0638,128.001,4,0.715,Energizing,2,0,Good
+2017,1,Ozan Çolakoğlu,Pop,Seyre Dursun Aşk,0.0334,0.647,227448,0.804,6.99E-05,G#,0.0522,-4.949,0,0.05,129.997,4,0.53,Energizing,2,0,Good
+2017,Tavsiye,Hadise,Pop,Tavsiye,0.0291,0.733,254465,0.894,0,E,0.355,-4.507,1,0.0708,102.022,4,0.667,Energizing,2,0,Good
+2017,130 BPM Moderato,Ozan Doğulu,Pop,Namus,0.00624,0.773,199965,0.631,4.58E-05,G#,0.0394,-7.111,0,0.0802,94.002,4,0.552,Cool,-1,-1,Good
+2017,Toz Duman,Emrah Karaduman,Pop,Kırk Yılda Bir Gibisin,0.00756,0.768,203608,0.911,5.46E-05,C,0.234,-1.855,0,0.0753,128.027,4,0.935,Energizing,2,0,Good
+2017,Toz Duman,Emrah Karaduman,Pop,Aşkperest,0.00978,0.74,229534,0.903,1.10E-06,C#,0.424,-5.366,0,0.0641,102.022,4,0.653,Cool,-1,-1,Good
+2017,Yaş Hikayesi,Merve Özbey,Pop,Helal Ettim - DJ Eyüp Remix,0.00195,0.714,286563,0.793,0.000226,G#,0.133,-7.533,0,0.115,126.959,4,0.448,Aggressive,2,-2,Good
+2017,Bangır Bangır,Gülşen,Pop,Bir Fırt Çek,0.00102,0.738,262754,0.886,0,A,0.104,-4.173,1,0.0466,128.035,4,0.698,Energizing,2,0,Good
+2017,Tam 90'dan,Volga Tamöz,Pop,Kınalı Bebek,0.00213,0.579,247413,0.947,1.85E-06,A#,0.133,-2.328,1,0.0398,128.027,4,0.639,Energizing,2,0,Good
+2017,Afortunadamente No Eres Tu,Paty Cantú,Pop,Se Desintegra el Amor,0.154,0.652,215761,0.491,1.81E-05,C#,0.0931,-10.79,1,0.0284,129.927,4,0.278,Empowering,0,1,Good
+2017,Lo Mejor De OV7,OV7,Pop,Shabadabada,0.178,0.757,235427,0.906,0.000154,E,0.09,-3.064,1,0.151,87.949,4,0.789,Energizing,2,0,Good
+2017,Aerosoul,Kalimba,Pop,Tocando Fondo,0.102,0.613,246200,0.513,0,A#,0.109,-5.641,1,0.0301,131.78,4,0.31,Empowering,0,1,Good
+2017,Aerosoul,Kalimba,Pop,No Me Quiero Enamorar,0.53,0.309,217773,0.407,0,B,0.201,-6.476,1,0.0318,139.901,4,0.232,Empowering,0,1,Very Good
+2017,Mi Otro Yo,Kalimba,Pop,Se Te Olvido,0.184,0.781,269360,0.498,0,G,0.103,-6.17,1,0.0273,113.981,4,0.346,Empowering,0,1,Very Good
+2017,Fantasía Pop,Belanova,Pop,Toma Mi Mano,0.904,0.325,152933,0.0772,3.39E-05,A,0.381,-11.756,1,0.04,202.88,4,0.434,Empowering,0,1,Very Good
+2017,Peligro,Reik,Pop,Creo en Ti,0.869,0.588,165653,0.268,0,C,0.149,-9.639,1,0.0261,85.978,4,0.435,Empowering,0,1,Very Good
+2017,Secuencia,Reik,Pop,Me Duele Amarte,0.401,0.62,192308,0.591,0,A#,0.138,-7.085,1,0.0304,148.06,4,0.591,Romantic,-1,1,Very Good
+2017,Defecto Perfecto,División Minúscula,Pop,Sognare,0.0105,0.565,313933,0.739,2.86E-06,G,0.176,-4.012,1,0.0283,99.978,4,0.703,Empowering,0,1,Very Good
+2017,Dejarte De Amar,Camila,Pop,Mientes,0.0824,0.331,205160,0.592,0,A#,0.109,-6.127,1,0.0371,170.436,3,0.312,Empowering,0,1,Very Good
+2017,Todo Cambio,Camila,Pop,Todo Cambio,0.608,0.452,193827,0.512,0,D,0.276,-6.508,1,0.0568,172.444,3,0.357,Empowering,0,1,Very Good
+2017,Dejarte De Amar,Camila,Pop,De Qué Me Sirve la vida,0.29,0.411,248013,0.468,0,B,0.136,-7.058,1,0.0294,149.399,4,0.179,Empowering,0,1,Very Good
+2017,Todo Cambio,Camila,Pop,Sólo para Ti,0.0742,0.317,182520,0.361,0,F,0.102,-7.628,1,0.0483,77.589,4,0.209,Empowering,0,1,Very Good
+2017,Dejarte De Amar,Camila,Pop,Bésame,0.0529,0.256,252293,0.384,0,D#,0.0802,-8.158,0,0.0332,175.543,3,0.168,Melancholy,-2,-1,Very Good
+2017,Stereo Hits,Mœnia,Pop,Ni Tú Ni Nadie,0.0299,0.778,219533,0.624,0.006,B,0.35,-6.603,1,0.0345,131.976,4,0.635,Cool,-1,-1,Very Good
+2017,A Tiempo,Ha*Ash,Pop,Que Haré Con Este Amor,0.821,0.564,197000,0.409,0,C#,0.0878,-8.225,1,0.0269,135.878,4,0.366,Empowering,0,1,Very Good
+2017,Romances,David Bisbal,Pop,Dígale,0.567,0.573,265227,0.485,0,B,0.136,-6.758,1,0.0296,130.028,4,0.285,Empowering,0,1,Very Good
+2017,¿Con quién se queda el perro?,Jesse & Joy,Pop,¡Corre!,0.127,0.479,288893,0.477,0,G#,0.15,-6.886,1,0.0363,151.97,4,0.127,Empowering,0,1,Very Good
+2017,Six Pack: Jesse & Joy - EP,Jesse & Joy,Pop,Espacio Sideral,0.00576,0.605,222627,0.48,7.32E-05,A,0.143,-6.356,1,0.0285,90.022,4,0.811,Empowering,0,1,Very Good
+2017,Six Pack: Jesse & Joy - EP,Jesse & Joy,Pop,Ya no quiero,0.00416,0.555,206907,0.826,0,E,0.0765,-5.779,1,0.0291,100.008,4,0.206,Empowering,0,1,Very Good
+2017,Grandes Exitos,Chayanne,Pop,Y Tú Te Vas,0.0183,0.609,283893,0.607,1.53E-05,A#,0.205,-7.947,0,0.0297,139.927,4,0.525,Romantic,-1,1,Very Good
+2017,MLB Caliente,Chayanne,Pop,Salomé,0.00331,0.77,253267,0.827,0.000107,C#,0.0708,-5.699,0,0.162,128.009,4,0.746,Energizing,2,0,Very Good
+2017,Mi Sangre,Juanes,Pop,La Camisa Negra,0.0974,0.764,216707,0.737,0,D#,0.0537,-4.378,0,0.0308,97.01,4,0.973,Energizing,2,0,Very Good
+2017,Lo Esencial De Alejandro Fernández,Alejandro Fernandez,Pop,Si Tú No Vuelves,0.41,0.456,194000,0.433,0,E,0.261,-6.622,1,0.0302,149.364,4,0.36,Romantic,-1,1,Very Good
+2017,Lo Esencial De Alejandro Fernández,Alejandro Fernandez,Pop,Te Voy a Perder,0.392,0.56,249000,0.529,0,C,0.122,-7.76,1,0.0277,97.42,3,0.219,Empowering,0,1,Very Good
+2017,Lo Esencial De Alejandro Fernández,Alejandro Fernandez,Pop,Granada,0.527,0.224,313187,0.63,0,B,0.217,-4.23,1,0.0399,80.539,4,0.201,Romantic,-1,1,Very Good
+2017,Quiero Amarte,Armando Manzanero,Pop,Quiero Amarte,0.662,0.47,165080,0.599,0,F#,0.111,-5.257,1,0.0348,84.096,4,0.391,Empowering,0,1,Very Good
+2017,Para Enamorarte De Mí,David Bisbal,Pop,Para Enamorarte De Mí,0.382,0.559,231647,0.604,0,F,0.115,-4.604,1,0.0293,84.034,3,0.46,Empowering,0,1,Very Good
+2017,Romances,David Bisbal,Pop,Mi Princesa,0.791,0.49,202853,0.372,0,C#,0.258,-8.546,1,0.038,103.441,4,0.518,Romantic,-1,1,Very Good
+2017,Humanos a Marte,Chayanne,Pop,Humanos a Marte,0.117,0.674,225187,0.921,0,F#,0.151,-3.515,1,0.0426,92.989,4,0.804,Romantic,-1,1,Very Good
+2017,SEX AND LOVE (Deluxe),Enrique Iglesias,Pop,Bailando - Spanish Version,0.0467,0.713,243413,0.783,1.93E-06,E,0.0449,-3.499,1,0.124,90.937,4,0.958,Aggressive,2,-2,Very Good
+2017,Lo Mejor De Emmanuel & Manuel Mijares En Concierto,Emmanuel,Pop,"Pobre Diablo - En Vivo Desde Auditorio Nacional, México/ 2007",0.114,0.402,265013,0.705,1.72E-06,G,0.977,-6.552,1,0.0405,100.229,3,0.13,Empowering,0,1,Very Good
+2017,Acústico En Vivo Edición Especial,Emmanuel,Pop,El Rey Azul - En Vivo Los Estudios Churubusco México DF/2011,0.0926,0.699,248573,0.731,0,A,0.953,-5.762,1,0.0449,93.072,4,0.674,Energizing,2,0,Very Good
+2017,Acústico En Vivo Edición Especial,Emmanuel,Pop,Bella Señora - En Vivo Los Estudios Churubusco México DF/2011,0.0335,0.775,231373,0.813,0,D#,0.927,-6.103,1,0.0313,124.955,4,0.648,Energizing,2,0,Very Good
+2017,Acústico En Vivo Edición Especial,Emmanuel,Pop,Este Terco Corazón - En Vivo Los Estudios Churubusco México DF/2011,0.00915,0.559,272213,0.589,0,E,0.831,-7.695,0,0.0337,147.969,3,0.333,Romantic,-1,1,Very Good
+2017,Se avessi un cuore,Annalisa,Pop,Se avessi un cuore,0.071,0.598,174036,0.769,0,D,0.333,-4.353,0,0.0368,100.979,4,0.708,Energizing,2,0,Very Good
+2017,Splende,Annalisa,Pop,Una finestra tra le stelle,0.229,0.566,211093,0.627,0,D#,0.0904,-5.113,1,0.0299,124.963,4,0.236,Empowering,0,1,Very Good
+2017,Riflessi di me,Francesca Michielin,Pop,Distratto,0.453,0.575,252320,0.552,0,D,0.104,-4.131,0,0.0256,135.972,4,0.271,Empowering,0,1,Very Good
+2017,TZN -The Best Of Tiziano Ferro,Tiziano Ferro,Pop,Lo Stadio,0.0753,0.525,225200,0.859,0,G,0.333,-2.774,1,0.0538,123.02,4,0.307,Empowering,0,1,Very Good
+2017,Simili,Laura Pausini,Pop,Simili,0.179,0.522,215547,0.765,0,A#,0.103,-4.781,1,0.0381,115.077,4,0.159,Empowering,0,1,Very Good
+2017,Baciami (Hasta Luego),Briga,Pop,Baciami (Hasta Luego),0.0156,0.756,207755,0.741,0,B,0.216,-6.374,1,0.227,97.998,4,0.433,Cool,-1,-1,Very Good
+2017,Lorenzo 2015 CC.,Jovanotti,Pop,Ragazza Magica,0.174,0.409,229000,0.855,0,F#,0.325,-3.434,1,0.135,186.119,4,0.641,Cool,-1,-1,Very Good
+2017,Used to you / Potrei abituarmi,Annalisa,Pop,Used to you / Potrei abituarmi,0.0182,0.629,198217,0.877,3.08E-06,A,0.174,-6.138,1,0.0468,161.982,4,0.895,Energizing,2,0,Very Good
+2017,Adesso,Emma,Pop,Il Paradiso Non Esiste,0.00585,0.488,215616,0.727,0,D#,0.0483,-5.101,1,0.0793,115.058,4,0.667,Energizing,2,0,Very Good
+2017,Simili,Laura Pausini,Pop,Ho creduto a me,0.661,0.671,194200,0.555,0,B,0.087,-6.551,1,0.0337,119.922,4,0.104,Empowering,0,1,Very Good
+2017,Black Cat,Zucchero,Pop,Voci - Namanama Version,0.0709,0.526,226780,0.429,0.0163,G#,0.127,-9.689,1,0.0276,92.957,4,0.0665,Empowering,0,1,Very Good
+2017,Tutto Molto Interessante,Fabio Rovazzi,Pop,Tutto Molto Interessante,0.0232,0.796,175312,0.745,3.65E-06,C#,0.309,-4.906,0,0.0316,128.053,4,0.472,Cool,-1,-1,Very Good
+2017,Niente è impossibile,Chiara Grispo,Pop,Niente è impossibile,0.00614,0.513,225187,0.802,0,C#,0.285,-3.713,1,0.0511,113.987,4,0.278,Empowering,0,1,Very Good
+2017,Combattente,Fiorella Mannoia,Pop,Che sia benedetta,0.134,0.537,193440,0.775,0,A#,0.119,-4.978,0,0.112,151.654,4,0.382,Empowering,0,1,Very Good
+2017,Il codice della bellezza,Samuel,Pop,Vedrai,0.0243,0.635,221467,0.713,0,A,0.103,-4.095,1,0.0313,115.966,4,0.313,Energizing,2,0,Very Good
+2017,Ti amo,Umberto Tozzi,Pop,Ti amo,0.14,0.529,276520,0.579,0,F#,0.104,-5.736,1,0.0297,179.912,3,0.234,Empowering,0,1,Very Good
+2017,Unici,Nek,Pop,Freud (feat. J-Ax),0.054,0.683,203533,0.835,0,A,0.101,-4.172,0,0.044,98.061,4,0.595,Energizing,2,0,Very Good
+2017,El Oficio De La Vida,Tiziano Ferro,Pop,Lento/Veloz,0.0516,0.603,198813,0.757,0,A#,0.3,-3.319,1,0.172,90.16,4,0.814,Cool,-1,-1,Very Good
+2017,VASCONONSTOP,Vasco Rossi,Pop,Come Nelle Favole,0.0383,0.572,253733,0.753,0,B,0.374,-4.757,1,0.0372,110.039,4,0.473,Empowering,0,1,Very Good
+2017,Fenomeno,Fabri Fibra,Pop,Pamplona,0.00657,0.636,224133,0.764,0,G,0.118,-6.289,1,0.166,107.784,4,0.463,Cool,-1,-1,Very Good
+2017,Senza Pagare VS T-Pain,J-AX,Pop,Senza Pagare VS T-Pain,0.0296,0.679,210099,0.625,0,D#,0.106,-6.668,1,0.0405,96.035,4,0.489,Cool,-1,-1,Excellent
+2017,0+,Benji & Fede,Pop,Tutto per una ragione (feat. Annalisa),0.0279,0.753,178800,0.775,0,D#,0.11,-5.97,1,0.0805,100.074,4,0.646,Energizing,2,0,Excellent
+2017,Oronero,Giorgia,Pop,Credo,0.126,0.739,175053,0.855,1.26E-06,G#,0.472,-4.611,1,0.0301,113.978,4,0.82,Energizing,2,0,Excellent
+2017,Oronero,Giorgia,Pop,Scelgo ancora te,0.365,0.425,206027,0.457,0,A#,0.101,-4.879,1,0.0291,87.813,4,0.327,Empowering,0,1,Excellent
+2017,Fino all'imbrunire,Negramaro,Pop,Fino all'imbrunire,0.127,0.639,253159,0.82,2.62E-06,F#,0.101,-5.932,0,0.0531,125.03,4,0.259,Aggressive,2,-2,Excellent
+2017,Un'Altra Storia,Zucchero,Pop,Un'Altra Storia,0.0692,0.392,268571,0.585,1.86E-05,E,0.136,-7.115,1,0.0322,167.965,4,0.197,Empowering,0,1,Excellent
+2017,Muttersprache (Deluxe Version),Sarah Connor,Pop,Keiner ist wie Du - Aus Sing meinen Song - Das Tauschkonzert,0.805,0.536,240239,0.233,0,C,0.133,-8.243,0,0.0337,126.576,4,0.064,Melancholy,-2,-1,Excellent
+2017,Bis nach Toulouse,Philipp Poisel,Pop,Wie soll ein Mensch das ertragen,0.138,0.547,303149,0.411,0.0108,F,0.107,-10.958,1,0.0311,144.443,4,0.378,Empowering,0,1,Excellent
+2017,Hey,Andreas Bourani,Pop,Hey,0.641,0.423,274307,0.384,0,A#,0.106,-9.598,1,0.0364,135.4,4,0.146,Melancholy,-2,-1,Excellent
+2017,Wird schon irgendwie gehen,AnnenMayKantereit,Pop,Oft gefragt,0.302,0.621,178721,0.74,3.43E-06,C,0.153,-6.795,1,0.049,125.364,4,0.302,Romantic,-1,1,Excellent
+2017,Herz über Kopf,Joris,Pop,Herz über Kopf,0.00965,0.577,204360,0.548,0,A#,0.145,-6.975,0,0.0434,132.764,4,0.492,Romantic,-1,1,Excellent
+2017,Freiheit,Curse,Pop,Bis zum Schluss,0.0353,0.504,224427,0.784,0,A#,0.108,-7.279,1,0.151,86.543,4,0.49,Energizing,2,0,Excellent
+2017,Keine Maschine,Tim Bendzko,Pop,Keine Maschine,0.0225,0.703,197213,0.58,0,G,0.0991,-7.648,0,0.0556,135.992,4,0.896,Romantic,-1,1,Excellent
+2017,Irgendwo anders,Jennifer Rostock,Pop,Irgendwo anders - Akustik Version,0.969,0.607,147383,0.202,0.0025,C#,0.109,-12.405,1,0.0397,103.037,4,0.157,Empowering,0,1,Excellent
+2017,Alles nix konkretes,AnnenMayKantereit,Pop,Barfuß am Klavier,0.881,0.396,195372,0.278,0.0183,A,0.114,-11.472,1,0.0346,155.328,3,0.229,Sentimental,-2,0,Excellent
+2017,80 Millionen,Max Giesinger,Pop,80 Millionen,0.0763,0.554,215360,0.692,8.51E-05,F#,0.306,-8.291,1,0.0518,114.958,4,0.521,Empowering,0,1,Excellent
+2017,Lauschgift - Jubiläums-Edition,Die Fantastischen Vier,Pop,Sie ist weg,0.297,0.706,232200,0.831,0,G#,0.0952,-5.875,0,0.225,93.03,4,0.592,Cool,-1,-1,Excellent
+2017,SEEED,Seeed,Pop,Augenbling,0.00928,0.853,216728,0.679,0,E,0.175,-4.029,1,0.113,102.604,4,0.388,Cool,-1,-1,Excellent
+2017,30/11/1980,Sido,Pop,Liebe,0.0573,0.462,195416,0.812,0,D#,0.186,-5.988,1,0.311,172.461,4,0.632,Cool,-1,-1,Excellent
+2017,Rekord - Live in Wien,Die Fantastischen Vier,Pop,Einfach Sein - Live in Wien,0.0223,0.675,196307,0.734,3.51E-05,G,0.416,-5.498,0,0.0366,147.137,4,0.522,Cool,-1,-1,Excellent
+2017,MTV Unplugged In New York (Online Version),Sportfreunde Stiller,Pop,Lass mich nie mehr los - Unplugged,0.307,0.644,249120,0.438,2.13E-06,F#,0.956,-10.018,1,0.0361,118.575,4,0.518,Empowering,0,1,Excellent
+2017,Das Beste (Deluxe Version),Culcha Candela,Pop,Schöne neue Welt - Single Version,0.116,0.777,219267,0.867,1.15E-05,E,0.396,-4.567,1,0.0371,139.036,4,0.38,Energizing,2,0,Excellent
+2017,Die bekannteste unbekannte Band der Welt,SDP,Pop,Die Nacht von Freitag auf Montag,0.16,0.712,233514,0.71,0,E,0.206,-4.115,1,0.189,147.859,4,0.844,Energizing,2,0,Excellent
+2017,Wir Kinder vom Bahnhof Soul (Re-Release),Jan Delay,Pop,Oh Jonny,0.0122,0.552,219013,0.577,0.000139,D,0.121,-7.107,1,0.0929,87.554,4,0.763,Energizing,2,0,Excellent
+2017,Triebwerke,Alligatoah,Pop,Willst du,0.631,0.733,218964,0.751,0,G#,0.149,-6.171,1,0.0828,126.018,4,0.701,Energizing,2,0,Excellent
+2017,4:99 - Jubiläums-Edition,Die Fantastischen Vier,Pop,Mit freundlichen Grüßen,0.134,0.787,215933,0.652,0,F,0.372,-9.902,1,0.127,91.008,4,0.721,Cool,-1,-1,Excellent
+2017,Stadtaffe,Peter Fox,Pop,Alles neu,0.186,0.811,260093,0.816,0,F,0.629,-4.887,1,0.129,133.876,4,0.313,Aggressive,2,-2,Excellent
+2017,Grenzenlos in diesem Moment,Glasperlenspiel,Pop,Grenzenlos,0.00145,0.521,224227,0.864,4.20E-06,D#,0.251,-4.44,1,0.0444,105.979,4,0.498,Energizing,2,0,Excellent
+2017,Carousel,Luxuslärm,Pop,Atemlos,0.0877,0.666,222391,0.787,0,E,0.112,-3.745,1,0.0283,121.998,4,0.288,Empowering,0,1,Excellent
+2017,So schön kaputt,SDP,Pop,So schön kaputt,0.367,0.735,195000,0.747,0,F,0.111,-6.124,0,0.0593,115.035,4,0.664,Energizing,2,0,Excellent
+2017,Am Wasser gebaut,Fettes Brot,Pop,An Tagen wie diesen,0.0251,0.664,241667,0.921,0,F#,0.175,-3.803,0,0.104,158.381,4,0.766,Energizing,2,0,Excellent
+2017,25,Die Fantastischen Vier,Pop,25,0.000785,0.725,191067,0.759,0,B,0.302,-7.039,1,0.0374,120.002,4,0.669,Aggressive,2,-2,Excellent
+2017,Astronaut,Sido,Pop,Astronaut,0.178,0.679,238203,0.648,0,F,0.09,-6.861,0,0.242,149.979,4,0.369,Cool,-1,-1,Excellent
+2017,Für Dich Immer Noch Fanta Sie,Die Fantastischen Vier,Pop,Gebt uns ruhig die Schuld (den Rest könnt ihr behalten),0.0563,0.797,254227,0.877,0,A#,0.118,-3.98,1,0.0943,160.048,4,0.871,Energizing,2,0,Excellent
+2017,SEEED,Seeed,Pop,Molotov,0.0223,0.795,145735,0.883,6.35E-06,G,0.125,-4.966,0,0.0687,109.003,4,0.491,Aggressive,2,-2,Excellent
+2017,Grenzenlos,Scala & Kolacny Brothers,Pop,Hungriges Herz,0.987,0.552,205133,0.33,0.185,D,0.236,-11.034,1,0.0319,150.431,4,0.265,Empowering,0,1,Excellent
+2017,You Make It Easy,Jason Aldean,Country,You Make It Easy,0.143,0.375,196800,0.574,0,E,0.11,-5.305,1,0.0315,132.025,3,0.406,Empowering,0,1,Excellent
+2017,Brett Young,Brett Young,Country,Mercy,0.832,0.639,217120,0.372,0,C#,0.101,-7.905,1,0.0269,72.006,4,0.223,Empowering,0,1,Excellent
+2017,Five More Minutes,Scotty McCreery,Country,Five More Minutes,0.325,0.517,238954,0.652,0,E,0.109,-6.153,1,0.0323,156.07,4,0.333,Empowering,0,1,Excellent
+2017,Life Changes,Thomas Rhett,Country,Marry Me,0.112,0.438,205453,0.403,0,C,0.132,-8.572,1,0.0258,84.787,4,0.458,Empowering,0,1,Excellent
+2017,Texoma Shore,Blake Shelton,Country,I Lived It,0.476,0.557,219600,0.571,0.00114,G,0.101,-8.106,1,0.0281,80.981,4,0.392,Empowering,0,1,Excellent
+2017,From A Room: Volume 1,Chris Stapleton,Country,Broken Halos,0.122,0.608,180907,0.581,3.71E-06,F,0.0585,-7.126,1,0.0252,78.623,4,0.523,Empowering,0,1,Excellent
+2017,What Makes You Country,Luke Bryan,Country,Most People Are Good,0.171,0.582,221801,0.722,0,F,0.139,-6.171,1,0.0293,149.952,4,0.592,Empowering,0,1,Excellent
+2017,On The Rocks,Midland,Country,Drinkin' Problem,0.0482,0.425,220800,0.778,6.53E-06,F#,0.312,-6.406,1,0.0372,203.72,4,0.684,Empowering,0,1,Excellent
+2017,Hallelujah Nights,LANCO,Country,Greatest Love Story,0.401,0.671,222573,0.617,0,G,0.119,-8.72,1,0.0561,147.986,4,0.62,Empowering,0,1,Excellent
+2017,Brett Young,Brett Young,Country,Like I Loved You,0.196,0.564,207187,0.582,0,A#,0.083,-6.033,1,0.0286,152.097,4,0.624,Empowering,0,1,Excellent
+2017,The Devil Don't Sleep,Brantley Gilbert,Country,The Ones That Like Me,0.0321,0.442,205267,0.837,0,D#,0.388,-3.775,1,0.0378,154.27,4,0.427,Empowering,0,1,Excellent
+2017,Brett Young,Brett Young,Country,In Case You Didn't Know,0.358,0.593,224853,0.542,0,G,0.104,-7.288,1,0.0309,147.969,4,0.427,Empowering,0,1,Excellent
+2017,Parallel Line,Keith Urban,Country,Parallel Line,0.226,0.624,253084,0.474,0,A,0.211,-5.152,1,0.0332,82.035,4,0.524,Empowering,0,1,Excellent
+2017,Break Up in the End,Cole Swindell,Country,Break Up in the End,0.456,0.51,199436,0.386,0,A#,0.252,-8.391,1,0.0307,86.36,4,0.266,Empowering,0,1,Excellent
+2017,Lee Brice,Lee Brice,Country,Boy,0.644,0.498,198973,0.408,0,D#,0.0993,-7.946,1,0.0331,78.942,4,0.383,Romantic,-1,1,Excellent
+2017,The Rest of Our Life,Tim McGraw,Country,The Rest of Our Life,0.65,0.617,225360,0.468,0,B,0.141,-6.908,1,0.0291,119.921,3,0.333,Empowering,0,1,Excellent
+2017,A Little Dive Bar in Dahlonega,Ashley McBryde,Country,A Little Dive Bar in Dahlonega,0.438,0.644,209067,0.506,0,A#,0.122,-4.797,1,0.0464,146.073,4,0.611,Empowering,0,1,Excellent
+2017,Chain Breaker (Deluxe Edition),Zach Williams,Country,Old Church Choir,0.125,0.675,176453,0.814,0,A,0.163,-5.816,1,0.0347,103.989,4,0.607,Empowering,0,1,Excellent
+2017,Every Little Thing,Carly Pearce,Country,Every Little Thing,0.456,0.641,180053,0.447,6.02E-06,A,0.097,-6.489,1,0.0482,69.996,4,0.301,Empowering,0,1,Excellent
+2017,Unapologetically,Kelsea Ballerini,Country,Legends,0.0575,0.577,245413,0.743,0,C#,0.0894,-5.415,1,0.0319,112.039,4,0.238,Empowering,0,1,Excellent
+2017,HERO (Deluxe Edition),Maren Morris,Country,I Could Use a Love Song,0.214,0.638,196422,0.634,0,D#,0.0866,-6.474,1,0.0468,92.097,4,0.473,Empowering,0,1,Excellent
+2017,From A Room: Volume 1,Chris Stapleton,Country,"Last Thing I Needed, First Thing This Morning",0.764,0.54,255027,0.27,3.22E-05,C#,0.123,-9.951,1,0.0291,83.541,3,0.233,Empowering,0,1,Excellent
+2017,The Rest of Our Life,Tim McGraw,Country,Speak to a Girl,0.641,0.466,232160,0.504,0,A#,0.226,-7.456,1,0.0396,151.719,3,0.222,Empowering,0,1,Excellent
+2017,From A Room: Volume 1,Chris Stapleton,Country,Either Way,0.871,0.645,248053,0.0665,5.94E-06,C#,0.105,-14.241,1,0.0421,129.028,4,0.274,Melancholy,-2,-1,Excellent
+2017,Life Changes,Thomas Rhett,Country,Grave,0.0431,0.55,193680,0.65,0,D,0.136,-5.433,1,0.0301,141.986,4,0.556,Empowering,0,1,Excellent
+2017,Life Changes,Thomas Rhett,Country,Sixteen,0.0145,0.705,178333,0.529,1.77E-06,A#,0.174,-7.003,1,0.0273,106.966,4,0.431,Empowering,0,1,Excellent
+2017,Getaway,Hudson Moore,Country,Might as Well,0.0205,0.548,217853,0.833,0,G#,0.0775,-4.177,1,0.046,108.093,4,0.469,Empowering,0,1,Excellent
+2017,My Old Man,Zac Brown Band,Country,My Old Man,0.819,0.64,227222,0.196,3.63E-05,C#,0.0978,-11.478,1,0.0267,143.919,4,0.301,Empowering,0,1,Excellent
+2017,Traveller,Chris Stapleton,Country,Tennessee Whiskey,0.205,0.387,293293,0.375,0.00647,F#,0.0807,-10.852,1,0.0355,50.454,4,0.503,Melancholy,-2,-1,Excellent
+2017,Dig Your Roots,Florida Georgia Line,Country,H.O.L.Y.,0.379,0.526,194187,0.675,0,E,0.0727,-3.989,0,0.0339,78,4,0.537,Empowering,0,1,Excellent
+2017,The Breaker,Little Big Town,Country,Better Man,0.128,0.52,263120,0.827,0,D,0.0841,-3.588,1,0.038,143.903,4,0.519,Empowering,0,1,Poor
+2017,Welcome Home,Zac Brown Band,Country,Roots,0.148,0.726,231173,0.595,0.000433,G#,0.106,-6.846,1,0.0393,115,4,0.696,Empowering,0,1,Poor
+2017,Damn Country Music (Deluxe Edition),Tim McGraw,Country,Humble And Kind,0.686,0.474,257347,0.478,1.07E-06,G#,0.122,-7.233,1,0.0272,151.397,3,0.142,Empowering,0,1,Poor
+2017,Deep South,Josh Turner,Country,Hometown Girl,0.289,0.503,215973,0.799,0.0889,C,0.118,-5.462,0,0.0336,155.956,4,0.477,Empowering,0,1,Poor
+2017,EVERYBODY,Chris Janson,Country,Fix a Drink,0.0297,0.563,188933,0.887,0,A#,0.352,-5.013,1,0.0857,158.05,4,0.794,Empowering,0,1,Poor
+2017,HERO (Deluxe Edition),Maren Morris,Country,My Church,0.243,0.517,197931,0.743,3.36E-06,F#,0.107,-4.336,1,0.0363,76.979,4,0.664,Empowering,0,1,Poor
+2017,If I'm Honest,Blake Shelton,Country,A Guy With a Girl,0.0158,0.552,189467,0.893,0,A,0.105,-4.593,1,0.0383,163.948,4,0.777,Empowering,0,1,Poor
+2017,Pain Killer,Little Big Town,Country,Girl Crush,0.843,0.506,193320,0.219,0,A,0.112,-10.18,1,0.0317,173.799,3,0.362,Empowering,0,1,Poor
+2017,Beggin' For More,Kyle Park,Country,The Night Is Young,0.0359,0.524,214533,0.845,0,A#,0.105,-4.828,1,0.0562,117.119,4,0.514,Empowering,0,1,Poor
+2017,Americana Master Series : Best of the Sugar Hill Years,Reckless Kelly,Country,Wicked Twisted Road,0.717,0.428,208027,0.385,0.00372,F#,0.0821,-10.257,1,0.0294,86.507,4,0.454,Empowering,0,1,Poor
+2017,Real Good Time,Aaron Watson,Country,Raise Your Bottle,0.032,0.595,212907,0.652,0,A,0.306,-6.08,1,0.0246,96.017,4,0.682,Empowering,0,1,Poor
+2017,Beggin' For More,Kyle Park,Country,Long Distance Relationship,0.702,0.47,187760,0.532,0,F,0.284,-6.085,1,0.0445,83.059,4,0.542,Romantic,-1,1,Poor
+2017,Anywhere in Texas,Kyle Park,Country,Tossin' And Turnin',0.00893,0.621,237280,0.574,0,F,0.0685,-9.395,1,0.0294,91.38,4,0.395,Empowering,0,1,Poor
+2017,Big Time,Kyle Park,Country,Somebody's Trying to Steal My Heart,0.354,0.573,195347,0.694,3.93E-06,E,0.0859,-5.783,1,0.0287,130.929,4,0.891,Empowering,0,1,Poor
+2017,Big Time,Kyle Park,Country,Alone in the Light,0.535,0.482,242653,0.399,1.33E-06,G,0.104,-8.269,1,0.0326,161.994,3,0.326,Empowering,0,1,Poor
+2017,Big Time,Kyle Park,Country,For All the Wrong Reasons,0.148,0.595,225613,0.57,9.34E-06,B,0.13,-6.506,1,0.0261,106.979,4,0.412,Empowering,0,1,Poor
+2017,Make Or Break Me,Kyle Park,Country,All Night,0.265,0.401,220707,0.775,0,B,0.169,-4.321,1,0.0388,177.866,4,0.531,Empowering,0,1,Poor
+2017,Anywhere in Texas,Kyle Park,Country,Cold In Colorado,0.029,0.316,203707,0.605,0,F#,0.303,-8.007,1,0.0348,156.072,4,0.525,Empowering,0,1,Poor
+2017,Anywhere in Texas,Kyle Park,Country,Day By Day,0.243,0.654,227973,0.54,0,C#,0.278,-9.385,1,0.0319,102.944,4,0.682,Romantic,-1,1,Poor
+2017,Anywhere in Texas,Kyle Park,Country,These Days,0.55,0.47,397027,0.448,0,E,0.114,-10.595,1,0.0616,125.874,4,0.264,Sentimental,-2,0,Poor
+2017,Real Good Time,Aaron Watson,Country,Lips,0.03,0.664,228680,0.672,0,F#,0.125,-4.918,1,0.0267,116.918,4,0.566,Empowering,0,1,Poor
+2017,Real Good Time,Aaron Watson,Country,Barbed Wire Halo,0.342,0.557,265267,0.395,0,F#,0.0939,-8.168,1,0.0324,113.921,3,0.354,Empowering,0,1,Poor
+2017,Real Good Time,Aaron Watson,Country,Honky Tonk Kid with Willie Nelson,0.345,0.61,253867,0.259,0,B,0.151,-9.996,1,0.0424,117.667,3,0.107,Empowering,0,1,Poor
+2017,The Road & The Rodeo,Aaron Watson,Country,Best For Last,0.686,0.553,224173,0.407,0,C#,0.161,-8.659,1,0.0266,71.492,3,0.267,Empowering,0,1,Poor
+2017,Real Good Time,Aaron Watson,Country,July In Cheyenne (Song For Lane's Momma),0.0385,0.581,262307,0.507,1.42E-05,C#,0.047,-7.523,1,0.0297,141.895,4,0.324,Empowering,0,1,Poor
+2017,Deep In The Heart Of Texas: Aaron Watson Live,Aaron Watson,Country,Hearts Are Breaking Across Texas,0.267,0.557,171480,0.445,0,B,0.292,-12.565,1,0.0344,117.669,4,0.397,Romantic,-1,1,Poor
+2017,Deep In The Heart Of Texas: Aaron Watson Live,Aaron Watson,Country,San Angelo,0.22,0.567,245333,0.376,0,G#,0.392,-11.773,1,0.0349,144.904,4,0.298,Empowering,0,1,Poor
+2017,Deep In The Heart Of Texas: Aaron Watson Live,Aaron Watson,Country,3rd Gear & 17,0.108,0.585,225120,0.696,0,E,0.789,-9.823,1,0.0369,147.85,4,0.515,Empowering,0,1,Poor
+2017,Deep In The Heart Of Texas: Aaron Watson Live,Aaron Watson,Country,Lonely Lubbock Lights,0.105,0.407,383147,0.309,0,G#,0.875,-11.782,1,0.0281,109.733,3,0.247,Empowering,0,1,Poor
+2017,Deep In The Heart Of Texas: Aaron Watson Live,Aaron Watson,Country,Off The Record,0.313,0.578,288640,0.321,0,D#,0.942,-13.19,0,0.057,142.517,4,0.374,Romantic,-1,1,Poor
+2017,Angels & Outlaws,Aaron Watson,Country,Can't Be A Cowboy Forever,0.683,0.419,192187,0.295,0,B,0.318,-10.114,1,0.0456,147.253,3,0.271,Romantic,-1,1,Poor
+2017,Real Good Time,Aaron Watson,Country,Leather And Lace with Elizabeth Cook,0.294,0.483,234413,0.491,6.35E-06,B,0.0954,-6.24,1,0.0253,157.981,4,0.207,Empowering,0,1,Poor
+2017,Real Good Time,Aaron Watson,Country,Texas Boys with Pat Green & Josh Abbott,0.00121,0.663,224707,0.715,2.73E-06,D,0.694,-6.509,1,0.0256,118.036,4,0.686,Empowering,0,1,Poor
+2017,Real Good Time,Aaron Watson,Country,Deer Blind with Kevin Fowler & John Anderson,0.0769,0.615,161507,0.661,0,D,0.346,-6.698,1,0.0442,143.916,4,0.841,Lively,1,2,Poor
+2017,Real Good Time,Aaron Watson,Country,Reckless,0.0185,0.623,222667,0.711,0,F#,0.0227,-6.813,1,0.164,157.095,4,0.705,Empowering,0,1,Poor
+2017,The Road & The Rodeo,Aaron Watson,Country,The Road,0.309,0.505,201147,0.702,0,C#,0.222,-6.163,1,0.149,203.991,4,0.641,Empowering,0,1,Poor
+2017,The Road & The Rodeo,Aaron Watson,Country,Walls,0.166,0.65,190467,0.698,4.05E-06,D#,0.097,-6.897,1,0.0316,136.93,4,0.728,Empowering,0,1,Poor
+2017,The Honky Tonk Kid,Aaron Watson,Country,Let's Lose Some Sleep Tonight,0.352,0.591,282987,0.316,0,G#,0.065,-10.41,0,0.0296,113.052,3,0.192,Empowering,0,1,Poor
+2017,The Honky Tonk Kid,Aaron Watson,Country,Next to Heaven,0.0589,0.62,251013,0.335,0,C#,0.144,-10.34,1,0.03,135.151,4,0.27,Romantic,-1,1,Poor
+2017,Shut Up And Dance,Aaron Watson,Country,Shut Up And Dance,0.409,0.532,266307,0.39,4.50E-06,F#,0.0674,-8.385,1,0.0267,129.808,3,0.317,Empowering,0,1,Poor
+2017,Bulletproof,Reckless Kelly,Country,Love In Her Eyes,0.000385,0.551,215400,0.825,7.82E-05,C#,0.0731,-5.01,1,0.0339,137.199,4,0.886,Empowering,0,1,Poor
+2017,Goodbye Normal Street,Turnpike Troubadours,Country,Good Lord Lorrie,0.274,0.555,301000,0.649,0,E,0.301,-6.756,1,0.0284,78.994,4,0.581,Empowering,0,1,Poor
+2017,Americana Master Series : Best of the Sugar Hill Years,Reckless Kelly,Country,Baby's Got a Whole Lot More,0.0374,0.49,168787,0.555,0.0018,A,0.194,-7.645,1,0.0252,148.183,4,0.585,Empowering,0,1,Poor
+2017,Goodbye Normal Street,Turnpike Troubadours,Country,Wrecked,0.0513,0.647,299413,0.638,7.90E-06,E,0.0857,-6.95,1,0.0327,128.129,4,0.704,Empowering,0,1,Poor
+2017,Diamonds & Gasoline,Turnpike Troubadours,Country,Long Hot Summer Day,0.105,0.464,252480,0.653,0,F#,0.0932,-5.776,1,0.0284,145.453,4,0.577,Empowering,0,1,Poor
+2017,Bossier City,Turnpike Troubadours,Country,Come November,0.186,0.567,230307,0.601,0,E,0.122,-9.926,1,0.0379,77.35,4,0.378,Empowering,0,1,Average
+2017,Bossier City,Turnpike Troubadours,Country,Three Rivers Song,0.701,0.379,309533,0.568,0.815,E,0.336,-7.659,1,0.0424,113.989,4,0.278,Melancholy,-2,-1,Average
+2017,Firewater,Whiskey Myers,Country,Ballad Of A Southern Man,0.432,0.605,220187,0.53,0,E,0.095,-6.566,1,0.0261,73.986,1,0.38,Empowering,0,1,Average
+2017,Firewater,Whiskey Myers,Country,Virginia,0.187,0.523,260507,0.476,0.00117,F#,0.133,-6.47,0,0.0274,129.95,4,0.157,Empowering,0,1,Average
+2017,Moving On,Casey Donahew,Country,Breaks My Heart,0.00193,0.485,232240,0.621,0,E,0.108,-7.486,1,0.0274,134.037,4,0.332,Empowering,0,1,Average
+2017,Moving On,Casey Donahew,Country,Nowhere Fast,0.0233,0.517,212573,0.628,0,B,0.0746,-7.556,1,0.0371,166.013,4,0.665,Empowering,0,1,Average
+2017,Moving On,Casey Donahew,Country,Break Me Down,0.05,0.539,230387,0.533,0,B,0.211,-8.307,1,0.0261,140.081,4,0.377,Empowering,0,1,Average
+2017,Moving On,Casey Donahew,Country,Strong Enough,0.0651,0.647,207920,0.642,0,F#,0.257,-7.372,1,0.0262,116.092,4,0.607,Empowering,0,1,Average
+2017,Moving On,Casey Donahew,Country,Broken,0.00363,0.581,212053,0.63,0,B,0.0986,-6.843,1,0.028,118.007,4,0.499,Empowering,0,1,Average
+2017,Moving On,Casey Donahew,Country,Angel,0.112,0.534,271800,0.457,0,F#,0.0971,-8.901,1,0.0276,144.028,4,0.436,Empowering,0,1,Average
+2018,Summer Forever,Billy Currington,Country,It Don't Hurt Like It Used To,0.083,0.503,184506,0.824,0,C,0.21,-4.039,1,0.0524,161.981,4,0.448,Empowering,0,1,Average
+2018,Night's On Fire,David Nail,Country,Night's On Fire,0.247,0.539,189507,0.779,2.71E-06,C#,0.386,-4.139,1,0.0432,164.029,4,0.705,Empowering,0,1,Average
+2018,Mr. Misunderstood,Eric Church,Country,Kill A Word,0.0165,0.653,199213,0.73,1.40E-06,B,0.0894,-8.018,1,0.0378,85.015,4,0.615,Empowering,0,1,Average
+2018,Hearts On Fire,Chad Brownlee,Country,Somethin' We Shouldn't Do,0.00525,0.462,191573,0.784,6.90E-05,C#,0.286,-6.242,1,0.0411,122.042,4,0.418,Empowering,0,1,Average
+2018,Just Got Paid,Emerson Drive,Country,Just Got Paid,0.0943,0.608,180693,0.782,0,G,0.0787,-5.799,1,0.0523,171.892,4,0.681,Empowering,0,1,Average
+2018,Wasn't That Drunk (W/ Carly Pearce) [Act 2],Josh Abbott Band,Country,Wasn't That Drunk (W/ Carly Pearce) [Act 2],0.0114,0.561,223451,0.906,1.43E-06,A,0.173,-5.147,0,0.0504,113.989,4,0.431,Empowering,0,1,Average
+2018,You Should Be Here,Cole Swindell,Country,Middle of a Memory,0.0972,0.531,226307,0.746,0,G#,0.102,-4.228,1,0.0329,139.788,4,0.304,Empowering,0,1,Average
+2018,Back To Us,Rascal Flatts,Country,Yours If You Want It,0.00926,0.548,206827,0.909,0,F,0.109,-3.1,1,0.0557,113.067,4,0.413,Empowering,0,1,Average
+2018,Side Effects,Dallas Smith,Country,Side Effects,0.0033,0.622,177400,0.855,1.29E-06,C#,0.115,-3.902,1,0.0374,110.102,4,0.702,Empowering,0,1,Average
+2018,Shake These Walls,Tim Hicks,Country,Slide Over,0.00139,0.394,190387,0.933,1.50E-05,C,0.306,-3.678,1,0.0553,172.009,4,0.471,Empowering,0,1,Average
+2018,Hometown Kids,The Reklaws,Country,Hometown Kids,0.000179,0.58,186227,0.79,0,D,0.251,-6.053,1,0.0339,107.936,4,0.795,Empowering,0,1,Average
+2018,Rescue,Hunter Hayes,Country,Rescue,0.294,0.52,216529,0.791,0,D#,0.116,-3.499,1,0.0378,90.095,4,0.29,Romantic,-1,1,Average
+2018,Ryan Hurd - EP,Ryan Hurd,Country,Hold You Back,0.334,0.594,214177,0.629,0,F#,0.0796,-6.776,1,0.0321,133.967,4,0.645,Empowering,0,1,Average
+2018,Life Changes,Thomas Rhett,Country,Sixteen,0.0147,0.707,178333,0.531,2.11E-06,A#,0.175,-7.014,1,0.0273,106.992,4,0.417,Empowering,0,1,Average
+2018,Mr. Misunderstood,Eric Church,Country,Record Year,0.178,0.585,179347,0.655,0,D,0.0842,-8.151,1,0.12,159.96,4,0.574,Empowering,0,1,Average
+2018,Kane Brown,Kane Brown,Country,Thunder in the Rain,0.000555,0.549,164920,0.877,0,D#,0.0969,-5.008,1,0.0317,110.963,4,0.377,Empowering,0,1,Average
+2018,Liquor's Callin' the Shots,Eric Ethridge,Country,Liquor's Callin' the Shots,0.0277,0.447,217839,0.96,0,B,0.0318,-1.979,1,0.0588,158.104,4,0.533,Empowering,0,1,Average
+2018,Dig Your Roots,Florida Georgia Line,Country,H.O.L.Y.,0.385,0.525,194187,0.685,0,E,0.0731,-3.954,0,0.0351,78.003,4,0.54,Empowering,0,1,Average
+2018,Obsessed,Dan + Shay,Country,How Not To,0.208,0.501,192000,0.836,0,G#,0.152,-3.587,0,0.0491,159.863,4,0.618,Empowering,0,1,Average
+2018,When I Do,Alee,Country,When I Do,0.0637,0.404,203920,0.785,1.70E-06,D#,0.121,-4.336,1,0.0576,74.994,4,0.584,Empowering,0,1,Average
+2018,City Girl,Ryan Hurd,Country,City Girl,0.0138,0.567,247315,0.795,0,G#,0.0862,-6.202,0,0.0292,134.009,4,0.415,Empowering,0,1,Average
+2018,Livin' on Summertime,Gord Bamford,Country,Livin' on Summertime,0.321,0.529,202981,0.818,0,D#,0.246,-3.624,1,0.0276,89.016,4,0.688,Energizing,2,0,Average
+2018,Illinois,Brett Eldredge,Country,Wanna Be That Song,0.114,0.518,236227,0.686,0,F#,0.114,-4.911,1,0.0313,144.065,4,0.334,Empowering,0,1,Average
+2018,Later,David James,Country,Later,0.0385,0.516,165840,0.851,0,G#,0.279,-5.013,0,0.0493,164.936,4,0.605,Empowering,0,1,Average
+2018,Up Down (Feat. Florida Georgia Line),Morgan Wallen,Country,Up Down (Feat. Florida Georgia Line),0.0913,0.59,196240,0.881,0,D#,0.157,-2.898,1,0.0349,129.928,4,0.734,Cool,-1,-1,Average
+2018,Every Little Thing,Carly Pearce,Country,Every Little Thing,0.44,0.637,180053,0.444,5.46E-06,A,0.0954,-6.355,1,0.0417,139.775,4,0.319,Empowering,0,1,Average
+2018,LANCO - EP,LANCO,Country,Greatest Love Story,0.38,0.665,222400,0.621,0,G,0.119,-8.571,1,0.0524,147.975,4,0.632,Empowering,0,1,Average
+2018,Getaway,Hunter Brothers,Country,Born And Raised,0.0864,0.525,181933,0.906,0,G#,0.238,-3.191,0,0.0748,114.993,4,0.471,Empowering,0,1,Average
+2018,Dear Life,High Valley,Country,Young Forever,0.000497,0.565,220240,0.898,0,F#,0.208,-4.693,1,0.0372,146.025,4,0.731,Empowering,0,1,Average
+2018,Chris Buck Band,Chris Buck Band,Country,That's When You Know,0.0692,0.523,207399,0.809,0,C,0.111,-7.257,1,0.044,147.881,4,0.663,Empowering,0,1,Average
+2018,Down Home Sessions IV,Cole Swindell,Country,Get Me Some of That,0.272,0.585,191640,0.753,0,D#,0.197,-5.871,1,0.0626,171.987,4,0.892,Romantic,-1,1,Good
+2018,Parallel Line,Keith Urban,Country,Parallel Line,0.204,0.617,253084,0.482,0,A,0.216,-5.121,1,0.0322,81.73,4,0.508,Empowering,0,1,Good
+2018,Theatre of Pain,Mötley Crüe,Rock,Home Sweet Home,0.0999,0.403,240933,0.777,3.28E-06,D,0.124,-6.416,1,0.0354,76.329,4,0.149,Empowering,0,1,Good
+2018,Open Up And Say...Ahh! - 20th Anniversary Edition,Poison,Rock,Every Rose Has Its Thorn - 2003 - Remaster,0.16,0.533,260173,0.637,1.12E-05,D#,0.369,-5.571,1,0.0323,140.167,4,0.292,Empowering,0,1,Good
+2018,Long Cold Winter,Cinderella,Rock,Don't Know What You Got (Till It's Gone),0.229,0.36,354640,0.527,0.000792,F#,0.0536,-9.883,1,0.0289,132.639,4,0.247,Empowering,0,1,Good
+2018,1987 (2007 Remaster),Whitesnake,Rock,Here I Go Again 87 - 2007 Remastered Version,0.207,0.39,270160,0.898,6.64E-05,E,0.217,-4.089,1,0.045,90.703,4,0.204,Empowering,0,1,Good
+2018,Appetite For Destruction,Guns N' Roses,Rock,Sweet Child O' Mine,0.141,0.449,356400,0.901,0.0675,D#,0.128,-7.711,1,0.0526,125.148,4,0.696,Empowering,0,1,Good
+2018,Best Of '81 To '85,Y&T,Rock,Summertime Girls - Studio Version,0.0025,0.423,209067,0.696,2.44E-06,C#,0.221,-11.589,1,0.0335,129.02,4,0.786,Melancholy,-2,-1,Good
+2018,WASP,W.A.S.P.,Rock,I Wanna Be Somebody,0.00081,0.296,223533,0.83,0,A#,0.263,-7.051,0,0.0505,164.124,4,0.478,Aggressive,2,-2,Good
+2018,Rocky IV,Survivor,Rock,Eye of the Tiger,0.132,0.817,245640,0.599,0.000311,A,0.0873,-9.249,0,0.0328,108.873,4,0.548,Energizing,2,0,Good
+2018,Lita,Lita Ford,Rock,Kiss Me Deadly,0.00819,0.468,241800,0.743,7.88E-05,A,0.369,-10.846,1,0.0326,156.103,4,0.648,Empowering,0,1,Good
+2018,Skid Row,Skid Row,Rock,I Remember You,0.00642,0.345,313693,0.531,7.28E-06,A,0.14,-12.708,1,0.0305,176.302,4,0.49,Empowering,0,1,Good
+2018,Dirty Rotten Filthy Stinking Rich,Warrant,Rock,Heaven,0.115,0.462,236867,0.488,0,D#,0.128,-11.143,1,0.0287,145.789,4,0.33,Empowering,0,1,Good
+2018,Bon Jovi,Bon Jovi,Rock,Runaway,0.00482,0.476,230667,0.897,2.38E-05,F#,0.152,-4.237,0,0.0627,152.497,4,0.667,Empowering,0,1,Good
+2018,Damn Yankees,Damn Yankees,Rock,High Enough,0.0241,0.273,287320,0.537,0,B,0.0922,-9.612,1,0.0306,81.814,4,0.232,Empowering,0,1,Good
+2018,British Steel,Judas Priest,Rock,Living After Midnight,0.0136,0.61,210133,0.824,1.75E-06,C#,0.0606,-6.046,1,0.0534,134.992,4,0.819,Aggressive,2,-2,Good
+2018,Midnight Madness,Night Ranger,Rock,Sister Christian,0.159,0.447,302933,0.348,1.98E-06,D,0.0835,-16.199,1,0.039,177.356,4,0.227,Empowering,0,1,Good
+2018,Time's Makin' Changes: The Best Of Tesla,Tesla,Rock,Love Song,0.36,0.341,321267,0.406,0.0519,B,0.126,-8.139,1,0.0359,79.995,4,0.33,Empowering,0,1,Good
+2018,Firehouse,Firehouse,Rock,Don't Treat Me Bad,0.000303,0.616,235360,0.807,2.37E-05,F,0.193,-11.4,1,0.0348,111.054,4,0.637,Empowering,0,1,Good
+2018,Escape,Journey,Rock,Don't Stop Believin',0.127,0.5,250987,0.748,0,C#,0.447,-9.072,1,0.0363,118.852,4,0.514,Empowering,0,1,Good
+2018,Wake Me When It's Over,Faster Pussycat,Rock,House Of Pain,0.0766,0.519,346627,0.61,6.49E-05,A,0.248,-10.256,1,0.036,121.324,4,0.232,Empowering,0,1,Good
+2018,Vixen,Vixen,Rock,Cryin',0.146,0.657,211907,0.567,2.00E-05,F#,0.0554,-12.871,1,0.0261,109.007,4,0.563,Empowering,0,1,Good
+2018,Crazy World,Scorpions,Rock,Wind Of Change,0.297,0.453,313227,0.543,0,A,0.0928,-10.106,1,0.0366,151.362,4,0.282,Empowering,0,1,Good
+2018,Siamese Dream (2011 - Remaster),The Smashing Pumpkins,Rock,Cherub Rock,5.91E-06,0.382,298253,0.867,0.581,F#,0.196,-7.426,1,0.0399,87.309,4,0.453,Aggressive,2,-2,Good
+2018,Blind Melon,Blind Melon,Rock,No Rain,0.619,0.389,217107,0.476,5.09E-05,F#,0.255,-9.342,1,0.0316,148.117,4,0.566,Empowering,0,1,Good
+2018,Sublime (Explicit Version),Sublime,Rock,Santeria,0.0223,0.673,183200,0.772,1.23E-06,A#,0.141,-5.246,0,0.0427,90.356,4,0.585,Cool,-1,-1,Good
+2018,Ten,Pearl Jam,Rock,Alive,0.00541,0.298,341160,0.825,1.46E-05,B,0.44,-8.053,1,0.0408,75.592,4,0.54,Empowering,0,1,Good
+2018,Urban Hymns,The Verve,Rock,Bitter Sweet Symphony,0.0415,0.389,358427,0.889,0,F#,0.463,-6.546,1,0.0442,171.121,4,0.524,Empowering,0,1,Good
+2018,"Hints, Allegations & Things Left Unsaid",Collective Soul,Rock,Shine,0.294,0.54,306040,0.423,0.0884,D#,0.152,-8.799,1,0.0283,150.135,4,0.353,Empowering,0,1,Good
+2018,(What's The Story) Morning Glory? (Deluxe Edition) [Remastered],Oasis,Rock,Champagne Supernova - Remastered,0.47,0.286,448438,0.796,0.063,B,0.364,-4.625,1,0.0388,150.272,4,0.12,Empowering,0,1,Good
+2018,The Downward Spiral,Nine Inch Nails,Rock,Closer,0.000365,0.559,373307,0.725,0.553,G,0.112,-8.631,0,0.0426,90.012,4,0.501,Aggressive,2,-2,Good
+2018,Siamese Dream (2011 - Remaster),The Smashing Pumpkins,Rock,Disarm,0.142,0.527,196920,0.418,0.775,C#,0.139,-10.204,0,0.0277,129.516,4,0.218,Empowering,0,1,Good
+2018,Holiday Man,The Flys,Rock,Got You (Where I Want You),0.000405,0.47,242453,0.644,0.293,F,0.134,-6.721,1,0.0269,75.597,4,0.521,Empowering,0,1,Good
+2018,Vs.,Pearl Jam,Rock,Daughter (Remastered),0.00746,0.615,234333,0.702,0.00431,E,0.0608,-9.686,1,0.0278,96.99,4,0.734,Empowering,0,1,Good
+2018,Candlebox,Candlebox,Rock,Far Behind,0.00187,0.552,299733,0.645,1.38E-06,E,0.0424,-6.595,1,0.0268,89.518,4,0.588,Empowering,0,1,Good
+2018,Grace (Legacy Edition),Jeff Buckley,Rock,Hallelujah,0.921,0.339,413320,0.143,0.000636,A,0.372,-10.78,1,0.0317,101.213,3,0.0948,Sentimental,-2,0,Good
+2018,Wish,The Cure,Rock,Friday I'm In Love,0.000972,0.526,214400,0.762,0.000116,A,0.338,-12.437,0,0.0342,136.203,4,0.505,Empowering,0,1,Good
+2018,The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition,The Presidents Of The United States Of America,Rock,Lump,0.00468,0.499,134200,0.873,0,D#,0.165,-3.902,1,0.0386,142.726,4,0.864,Aggressive,2,-2,Good
+2018,Superunknown (20th Anniversary),Soundgarden,Rock,Spoonman,1.90E-05,0.274,246920,0.906,0.257,A,0.273,-5.587,1,0.0404,185.959,3,0.783,Aggressive,2,-2,Good
+2018,Villains,The Verve Pipe,Rock,The Freshmen,0.0757,0.571,269467,0.505,1.04E-05,A#,0.109,-9.312,0,0.0238,99.562,4,0.276,Empowering,0,1,Good
+2018,Nothing's Shocking,Jane's Addiction,Rock,Jane Says,0.0387,0.426,286987,0.65,3.76E-06,E,0.126,-7.747,1,0.0332,82.184,4,0.493,Empowering,0,1,Good
+2018,Resident Alien,Spacehog,Rock,In The Meantime,0.083,0.269,299507,0.895,0.00266,F#,0.153,-6.382,1,0.118,168.479,4,0.16,Empowering,0,1,Very Good
+2018,Absolute Garbage,Garbage,Rock,Stupid Girl,0.00336,0.588,258133,0.804,0.00172,G#,0.0358,-4.006,1,0.0333,120.015,4,0.736,Empowering,0,1,Very Good
+2018,Above,Mad Season,Rock,River Of Deceit,0.111,0.461,302693,0.246,0.000374,A,0.0963,-13.487,1,0.0298,88.446,4,0.178,Sentimental,-2,0,Very Good
+2018,God Shuffled His Feet,Crash Test Dummies,Rock,Mmm Mmm Mmm Mmm,0.25,0.58,235173,0.575,1.83E-05,C,0.0813,-7.72,1,0.0231,92.934,4,0.37,Empowering,0,1,Very Good
+2018,Sticky Fingers (Remastered),The Rolling Stones,Rock,Wild Horses,0.669,0.371,341773,0.404,0.00453,E,0.0805,-6.452,1,0.0255,74.386,4,0.153,Empowering,0,1,Very Good
+2018,Imagine,John Lennon,Rock,Imagine - 2010 - Remaster,0.907,0.547,187867,0.257,0.183,A,0.0935,-12.358,1,0.0252,75.752,4,0.169,Sentimental,-2,0,Very Good
+2018,Let It Be (Remastered),The Beatles,Rock,Let It Be - Remastered,0.631,0.443,243027,0.403,0,A,0.111,-8.339,1,0.0322,143.462,4,0.41,Lively,1,2,Very Good
+2018,Outlandos D'Amour,The Police,Rock,Roxanne - Remastered 2003,0.026,0.608,191947,0.746,2.39E-06,A,0.043,-8.851,1,0.354,134.03,4,0.745,Cool,-1,-1,Very Good
+2018,Tom Petty & The Heartbreakers,Tom Petty and the Heartbreakers,Rock,American Girl,0.448,0.55,214733,0.824,0.000127,B,0.366,-5.988,1,0.0334,114.512,4,0.777,Empowering,0,1,Very Good
+2018,The Dark Side of the Moon,Pink Floyd,Rock,Brain Damage,0.0726,0.322,226667,0.265,0.34,B,0.366,-13.398,1,0.0302,133.577,4,0.207,Sentimental,-2,0,Very Good
+2018,The Wall,Pink Floyd,Rock,Comfortably Numb,0.15,0.472,382297,0.366,0.308,G#,0.0837,-12.595,0,0.0286,127.167,4,0.171,Empowering,0,1,Very Good
+2018,The Best Of Don McLean,Don McLean,Rock,American Pie,0.6,0.527,515867,0.509,0,E,0.144,-10.893,1,0.0628,138.317,4,0.497,Sentimental,-2,0,Very Good
+2018,The Joker,Steve Miller Band,Rock,The Joker,0.394,0.424,264504,0.446,3.78E-06,D,0.16,-9.618,1,0.0525,165.158,4,0.794,Empowering,0,1,Very Good
+2018,News Of The World (Deluxe Remastered Version),Queen,Rock,We Will Rock You - Remastered 2011,0.688,0.692,122067,0.488,0,G#,0.4,-7.282,0,0.104,81.4,4,0.51,Empowering,0,1,Very Good
+2018,Agents Of Fortune,Blue Öyster Cult,Rock,(Don't Fear) The Reaper,0.0029,0.333,308120,0.927,0.000211,F#,0.297,-8.55,0,0.0733,141.47,4,0.382,Empowering,0,1,Very Good
+2018,Running On Empty,Jackson Browne,Rock,Running On Empty,0.006,0.531,298093,0.948,0.0117,F#,0.694,-5.438,1,0.0568,136.891,4,0.498,Empowering,0,1,Very Good
+2018,Honky Chateau (Remastered),Elton John,Rock,Rocket Man (I Think It's Going To Be A Long Long Time),0.386,0.602,281613,0.522,1.44E-05,G,0.0941,-9.031,1,0.0285,136.637,4,0.36,Empowering,0,1,Very Good
+2018,Sweet Baby James,James Taylor,Rock,Fire And Rain,0.499,0.611,200579,0.35,7.84E-06,D,0.0844,-14.48,1,0.0356,76.064,4,0.36,Empowering,0,1,Very Good
+2018,All Things Must Pass (Remastered),George Harrison,Rock,My Sweet Lord,0.0794,0.538,281227,0.704,0,A#,0.0867,-8.904,0,0.0332,120.963,4,0.583,Sentimental,-2,0,Very Good
+2018,All The Young Dudes,Mott The Hoople,Rock,All the Young Dudes,0.208,0.429,211067,0.668,0,C#,0.538,-7.539,0,0.044,77.737,4,0.398,Empowering,0,1,Very Good
+2018,Cat Scratch Fever,Ted Nugent,Rock,Cat Scratch Fever,0.0049,0.549,219400,0.916,0.123,C#,0.104,-4.185,0,0.034,127.131,4,0.632,Aggressive,2,-2,Very Good
+2018,Bridge Over Troubled Water,Simon & Garfunkel,Rock,Bridge Over Troubled Water,0.822,0.149,293120,0.206,0.000649,C,0.115,-13.888,1,0.0323,79.764,4,0.264,Sentimental,-2,0,Very Good
+2018,Moondance (Deluxe Edition),Van Morrison,Rock,Caravan,0.294,0.641,300800,0.397,0.000717,E,0.0496,-12.285,1,0.0454,81.962,4,0.57,Empowering,0,1,Very Good
+2018,Deguello,ZZ Top,Rock,Cheap Sunglasses,0.148,0.617,288400,0.461,0.0151,D,0.12,-14.485,0,0.0434,93.853,4,0.828,Energizing,2,0,Very Good
+2018,Straight Shooter,Bad Company,Rock,Feel Like Makin' Love - 2015 Remastered Version,0.326,0.543,313840,0.529,0.00269,E,0.709,-9.717,1,0.0301,85.126,4,0.746,Empowering,0,1,Very Good
+2018,Infest,Papa Roach,Rock,Last Resort,0.000504,0.581,199893,0.887,0.00111,C#,0.268,-3.659,0,0.0624,90.578,4,0.724,Aggressive,2,-2,Very Good
+2018,Break The Cycle (Parental Advisory),Staind,Rock,It's Been Awhile,0.00189,0.509,264707,0.774,0.000549,D#,0.143,-4.054,1,0.0338,116.529,4,0.0824,Empowering,0,1,Very Good
+2018,Dark Horse,Nickelback,Rock,If Today Was Your Last Day,0.000138,0.449,248040,0.936,0,D,0.241,-4.221,0,0.0502,89.902,4,0.631,Empowering,0,1,Very Good
+2018,All The Right Reasons,Nickelback,Rock,Far Away,0.000696,0.518,238173,0.797,0,D#,0.107,-5.153,1,0.0309,132.915,4,0.293,Empowering,0,1,Very Good
+2015,All The Right Reasons,Nickelback,Rock,Fight For All The Wrong Reasons,3.45E-05,0.344,224267,0.913,0.000482,G,0.0602,-4.401,0,0.0444,113.317,5,0.737,Aggressive,2,-2,Very Good
+2015,Appetite For Destruction,Guns N' Roses,Rock,Sweet Child O' Mine,0.0801,0.451,356080,0.911,0.146,D#,0.236,-7.765,1,0.0466,125.122,4,0.63,Empowering,0,1,Very Good
+2015,Science & Faith,The Script,Rock,For the First Time,0.0328,0.396,252853,0.629,0,F#,0.183,-4.78,1,0.0287,173.794,4,0.358,Empowering,0,1,Very Good
+2015,Use Your Illusion II,Guns N' Roses,Rock,Knockin' On Heaven's Door,0.0204,0.486,336000,0.744,0.00298,D#,0.112,-7.176,1,0.0404,132.446,4,0.362,Empowering,0,1,Very Good
+2015,Pronounced' Leh-'Nerd 'Skin-'Nerd,Lynyrd Skynyrd,Rock,Simple Man,0.0504,0.425,356640,0.767,0.000138,D#,0.168,-8.646,1,0.0413,120.539,4,0.442,Empowering,0,1,Very Good
+2015,Second Helping,Lynyrd Skynyrd,Rock,Sweet Home Alabama,0.183,0.602,283800,0.606,0.000178,E,0.0847,-12.078,1,0.0262,97.827,4,0.893,Empowering,0,1,Very Good
+2015,The Game (Deluxe Remastered Version),Queen,Rock,Another One Bites The Dust,0.115,0.951,214653,0.53,0.179,D,0.17,-6.594,0,0.178,109.979,4,0.699,Aggressive,2,-2,Very Good
+2015,Saint's and Sinners [Remastered] (Remastered Version),Whitesnake,Rock,Here I Go Again,0.369,0.234,308240,0.75,0.000805,C#,0.139,-7.034,0,0.0738,173.82,4,0.316,Empowering,0,1,Very Good
+2015,A Night At The Opera (Deluxe Remastered Version),Queen,Rock,Bohemian Rhapsody,0.254,0.397,354320,0.396,0,C,0.268,-9.91,1,0.05,142.913,4,0.227,Lively,1,2,Very Good
+2015,Extreme Behavior,Hinder,Rock,Lips Of An Angel,0.0217,0.476,261853,0.736,1.08E-06,B,0.203,-5.38,1,0.0343,129.084,4,0.251,Empowering,0,1,Very Good
+2015,Fuck,Buckcherry,Rock,Say Fuck It,0.000919,0.545,175285,0.836,0.00883,D#,0.13,-4.264,1,0.0476,126.079,4,0.595,Empowering,0,1,Very Good
+2015,Awake,Godsmack,Rock,Awake,2.42E-05,0.401,304367,0.763,0.00629,A,0.313,-4.153,1,0.0547,112.058,4,0.48,Aggressive,2,-2,Very Good
+2015,American Tragedy (Deluxe Edition),Hollywood Undead,Rock,Been To Hell,0.00023,0.441,203160,0.925,0,B,0.148,-3.547,1,0.19,149.081,4,0.651,Aggressive,2,-2,Very Good
+2015,1000hp,Godsmack,Rock,Locked & Loaded,0.000143,0.466,252792,0.955,4.20E-06,B,0.149,-3.195,1,0.0745,97.733,3,0.381,Aggressive,2,-2,Very Good
+2015,Believe (Amended Version),Disturbed,Rock,Prayer,0.000642,0.65,218973,0.914,1.23E-06,F#,0.0251,-4.672,1,0.0716,99.107,4,0.586,Aggressive,2,-2,Very Good
+2015,Smoke & Mirrors,Lifehouse,Rock,From Where You Are,0.132,0.239,181280,0.418,3.33E-06,F#,0.112,-10.781,0,0.0287,81.23,4,0.311,Empowering,0,1,Very Good
+2015,The Sound of Madness,Shinedown,Rock,Call Me,0.438,0.413,222200,0.445,0,A#,0.111,-7.259,0,0.025,95.562,4,0.117,Melancholy,-2,-1,Very Good
+2015,The Studio Album Collection,Shinedown,Rock,I'll Follow You,0.00193,0.537,238760,0.692,0,G,0.114,-4.159,1,0.0315,125.037,3,0.286,Empowering,0,1,Very Good
+2015,Believe (Amended Version),Disturbed,Rock,Rise,0.0002,0.597,235827,0.976,0.000164,G#,0.114,-3.998,0,0.0646,97.597,3,0.584,Aggressive,2,-2,Very Good
+2015,Faceless,Godsmack,Rock,I Fucking Hate You,5.01E-05,0.496,247040,0.977,0,A,0.093,-4.752,1,0.0884,126.804,5,0.189,Aggressive,2,-2,Very Good
+2015,Fortress,Alter Bridge,Rock,Addicted To Pain,1.96E-05,0.517,256873,0.991,0.000292,A#,0.164,-3.833,1,0.0957,118.018,4,0.321,Aggressive,2,-2,Very Good
+2015,Paradise,George Ezra,Rock,Paradise,0.209,0.642,222045,0.881,0,G#,0.21,-3.537,1,0.0393,138.03,4,0.913,Empowering,0,1,Very Good
+2015,One More Light,Linkin Park,Rock,One More Light,0.904,0.593,255067,0.2,0,F,0.0897,-11.063,1,0.0311,83.966,4,0.17,Melancholy,-2,-1,Very Good
+2015,Melodrama,Lorde,Rock,Hard Feelings/Loveless,0.0316,0.418,367391,0.448,0.0106,A#,0.0781,-10.975,0,0.263,188.623,4,0.17,Cool,-1,-1,Excellent
+2015,Broken Heart,Escape the Fate,Rock,Broken Heart,0.0108,0.528,187372,0.861,0,B,0.268,-4.309,1,0.0518,95.02,4,0.591,Empowering,0,1,Excellent
+2015,Heaven Upside Down,Marilyn Manson,Rock,Tattooed In Reverse,0.00074,0.522,264453,0.673,3.21E-05,B,0.315,-5.784,1,0.0429,136.98,4,0.307,Aggressive,2,-2,Excellent
+2015,Wonderful Wonderful,The Killers,Rock,The Man,0.0725,0.614,250093,0.944,2.52E-06,D#,0.0708,-2.545,0,0.104,106.014,4,0.546,Energizing,2,0,Excellent
+2015,Lust For Life,Lana Del Rey,Rock,White Mustang,0.428,0.652,164710,0.462,0.00226,D#,0.107,-8.683,0,0.0487,114.932,4,0.265,Empowering,0,1,Excellent
+2015,Woodstock,Portugal. The Man,Rock,Feel It Still,0.0417,0.801,163253,0.795,0.000113,A#,0.0717,-5.115,0,0.0504,79.028,4,0.754,Cool,-1,-1,Excellent
+2015,Don’t Stay,X Ambassadors,Rock,Don't Stay,0.199,0.726,189800,0.493,5.27E-05,F#,0.0986,-5.988,0,0.0479,102.018,4,0.495,Cool,-1,-1,Excellent
+2015,Ahead Of Myself,X Ambassadors,Rock,Ahead Of Myself,0.0015,0.587,223147,0.549,0,D,0.0862,-7.817,1,0.0347,89.952,4,0.364,Cool,-1,-1,Excellent
+2015,One More Light,Linkin Park,Rock,Good Goodbye (feat. Pusha T and Stormzy),0.106,0.697,211413,0.84,0,F#,0.748,-4.602,0,0.054,128.034,4,0.452,Cool,-1,-1,Excellent
+2015,The Serenity of Suffering,Korn,Rock,Black Is The Soul,1.77E-05,0.465,241147,0.946,0.0844,F#,0.134,-4.205,1,0.068,133.802,4,0.338,Aggressive,2,-2,Excellent
+2015,"Alessio Bax Plays Beethoven: Hammerklavier & Moonlight Sonatas, The Ruins of Athens",Ludwig van Beethoven,Classical,"Sonata No. 14 in C-Sharp Minor, Op. 27, No. 2 ""Moonlight"": I. Adagio sostenuto",0.993,0.112,303973,0.00376,0.953,A#,0.0936,-41.816,0,0.0499,63.364,4,0.104,Sentimental,-2,0,Excellent
+2015,Beethoven: The Piano Sonatas,Ludwig van Beethoven,Classical,"Piano Sonata No.27 In E Minor, Op.90: 1. Mit Lebhaftigkeit und durchaus mit Empfindung und Ausdruck",0.993,0.446,341000,0.0345,0.909,C#,0.174,-22.027,0,0.0453,138.254,3,0.0494,Sentimental,-2,0,Excellent
+2015,Mozart: Le nozze di Figaro,Wolfgang Amadeus Mozart,Classical,"Le Nozze di Figaro, K. 492: Sinfonia",0.839,0.386,251200,0.0738,0.947,B,0.155,-19.369,1,0.0433,142.499,4,0.172,Lively,1,2,Excellent
+2015,"Mozart: Piano Concertos No.20 in D minor, K.466 & No.27 in B flat, K.595",Wolfgang Amadeus Mozart,Classical,"Piano Concerto No.20 in D minor, K.466: 2. Romance - Live At Severance Hall, Cleveland / 2010",0.988,0.209,575760,0.0314,0.84,G,0.102,-26.249,1,0.0343,81.629,4,0.0983,Sentimental,-2,0,Excellent
+2015,"Mozart: Piano Trios K. 548, 542 & 502 (Standard Version)",Wolfgang Amadeus Mozart,Classical,"Piano Trio In C, K.548: 2. Andante cantabile - Live At Festspielhaus, Baden Baden, Germany / 2005",0.979,0.322,523000,0.0151,0.175,D,0.0899,-32.43,1,0.0409,84.993,4,0.134,Romantic,-1,1,Excellent
+2015,"Bach: 6 Cello Suites BWV 1007, 1008, 1009, 1010, 1011 & 1012 (2 CDs)",Johann Sebastian Bach,Classical,"Suite For Cello Solo No.1 In G, BWV 1007: 2. Allemande",0.968,0.268,258000,0.177,0.87,E,0.183,-16.368,1,0.0559,136.248,3,0.593,Romantic,-1,1,Excellent
+2015,"Bach: 6 Cello Suites BWV 1007, 1008, 1009, 1010, 1011 & 1012 (2 CDs)",Johann Sebastian Bach,Classical,"Suite For Cello Solo No.1 In G, BWV 1007: 5. Menuet I-II",0.982,0.323,208000,0.123,0.962,E,0.246,-18.048,1,0.0559,116.106,1,0.375,Melancholy,-2,-1,Excellent
+2015,"Bach: 6 Cello Suites BWV 1007, 1008, 1009, 1010, 1011 & 1012 (2 CDs)",Johann Sebastian Bach,Classical,"Suite For Cello Solo No.1 In G, BWV 1007: 6. Gigue",0.988,0.53,123000,0.0842,0.799,E,0.125,-17.981,1,0.0384,108.467,1,0.818,Romantic,-1,1,Excellent
+2015,"Bach: 6 Cello Suites BWV 1007, 1008, 1009, 1010, 1011 & 1012 (2 CDs)",Johann Sebastian Bach,Classical,"Suite For Cello Solo No.2 In D Minor, BWV 1008: 2. Allemande",0.974,0.264,206000,0.143,0.947,B,0.217,-17.215,0,0.0457,131.45,4,0.525,Romantic,-1,1,Excellent
+2015,"Bach: 6 Cello Suites BWV 1007, 1008, 1009, 1010, 1011 & 1012 (2 CDs)",Johann Sebastian Bach,Classical,"Suite For Cello Solo No.2 In D Minor, BWV 1008: 5. Menuet I-II",0.987,0.395,197000,0.0738,0.823,C#,0.122,-17.876,0,0.0485,117.593,3,0.609,Melancholy,-2,-1,Excellent
+2015,"Bach: 6 Cello Suites BWV 1007, 1008, 1009, 1010, 1011 & 1012 (2 CDs)",Johann Sebastian Bach,Classical,"Suite For Cello Solo No.2 In D Minor, BWV 1008: 6. Gigue",0.983,0.425,151000,0.219,0.885,B,0.168,-17.778,0,0.0452,67.278,4,0.688,Romantic,-1,1,Excellent
+2015,"Bach: 6 Cello Suites BWV 1007, 1008, 1009, 1010, 1011 & 1012 (2 CDs)",Johann Sebastian Bach,Classical,"Suite For Cello Solo No.3 In C, BWV 1009: 2. Allemande",0.981,0.486,239000,0.107,0.958,F#,0.101,-16.355,0,0.0353,99.347,4,0.786,Romantic,-1,1,Excellent
+2015,"Bach: 6 Cello Suites BWV 1007, 1008, 1009, 1010, 1011 & 1012 (2 CDs)",Johann Sebastian Bach,Classical,"Suite For Cello Solo No.3 In C, BWV 1009: 5. Bourrée I-II",0.979,0.269,235000,0.109,0.947,A,0.13,-17.341,1,0.0574,66.73,5,0.694,Romantic,-1,1,Excellent
+2015,"Bach: 6 Cello Suites BWV 1007, 1008, 1009, 1010, 1011 & 1012 (2 CDs)",Johann Sebastian Bach,Classical,"Suite For Cello Solo No.3 In C, BWV 1009: 6. Gigue",0.987,0.446,196000,0.21,0.921,E,0.142,-14.578,1,0.0359,106.397,4,0.806,Romantic,-1,1,Excellent
+2015,"Bach: 6 Cello Suites BWV 1007, 1008, 1009, 1010, 1011 & 1012 (2 CDs)",Johann Sebastian Bach,Classical,"Suite For Cello Solo No.4 In E Flat, BWV 1010: 2. Allemande",0.978,0.243,272000,0.126,0.949,C,0.315,-18.432,1,0.0508,152.866,4,0.506,Romantic,-1,1,Excellent
+2015,"Bach: 6 Cello Suites BWV 1007, 1008, 1009, 1010, 1011 & 1012 (2 CDs)",Johann Sebastian Bach,Classical,"Suite For Cello Solo No.4 In E Flat, BWV 1010: 5. Bourrée I-II",0.988,0.451,306000,0.0853,0.927,C,0.169,-20.008,1,0.0423,68.279,4,0.525,Romantic,-1,1,Excellent
+2015,"Bach: 6 Cello Suites BWV 1007, 1008, 1009, 1010, 1011 & 1012 (2 CDs)",Johann Sebastian Bach,Classical,"Suite For Cello Solo No.4 In E Flat, BWV 1010: 6. Gigue",0.983,0.348,161000,0.208,0.912,C,0.141,-20.537,1,0.0439,64.184,4,0.697,Romantic,-1,1,Excellent
+2015,"Bach: 6 Cello Suites BWV 1007, 1008, 1009, 1010, 1011 & 1012 (2 CDs)",Johann Sebastian Bach,Classical,"Suite For Cello Solo No.5 In C Minor, BWV 1011: 2. Allemande",0.975,0.244,274971,0.131,0.924,C,0.0989,-19.396,1,0.0483,69.903,3,0.131,Romantic,-1,1,Excellent
+2015,"Bach: 6 Cello Suites BWV 1007, 1008, 1009, 1010, 1011 & 1012 (2 CDs)",Johann Sebastian Bach,Classical,"Suite For Cello Solo No.5 In C Minor, BWV 1011: 6. Gigue",0.983,0.352,155000,0.109,0.934,C,0.123,-17.893,1,0.0462,89.445,4,0.455,Romantic,-1,1,Excellent
+2015,"Bach: 6 Cello Suites BWV 1007, 1008, 1009, 1010, 1011 & 1012 (2 CDs)",Johann Sebastian Bach,Classical,"Suite For Cello Solo No.6 In D, BWV 1012: 2. Allemande",0.989,0.172,343000,0.135,0.932,B,0.078,-16.881,1,0.0421,89.216,4,0.317,Romantic,-1,1,Excellent
+2015,"Bach: 6 Cello Suites BWV 1007, 1008, 1009, 1010, 1011 & 1012 (2 CDs)",Johann Sebastian Bach,Classical,"Suite For Cello Solo No.6 In D, BWV 1012: 6. Gigue",0.988,0.478,245000,0.169,0.877,F#,0.117,-15.518,1,0.0371,105.062,3,0.718,Romantic,-1,1,Excellent
+2015,Bach: Cello Suites (2 CDs),Suren Bagratuni,Classical,Suite No. 1: Prelude,0.954,0.449,113773,0.272,0.861,E,0.226,-20.149,1,0.0697,109.243,4,0.704,Romantic,-1,1,Excellent
+2015,Bach: Cello Suites (2 CDs),Suren Bagratuni,Classical,Suite No. 1: Allemande,0.944,0.338,204467,0.253,0.834,E,0.21,-18.265,1,0.0618,99.982,3,0.595,Romantic,-1,1,Excellent
+2015,Bach: Cello Suites (2 CDs),Suren Bagratuni,Classical,Suite No. 1: Gigue,0.968,0.463,106667,0.148,0.812,E,0.11,-17.286,1,0.0504,137.269,3,0.701,Sentimental,-2,0,Excellent
+2015,Bach: Cello Suites (2 CDs),Suren Bagratuni,Classical,Suite No. 2: Prelude,0.935,0.0993,238453,0.153,0.84,B,0.13,-17.857,0,0.059,57.421,3,0.143,Romantic,-1,1,Excellent
+2015,Bach: Cello Suites (2 CDs),Suren Bagratuni,Classical,Suite No. 2: Allemande,0.931,0.18,196947,0.157,0.852,B,0.136,-19.537,0,0.0491,177.048,3,0.491,Romantic,-1,1,Excellent
+2015,Bach: Cello Suites (2 CDs),Suren Bagratuni,Classical,Suite No. 2: Gigue,0.961,0.44,144373,0.247,0.853,B,0.229,-17.825,0,0.0439,69.398,4,0.689,Sentimental,-2,0,Excellent
+2015,Bach: Cello Suites (2 CDs),Suren Bagratuni,Classical,Suite No. 3: Prelude,0.962,0.356,180347,0.292,0.862,E,0.131,-18.83,1,0.0494,110.433,3,0.488,Romantic,-1,1,Excellent
+2015,Bach: Cello Suites (2 CDs),Suren Bagratuni,Classical,Suite No. 3: Allemande,0.978,0.499,221307,0.134,0.894,E,0.103,-19.309,1,0.0482,113.768,4,0.515,Romantic,-1,1,Excellent
+2015,Bach: Cello Suites (2 CDs),Suren Bagratuni,Classical,Suite No. 3: Bourrees I & II,0.974,0.458,188733,0.14,0.893,E,0.146,-21.893,1,0.0551,91.219,3,0.606,Sentimental,-2,0,Excellent
+2015,Bach: Cello Suites (2 CDs),Suren Bagratuni,Classical,Suite No. 3: Gigue,0.95,0.47,170293,0.255,0.88,E,0.118,-15.61,1,0.044,124.246,4,0.454,Sentimental,-2,0,Excellent
+2015,Bach: Cello Suites (2 CDs),Suren Bagratuni,Classical,Suite No. 4: Courante,0.987,0.519,202187,0.222,0.866,C,0.115,-19.415,1,0.049,130.706,3,0.609,Sentimental,-2,0,Excellent
+2015,Greatest Hits With A Twist - Deluxe Edition,DMX,Hip Hop,Ruff Ryders' Anthem,0.202,0.867,231040,0.796,0,D#,0.0838,-4.73,1,0.0693,92.766,4,0.776,Cool,-1,-1,Excellent
+2015,...And Then There Was X,DMX,Hip Hop,Party Up,0.0835,0.534,268867,0.933,0,G#,0.394,-3.282,1,0.366,202.058,4,0.478,Cool,-1,-1,Excellent
+2015,The Best Of DMX,DMX,Hip Hop,We Right Here,0.00731,0.767,271013,0.678,0,F#,0.314,-7.795,1,0.137,92.923,4,0.635,Cool,-1,-1,Excellent
+2015,No Games,Rick Ross,Hip Hop,No Games,0.0186,0.76,233427,0.832,1.81E-06,F,0.158,-4.167,0,0.0557,146.581,4,0.344,Aggressive,2,-2,Excellent
+2015,Port Of Miami,Rick Ross,Hip Hop,Hustlin',0.0898,0.505,254093,0.657,0,F#,0.0606,-7.254,1,0.288,135.995,4,0.666,Cool,-1,-1,Excellent
+2015,Port Of Miami,Rick Ross,Hip Hop,Push It,0.246,0.665,208600,0.779,0,E,0.364,-7.085,1,0.258,150.952,4,0.75,Cool,-1,-1,Excellent
+2015,Teflon Don,Rick Ross,Hip Hop,B.M.F. (Blowin' Money Fast),0.017,0.743,250307,0.86,0,B,0.22,-4.396,1,0.0549,139.967,4,0.333,Cool,-1,-1,Excellent
+2015,Stillmatic,Nas,Hip Hop,Ether,0.0401,0.573,277707,0.831,0,E,0.0909,-5.586,1,0.433,76.352,4,0.766,Cool,-1,-1,Excellent
+2015,God's Son,Nas,Hip Hop,I Can,0.103,0.837,253720,0.885,0,D#,0.0666,-3.914,0,0.182,95.313,4,0.694,Cool,-1,-1,Excellent
+2015,Greatest Hits,Nas,Hip Hop,Bridging the Gap,0.0332,0.703,235613,0.687,0,E,0.393,-7.104,1,0.389,93.606,4,0.461,Cool,-1,-1,Excellent
+2015,2001 (Explicit Version),Dr. Dre,Hip Hop,Bang Bang,0.12,0.865,222467,0.877,2.07E-06,D,0.0808,-2.437,0,0.148,95.329,4,0.783,Cool,-1,-1,Excellent
+2015,Beg For Mercy (Explicit Version),G-Unit,Hip Hop,Beg For Mercy,0.0302,0.611,158907,0.794,0,B,0.338,-3.466,1,0.349,97.558,4,0.837,Cool,-1,-1,Excellent
+2015,The Tunnel,Funkmaster Flex,Hip Hop,"Biggie/Tupac Live Freestyle (Funkmaster Flex & Big Kap Feat. DJ Mister Cee, Notorious B.I.G & Tupac)",0.742,0.571,108973,0.941,0.0026,C#,0.112,-2.853,1,0.423,188.632,4,0.814,Lively,1,2,Excellent
+2015,The Marshall Mathers LP (Explicit Version),Eminem,Hip Hop,Bitch Please II,0.0783,0.918,288200,0.586,0,A#,0.145,-2.89,1,0.133,95.517,4,0.779,Cool,-1,-1,Excellent
+2015,Rhino Hi-Five: Fabolous,Fabolous,Hip Hop,Breathe,0.34,0.713,268960,0.91,0,G,0.304,-5.586,0,0.282,83.028,4,0.51,Cool,-1,-1,Excellent
+2015,"Laugh Now, Cry Later",Ice Cube,Hip Hop,"Click, Clack - Get Back! - edited version",0.00213,0.606,190533,0.789,6.12E-06,A#,0.501,-3.865,1,0.0817,167.977,4,0.844,Cool,-1,-1,Excellent
+2015,Blackout!,Method Man,Hip Hop,Da Rockwilder,0.0137,0.612,136093,0.659,0,D#,0.417,-6.995,0,0.406,99.137,4,0.393,Cool,-1,-1,Excellent
+2015,Candy Shop (International Version),50 Cent,Hip Hop,Disco Inferno,0.24,0.915,212648,0.659,0.000181,C,0.203,-5.169,1,0.236,96.974,4,0.722,Cool,-1,-1,Excellent
+2015,LAX,The Game,Hip Hop,Dope Boys,0.148,0.733,240507,0.813,0,A#,0.179,-3.402,0,0.225,85.067,4,0.696,Energizing,2,0,Excellent
+2015,N.W.A. And Their Family Reunion,N.W.A.,Hip Hop,Dope Man,0.0115,0.69,375747,0.783,0,E,0.155,-6.249,1,0.286,176.494,4,0.681,Cool,-1,-1,Excellent
+2015,Stillmatic,Nas,Hip Hop,Ether,0.0401,0.573,277707,0.831,0,E,0.0909,-5.586,1,0.433,76.352,4,0.766,Cool,-1,-1,Excellent
+2015,Devils Night,D12,Hip Hop,Fight Music,0.0803,0.75,261093,0.849,0,A,0.333,-3.097,1,0.264,89.501,4,0.771,Cool,-1,-1,Excellent
+2015,Terrorist Threats,Westside Connection,Hip Hop,Gangsta Nation,0.127,0.843,293053,0.7,0,F#,0.876,-3.249,0,0.26,95.05,4,0.675,Cool,-1,-1,Excellent
+2015,The Best Of DMX,DMX,Hip Hop,Get It On The Floor,0.156,0.795,263707,0.789,2.80E-06,A#,0.0793,-4.661,1,0.117,94.218,4,0.597,Cool,-1,-1,Excellent
+2015,Ready To Die The Remaster,The Notorious B.I.G.,Hip Hop,Gimme The Loot,0.0867,0.713,304147,0.647,0,E,0.636,-8.22,1,0.439,94.036,4,0.694,Cool,-1,-1,Poor
+2015,Greatest Hits,Nas,Hip Hop,Got Ur Self A...,0.0128,0.599,228747,0.861,0,G#,0.113,-4.783,0,0.265,92.866,4,0.613,Cool,-1,-1,Poor
+2015,Greatest Hits,Nas,Hip Hop,Hate Me Now (feat.- Puff Daddy),0.00616,0.652,285307,0.754,0,F#,0.12,-4.929,0,0.208,90.12,4,0.429,Cool,-1,-1,Poor
+2015,Greatest Hits,2Pac,Hip Hop,Hit 'Em Up - Single Version,0.0466,0.921,312627,0.843,0,E,0.0757,-4.008,1,0.239,95.193,4,0.589,Cool,-1,-1,Poor
+2015,Get Rich Or Die Tryin'- The Original Motion Picture Soundtrack,50 Cent,Hip Hop,Hustler's Ambition,0.277,0.604,237613,0.737,0,E,0.305,-6.174,1,0.292,88.243,4,0.683,Cool,-1,-1,Poor
+2015,Port Of Miami,Rick Ross,Hip Hop,Hustlin',0.0849,0.502,254093,0.652,0,F#,0.0675,-7.224,1,0.3,136.04,4,0.649,Cool,-1,-1,Poor
+2015,The Documentary,The Game,Hip Hop,How We Do,0.0455,0.862,235533,0.648,0,C#,0.0332,-7.401,0,0.251,98.012,4,0.637,Cool,-1,-1,Poor
+2015,Beg For Mercy (Explicit Version),G-Unit,Hip Hop,I Smell Pussy,0.0438,0.806,238200,0.787,0,G#,0.0644,-3.005,0,0.216,89.208,4,0.74,Cool,-1,-1,Poor
+2015,"MMG Presents: Self Made, Vol. 1",Meek Mill,Hip Hop,Ima Boss - feat. Rick Ross,0.0415,0.37,250240,0.87,0,D,0.604,-2.09,1,0.271,79.092,4,0.331,Aggressive,2,-2,Poor
+2015,Doctor's Advocate,The Game,Hip Hop,Let's Ride,0.169,0.878,237680,0.739,0,D,0.119,-5.157,1,0.189,93.601,4,0.824,Cool,-1,-1,Poor
+2015,True Story,Terror Squad,Hip Hop,Lean Back,0.11,0.799,247427,0.916,0,A#,0.0746,-3.344,1,0.471,126.687,5,0.697,Cool,-1,-1,Poor
+2016,Come Home With Me,Cam’ron,Hip Hop,Oh Boy,0.0266,0.762,204707,0.776,0,G#,0.0959,-5.623,1,0.196,83.02,4,0.796,Cool,-1,-1,Poor
+2016,Runnin' (Dying To Live) [International Version],2Pac,Hip Hop,Runnin' (Dying To Live),0.0497,0.544,231987,0.805,0.000365,G,0.145,-2.765,0,0.408,166.061,4,0.668,Cool,-1,-1,Poor
+2016,We Are Young Money,Young Money,Hip Hop,Steady Mobbin,0.0252,0.681,310733,0.694,0,A,0.541,-8.123,0,0.258,156.149,4,0.659,Cool,-1,-1,Poor
+2016,The R.E.D. Album,The Game,Hip Hop,The City,0.176,0.574,341453,0.787,0,G#,0.0918,-4.147,0,0.398,144.474,4,0.302,Cool,-1,-1,Poor
+2016,Greatest Hits,2Pac,Hip Hop,Toss It Up,0.0466,0.801,282800,0.769,0,A#,0.518,-4.32,0,0.209,91.986,4,0.595,Energizing,2,0,Poor
+2016,The Great Depression,DMX,Hip Hop,We Right Here,0.00529,0.67,267707,0.675,3.14E-06,F#,0.312,-5.637,1,0.196,185.903,4,0.686,Cool,-1,-1,Poor
+2016,We The Best Forever,DJ Khaled,Hip Hop,Welcome To My Hood,0.00833,0.59,250373,0.72,0,F,0.167,-3.833,1,0.209,139.79,4,0.604,Cool,-1,-1,Poor
+2016,Come Home With Me,Cam’ron,Hip Hop,Welcome To New York City,0.0185,0.581,309600,0.884,0,F,0.132,-5.512,1,0.315,169.472,4,0.493,Cool,-1,-1,Poor
+2016,R&G (Rhythm & Gangsta): The Masterpiece,Snoop Dogg,Hip Hop,Drop It Like It's Hot,0.187,0.881,266067,0.622,0,A#,0.103,-4.149,1,0.215,91.989,4,0.633,Cool,-1,-1,Poor
+2016,Lose Yourself,Eminem,Hip Hop,Lose Yourself - Soundtrack Version,0.0109,0.681,320293,0.743,0.000279,B,0.225,-4.567,1,0.287,171.396,4,0.0568,Cool,-1,-1,Poor
+2016,2001 (Explicit Version),Dr. Dre,Hip Hop,Forgot About Dre,0.092,0.925,222240,0.737,0,F,0.169,-1.292,1,0.0777,133.946,4,0.603,Cool,-1,-1,Poor
+2016,The Massacre (Ecopac Reissue Explicit),50 Cent,Hip Hop,Candy Shop,0.0214,0.619,208144,0.578,3.37E-05,G#,0.387,-8.002,1,0.474,123.719,5,0.731,Cool,-1,-1,Poor
+2016,Ready To Die The Remaster,The Notorious B.I.G.,Hip Hop,Juicy,0.472,0.889,302693,0.816,0,F#,0.204,-4.67,1,0.247,96.056,4,0.777,Cool,-1,-1,Poor
+2016,The Documentary,The Game,Hip Hop,How We Do,0.0496,0.578,235533,0.666,0,E,0.0335,-7.1,1,0.435,195.13,4,0.591,Cool,-1,-1,Poor
+2016,Straight Outta Compton,N.W.A.,Hip Hop,Gangsta Gangsta,0.0251,0.897,336917,0.694,1.82E-06,D#,0.324,-8.364,0,0.277,98.118,4,0.706,Cool,-1,-1,Poor
+2016,Ready To Die The Remaster,The Notorious B.I.G.,Hip Hop,Who Shot Ya,0.273,0.828,319373,0.686,0,G#,0.524,-5.689,0,0.218,91.713,4,0.617,Cool,-1,-1,Poor
+2016,Snoop Dogg Hits,Snoop Dogg,Hip Hop,Nuthin' But a G Thing,0.00707,0.807,237160,0.709,0,C#,0.24,-8.152,0,0.29,94.631,4,0.675,Cool,-1,-1,Poor
+2016,It Was Written,Nas,Hip Hop,If I Ruled the World (Imagine That),0.0474,0.879,282373,0.564,9.43E-06,G,0.0519,-7.682,0,0.247,93.908,4,0.523,Cool,-1,-1,Poor
+2016,Me Against The World,2Pac,Hip Hop,Dear Mama,0.379,0.773,280000,0.542,0,D#,0.129,-7.136,1,0.126,84.124,4,0.31,Cool,-1,-1,Poor
+2016,Creepin on Ah Come Up,Bone Thugs-N-Harmony,Hip Hop,Foe Tha Love of $,0.00295,0.772,272440,0.695,0,E,0.427,-8.013,1,0.0735,137.868,1,0.643,Cool,-1,-1,Poor
+2016,Konvicted,Akon,Hip Hop,Blown Away,0.196,0.778,209013,0.717,0,E,0.307,-7.558,1,0.308,91.958,4,0.354,Cool,-1,-1,Poor
+2016,Gangsta Memorial (Explicit),Eazy-E,Hip Hop,Ole School Shit,0.00132,0.787,242107,0.671,0,A#,0.0783,-5.308,0,0.0906,81.897,4,0.637,Cool,-1,-1,Poor
+2016,Ruthless For Life,MC Ren,Hip Hop,Ruthless For Life,0.171,0.778,264533,0.867,0,A#,0.13,-6.586,1,0.256,94.978,4,0.547,Energizing,2,0,Poor
+2016,Best of UGK,UGK,Hip Hop,"Front, Back & Side to Side",0.0198,0.815,314667,0.635,6.46E-06,G#,0.0633,-5.592,0,0.113,150.035,4,0.827,Cool,-1,-1,Poor
+2016,Gangsta Grillz 9,DJ Drama,Hip Hop,See About Ya,0.0116,0.691,258360,0.624,6.19E-05,G#,0.595,-10.844,0,0.345,157.946,4,0.706,Cool,-1,-1,Poor
+2016,Enter The Wu-Tang (36 Chambers) [Expanded Edition],Wu-Tang Clan,Hip Hop,Shame On a Nigga,0.0846,0.889,177067,0.466,7.44E-06,A#,0.384,-10.74,1,0.36,100.17,4,0.403,Cool,-1,-1,Poor
+2016,The Very Best Of En Vogue (Digital),En Vogue,Hip Hop,"Give It Up, Turn It Loose",0.19,0.836,312040,0.58,0.000271,A#,0.0379,-8.778,1,0.0692,93.015,4,0.939,Energizing,2,0,Poor
+2016,The Best Of Salt-N-Pepa 20th Century Masters The Millennium Collection,Salt-N-Pepa,Hip Hop,Whatta Man,0.133,0.755,308240,0.68,2.56E-05,D,0.191,-6.75,1,0.195,173.16,4,0.89,Cool,-1,-1,Poor
+2016,Midnight Marauders,A Tribe Called Quest,Hip Hop,Sucka Nigga,0.299,0.774,245080,0.623,0,A#,0.385,-10.372,1,0.324,86.233,4,0.928,Cool,-1,-1,Poor
+2016,Bad Boy's 10th Anniversary- The Hits,Diddy,Hip Hop,I'll Be Missing You (feat. 112),0.0522,0.862,301520,0.479,0.00126,E,0.589,-9.199,1,0.0646,109.878,4,0.925,Energizing,2,0,Poor
+2016,CYPRESS HILL,Cypress Hill,Hip Hop,Hand On the Pump,0.0759,0.826,243027,0.658,1.86E-05,A,0.235,-10.952,1,0.302,98.05,4,0.571,Cool,-1,-1,Poor
+2016,#1's,Destiny's Child,Hip Hop,"No, No, No Pt. 2 - #1's Edit",0.218,0.757,195373,0.523,0,D,0.173,-4.703,0,0.0951,90.891,4,0.732,Energizing,2,0,Poor
+2016,Oochie Wally,Nas,Hip Hop,Oochie Wally - Remix,0.0564,0.619,300559,0.719,0.00125,E,0.77,-6.924,1,0.322,93.533,4,0.722,Cool,-1,-1,Poor
+2016,ODB Greatest Hitz,Ol' Dirty Bastard,Hip Hop,Fantasy (Remix) (Feat. Mariah Carey),0.0347,0.827,280503,0.574,0,B,0.069,-6.957,1,0.0828,102.645,4,0.838,Cool,-1,-1,Poor
+2016,All World 2,LL Cool J,Hip Hop,Around The Way Girl,0.00453,0.777,245147,0.734,0.0113,A#,0.317,-7.883,1,0.171,101.141,4,0.706,Cool,-1,-1,Average
+2016,No Nose Job: The Legend Of Digital Underground,Digital Underground,Hip Hop,Kiss You Back - Smack On The Cheek Mix,0.0233,0.841,221633,0.694,0,F#,0.241,-9.32,0,0.124,113.12,4,0.804,Cool,-1,-1,Average
+2016,6 Pack (Explicit Version),Nelly,Hip Hop,Hot In Herre,0.222,0.969,228653,0.72,0,F#,0.0622,-4.904,0,0.159,107.086,4,0.899,Cool,-1,-1,Average
+2016,Lista de invitados,SFDK,Hip Hop,Blondapetit con Swan Fyahbwoy y Gordo Master,0.222,0.685,292093,0.859,0,F,0.298,-2.59,0,0.284,87.37,4,0.816,Cool,-1,-1,Average
+2016,Lista de invitados,SFDK,Hip Hop,"Los Chicos Del Barrio con El Limite, Dementores, Ed Noise Y Pájaro",0.0252,0.556,268307,0.86,0,D,0.0833,-3.388,1,0.397,180.198,4,0.501,Cool,-1,-1,Average
+2016,Carrie,Crew Cuervos,Hip Hop,El Justo,0.0127,0.678,296667,0.849,0,G#,0.0712,-4.611,1,0.29,98.153,4,0.671,Cool,-1,-1,Average
+2016,Boa 18,Little Pepe,Hip Hop,Biribay,0.158,0.644,242947,0.763,0,E,0.423,-7.389,0,0.189,169.763,4,0.885,Cool,-1,-1,Average
+2016,The End,Kultama,Hip Hop,Ni Agradecío ni Pagao,0.0881,0.599,249067,0.945,0,A#,0.0505,-4.226,1,0.169,94.972,4,0.806,Cool,-1,-1,Average
+2016,Lista de invitados,SFDK,Hip Hop,"Digan Lo Que Quieran con Little Pepe, Jefe De La M e Ijah",0.205,0.704,255853,0.808,0,C,0.0817,-4.281,0,0.312,92.106,4,0.827,Cool,-1,-1,Average
+2016,Mejor Que El Silencio,Nach,Hip Hop,Tú,0.128,0.495,237387,0.941,0,D#,0.0736,-3.354,0,0.292,87.172,4,0.636,Cool,-1,-1,Average
+2016,Mejor Que El Silencio,Nach,Hip Hop,Tres Siglas,0.343,0.463,230773,0.948,0,C,0.321,-4.251,1,0.32,163.428,4,0.825,Cool,-1,-1,Average
+2016,Triple XXX 4 Life,Triple XXX,Hip Hop,De Vuelta,0.168,0.817,251650,0.948,0,A,0.296,-3.697,1,0.0992,103.004,4,0.961,Cool,-1,-1,Average
+2016,21 Centimetros,Duo Kie,Hip Hop,Vamos Todos a Morir Aqui Dentro,0.0324,0.754,192853,0.622,0,E,0.36,-6.504,1,0.315,98.931,4,0.438,Cool,-1,-1,Average
+2016,21 Centimetros,Duo Kie,Hip Hop,Cualquiera Puede Tener un Mal Dia,0.206,0.678,255973,0.953,0,G#,0.278,-4.618,0,0.445,89.888,4,0.679,Cool,-1,-1,Average
+2016,Lista de invitados,SFDK,Hip Hop,Lsd con Kultama,0.106,0.714,241347,0.699,0,D,0.318,-6.42,0,0.273,93.12,4,0.758,Cool,-1,-1,Average
+2016,Lista de invitados,SFDK,Hip Hop,Cuando Todo Acabe con El Chojin - colabora Jefe De La M,0.251,0.692,295800,0.86,0,D,0.698,-3.928,0,0.435,93.957,4,0.749,Cool,-1,-1,Average
+2016,Dramatica,Falsalarma,Hip Hop,¡A La Voz De Ya!,0.0532,0.729,333493,0.558,1.58E-06,F#,0.129,-5.298,0,0.292,90.042,4,0.494,Cool,-1,-1,Average
+2016,Dramatica,Falsalarma,Hip Hop,Full Time,0.00864,0.481,270573,0.748,0.133,A#,0.668,-5.296,1,0.124,138.043,3,0.478,Cool,-1,-1,Average
+2016,La Misiva (Edicion Especial),Falsalarma,Hip Hop,El Santo,0.564,0.615,304387,0.903,0,G,0.333,-4.363,0,0.288,93.677,4,0.898,Cool,-1,-1,Average
+2016,He Tenido un Sueño,ZPU,Hip Hop,Anatomía,0.141,0.615,198240,0.896,0,G#,0.238,-3.69,0,0.244,93.156,4,0.961,Cool,-1,-1,Average
+2016,Genios,Violadores Del Verso,Hip Hop,Maximo Exponente,0.0715,0.701,256973,0.774,0,G,0.327,-4.986,1,0.289,88.677,4,0.348,Cool,-1,-1,Average
+2016,12 Días,Freshmakers,Hip Hop,Colors Con Strange Fruit Project,0.0406,0.425,281307,0.815,0,D#,0.28,-6.017,1,0.323,176.248,4,0.648,Cool,-1,-1,Average
+2016,Meid in Espein,Hazhe con Sharif,Hip Hop,Carta A Un Amigo,0.534,0.679,256413,0.731,0,D#,0.233,-7.548,1,0.198,89.815,4,0.944,Cool,-1,-1,Average
+2016,Vidalogia,Tremendo,Hip Hop,El Loco Soy Yo,0.13,0.766,255027,0.752,0,A#,0.22,-5.178,1,0.396,93.115,4,0.852,Cool,-1,-1,Average
+2016,Presents the Incredible Adventures of Soul Villain & Friends In... Soultape,Lex Luthorz,Hip Hop,Dime Por Qué,0.641,0.351,112547,0.729,0,G,0.0593,-5.515,0,0.1,145.936,3,0.854,Cool,-1,-1,Average
+2016,La banda sonora de nuestras vidas,Artes,Hip Hop,El par,0.224,0.622,170133,0.93,0,G#,0.266,-4.091,1,0.342,95.903,4,0.814,Energizing,2,0,Average
+2016,A,Artes,Hip Hop,Feos,0.179,0.626,207648,0.812,0,F#,0.708,-4.13,0,0.273,98.16,4,0.629,Cool,-1,-1,Average
+2016,Phoenix,Subsuelo,Hip Hop,Demagogia,0.279,0.41,225880,0.932,0,E,0.378,-6.426,1,0.408,96.883,4,0.785,Cool,-1,-1,Average
+2016,La Semilla,Bajo Minimos,Hip Hop,El Diccionario Del Diablo,0.177,0.486,308587,0.928,0,B,0.0788,-7.272,1,0.521,188.075,4,0.596,Cool,-1,-1,Average
+2016,Shades,LevyGrey,Hip Hop,For Me,0.0446,0.564,203781,0.471,3.78E-05,G#,0.114,-9.27,0,0.109,152.199,4,0.169,Energizing,2,0,Average
+2016,Everything's Fine,Jean Grae,Hip Hop,Gold Purple Orange,0.435,0.61,300391,0.615,0.0337,A#,0.212,-9.612,1,0.0616,95.963,4,0.63,Cool,-1,-1,Average
+2016,Don't Nobody Want None,Tech N9ne,Hip Hop,Don't Nobody Want None,0.0492,0.845,179917,0.865,0.00039,B,0.186,-6.056,1,0.184,123.987,4,0.389,Energizing,2,0,Average
+2016,U&I (feat. Dia),Flatbush Zombies,Hip Hop,U&I (feat. Dia),0.00664,0.496,316004,0.554,0,A#,0.111,-8.487,1,0.365,80,4,0.328,Aggressive,2,-2,Average
+2016,Freda's Son,YFN Lucci,Hip Hop,Front Row in LA,0.193,0.794,201642,0.595,0,E,0.113,-5.722,0,0.235,124.108,4,0.383,Cool,-1,-1,Average
+2016,B.I.D,Tory Lanez,Hip Hop,B.I.D,0.102,0.759,164133,0.695,0,G,0.0899,-5.632,0,0.0796,154.967,4,0.522,Cool,-1,-1,Average
+2016,44 More,Logic,Hip Hop,44 More,0.0717,0.818,188613,0.572,0,A#,0.101,-7.085,1,0.228,139.968,4,0.236,Cool,-1,-1,Average
+2016,Lil Boat 2,Lil Yachty,Hip Hop,BOOM!,0.191,0.844,229525,0.699,0,A#,0.194,-5.794,1,0.335,132.955,4,0.753,Cool,-1,-1,Average
+2016,Set Trippin,Casanova,Hip Hop,Set Trippin,0.435,0.485,232133,0.786,0.000313,G#,0.0898,-4.119,0,0.445,80.987,4,0.337,Cool,-1,-1,Average
+2016,Era,PRhyme,Hip Hop,Era,0.105,0.798,212890,0.946,0,A#,0.486,-2.937,1,0.345,79.916,4,0.66,Cool,-1,-1,Average
+2016,Picture Me Rollin,MadeinTYO,Hip Hop,Picture Me Rollin,0.0634,0.877,168707,0.625,0,E,0.141,-5.008,0,0.379,137.022,4,0.253,Cool,-1,-1,Average
+2016,3001: A Laced Odyssey,Flatbush Zombies,Hip Hop,Bounce,0.0113,0.628,241520,0.618,0,D,0.109,-8.4,0,0.313,110.007,4,0.362,Cool,-1,-1,Good
+2016,Flirt,PRhyme,Hip Hop,Flirt,0.022,0.573,200479,0.928,0,E,0.173,-3.514,1,0.289,83.765,4,0.673,Cool,-1,-1,Good
+2016,Melanin Magic (Pretty Brown),Remy Ma,Hip Hop,Melanin Magic (Pretty Brown),0.044,0.491,177987,0.755,0,F,0.124,-2.561,1,0.3,148.237,4,0.59,Cool,-1,-1,Good
+2016,Chloraseptic (feat. 2 Chainz & Phresher) [Remix],Eminem,Hip Hop,Chloraseptic (feat. 2 Chainz & Phresher) - Remix,0.154,0.878,296941,0.728,0,C#,0.335,-6.591,0,0.306,136.03,4,0.439,Cool,-1,-1,Good
+2016,Back 2 Life,Nessly,Hip Hop,Back 2 Life,0.0159,0.781,190320,0.546,0.000103,C#,0.264,-7.914,0,0.0557,149.925,4,0.317,Cool,-1,-1,Good
+2016,The Wild,Raekwon,Hip Hop,This Is What It Comes Too,0.00651,0.736,167686,0.969,0,A#,0.16,-5.333,1,0.226,91.606,4,0.565,Cool,-1,-1,Good
+2016,Pen To Paper,Brother Ali,Hip Hop,Pen To Paper,0.322,0.691,138917,0.571,0,F#,0.0911,-11.273,0,0.771,140.125,4,0.617,Cool,-1,-1,Good
+2016,Run the Jewels 3,Run The Jewels,Hip Hop,Everybody Stay Calm,0.321,0.803,178627,0.671,2.51E-05,B,0.223,-7.959,1,0.251,108.992,4,0.376,Cool,-1,-1,Good
+2016,Throw It All Away,Evidence,Hip Hop,Throw It All Away,0.148,0.67,187320,0.861,0.00603,A#,0.307,-7.172,1,0.312,82.061,4,0.457,Cool,-1,-1,Good
+2016,PACKS,Your Old Droog,Hip Hop,You Can Do It! (Give Up),0.0898,0.73,226840,0.529,2.37E-05,C#,0.18,-8.284,1,0.0312,93.53,4,0.637,Cool,-1,-1,Good
+2016,"Left, Right",Casanova,Hip Hop,"Left, Right",0.0156,0.845,223067,0.772,1.17E-06,E,0.0998,-6.991,1,0.269,91.048,4,0.798,Cool,-1,-1,Good
+2016,Him & I,G-Eazy,Hip Hop,Him & I,0.0534,0.589,268867,0.731,0,B,0.308,-6.343,1,0.0868,87.908,4,0.191,Cool,-1,-1,Good
+2016,Lettuce,Trippy Turtle,Hip Hop,Lettuce ft Soulja Boy,0.0735,0.891,196643,0.81,0.000147,B,0.0507,-5.215,1,0.152,95.051,4,0.286,Melancholy,-2,-1,Good
+2016,The Manuscript,Vic Mensa,Hip Hop,OMG,0.00285,0.665,230947,0.697,0,G#,0.151,-5.525,0,0.148,85.107,4,0.191,Cool,-1,-1,Good
+2016,Marmalade (feat. Lil Yachty),Macklemore,Hip Hop,Marmalade (feat. Lil Yachty),0.0098,0.922,261615,0.583,0,D,0.0962,-4.982,1,0.0753,136.043,4,0.494,Energizing,2,0,Good
+2016,Night Call (feat. Lil Yachty & Migos),Steve Aoki,Hip Hop,Night Call (feat. Lil Yachty & Migos),0.326,0.848,240000,0.698,0,B,0.0715,-4.513,1,0.0554,130.036,4,0.233,Cool,-1,-1,Good
+2016,Cocaina,Captain Cuts,Hip Hop,Cocaina,0.00444,0.812,208507,0.836,0,C#,0.16,-4.377,0,0.0567,120.016,4,0.841,Energizing,2,0,Good
+2016,Without U,Steve Aoki,Hip Hop,Without U,0.0301,0.583,224092,0.891,3.25E-06,E,0.129,-3.495,1,0.447,149.843,4,0.315,Cool,-1,-1,Good
+2016,Point,Travy P,Hip Hop,Real Estate,0.00732,0.792,205000,0.76,0.00459,G,0.128,-2.756,1,0.0549,139.03,4,0.692,Energizing,2,0,Good
+2016,Grateful,DJ Khaled,Hip Hop,I'm the One,0.0533,0.599,288877,0.667,0,E,0.134,-4.267,1,0.0367,80.984,4,0.817,Cool,-1,-1,Good
+2016,Stoney (Deluxe),Post Malone,Hip Hop,Congratulations,0.198,0.627,220293,0.812,0,D#,0.212,-4.215,1,0.0358,123.071,4,0.504,Cool,-1,-1,Good
+2016,Unforgettable,French Montana,Hip Hop,Unforgettable,0.0293,0.726,233833,0.769,0.0101,D#,0.104,-5.043,1,0.123,97.985,4,0.733,Cool,-1,-1,Good
+2016,Summer Bummer,Lana Del Rey,Hip Hop,Summer Bummer (feat. A$AP Rocky & Playboi Carti),0.0148,0.763,260672,0.573,9.93E-06,A#,0.189,-8.652,1,0.148,134.974,4,0.139,Cool,-1,-1,Good
+2016,Wings,Vic Mensa,Hip Hop,Wings,0.152,0.646,242560,0.797,0,D,0.518,-5.483,0,0.267,80.549,4,0.602,Cool,-1,-1,Good
+2016,Sway (feat. Quavo & Lil Yachty),NexXthursday,Hip Hop,Sway (feat. Quavo & Lil Yachty),0.112,0.896,244093,0.513,0,F,0.104,-6.542,1,0.199,133.973,4,0.296,Energizing,2,0,Good
+2016,Get Mine,Bryson Tiller,Hip Hop,Get Mine,0.0578,0.646,213657,0.534,0,A#,0.12,-7.644,1,0.418,99.987,4,0.427,Cool,-1,-1,Good
+2017,Run It (feat. TK Kravitz),Tre Da Kid,Hip Hop,Run It (feat. TK Kravitz),0.453,0.857,201009,0.492,0,D#,0.108,-8.116,0,0.374,134.093,4,0.239,Cool,-1,-1,Good
+2017,Imperial,Denzel Curry,Hip Hop,Good Night,0.00319,0.765,236106,0.824,6.11E-05,G#,0.105,-3.408,0,0.19,113.992,4,0.52,Cool,-1,-1,Good
+2017,Wish Me Well 2,YFN Lucci,Hip Hop,Key to the Streets,0.122,0.77,281987,0.691,0,D#,0.113,-5.448,0,0.111,140.052,4,0.292,Cool,-1,-1,Good
+2017,Panda,Desiigner,Hip Hop,Panda,0.0235,0.72,247867,0.748,0,G,0.369,-5.522,0,0.393,145.22,4,0.246,Cool,-1,-1,Good
+2017,No Limit,Usher,Hip Hop,No Limit,0.0794,0.717,228905,0.516,0,G,0.164,-6.466,0,0.0601,127.026,4,0.258,Cool,-1,-1,Good
+2017,Best Of 50 Cent,50 Cent,Hip Hop,In Da Club,0.243,0.899,193547,0.613,0,D#,0.0658,-5.927,0,0.407,90.059,4,0.761,Cool,-1,-1,Good
+2017,Fin,Syd,Hip Hop,All About Me,0.146,0.366,211067,0.614,0.00265,F,0.0791,-9.163,1,0.175,177.84,3,0.627,Cool,-1,-1,Good
+2017,Everybody,Logic,Hip Hop,Everybody,0.139,0.882,162373,0.937,0,A#,0.0717,-5.937,1,0.0901,110,4,0.774,Cool,-1,-1,Good
+2017,The Imitation Game (Original Motion Picture Soundtrack),Alexandre Desplat,Gaming,The Imitation Game,0.438,0.318,157027,0.308,0.889,D,0.109,-13.676,0,0.0285,103.925,4,0.0592,Romantic,-1,1,Good
+2017,The Last Samurai: Original Motion Picture Score,The Last Samurai,Gaming,Idyll's End,0.819,0.151,400773,0.121,0.67,E,0.134,-21.785,0,0.0367,104.617,4,0.0612,Romantic,-1,1,Good
+2017,The Greatest Video Game Music,Greg Edmonson,Gaming,Uncharted - Drake's Fortune: Nate’s Theme,0.925,0.199,112710,0.16,0.948,D#,0.137,-15.826,1,0.036,114.581,3,0.0391,Romantic,-1,1,Good
+2017,Game Of Thrones (Music from the HBO® Series) Season 3,Ramin Djawadi,Gaming,A Lannister Always Pays His Debts,0.552,0.288,170560,0.288,0.952,B,0.171,-16.518,0,0.0402,86.393,4,0.0963,Romantic,-1,1,Good
+2017,Halo 3: Original Soundtrack,Martin O'Donnell,Gaming,Never Forget,0.968,0.0956,187680,0.0724,0.87,C,0.101,-22.319,1,0.038,85.743,3,0.0384,Romantic,-1,1,Good
+2017,Harry Potter And The Half-Blood Prince - Original Soundtrack,Nicholas Hooper,Gaming,"Dumbledore's Farewell (""Harry Potter & The Half-Blood Prince"")",0.353,0.13,142253,0.0641,0.883,F#,0.181,-21.991,0,0.0477,65.35,3,0.0357,Romantic,-1,1,Good
+2017,Armageddon - Original Motion Picture Score,Trevor Rabin,Gaming,Launch,0.12,0.0914,471867,0.428,0.905,A,0.0712,-11.269,1,0.0497,68.564,4,0.0567,Romantic,-1,1,Good
+2017,Lynyrd Skynyrd Greatest Hits,Lynyrd Skynyrd,Gaming,Sweet Home Alabama,0.0915,0.609,284413,0.661,0.000482,E,0.254,-9.549,1,0.0252,97.93,4,0.892,Empowering,0,1,Very Good
+2017,The Definitive Collection,Rick James,Gaming,Super Freak - Pt. 1,0.154,0.831,204213,0.688,0,F#,0.0877,-9.27,0,0.0681,132.464,4,0.924,Energizing,2,0,Very Good
+2017,Saturday Night Fever [The Original Movie Soundtrack],Bee Gees,Gaming,Stayin' Alive - 2007 Remastered Version Saturday Night Fever,0.0291,0.704,285373,0.834,0.00492,G,0.147,-7.131,0,0.0358,103.555,4,0.923,Romantic,-1,1,Very Good
+2017,A Night At The Opera (2011 Remaster),Queen,Gaming,Bohemian Rhapsody - Remastered 2011,0.271,0.414,354320,0.404,0,A,0.3,-9.928,0,0.0499,71.105,4,0.224,Lively,1,2,Very Good
+2017,Time Pieces: The Best Of Eric Clapton,Derek & The Dominos,Gaming,Layla,0.494,0.411,426173,0.76,0.549,A#,0.277,-10.193,1,0.0597,115.509,4,0.481,Cool,-1,-1,Very Good
+2017,"Before the Storm, Special Edition",Darude,Gaming,Sandstorm,0.141,0.528,225493,0.965,0.985,G#,0.0797,-7.984,0,0.0465,136.065,4,0.587,Energizing,2,0,Very Good
+2017,"Bigger, Better, Faster, More !",4 Non Blondes,Gaming,What's Up?,0.16,0.561,295493,0.555,0,G#,0.114,-9.734,0,0.0287,134.369,4,0.497,Empowering,0,1,Very Good
+2017,Number Ones,Stevie Wonder,Gaming,Superstition - Single Version,0.0172,0.642,244827,0.735,0.000733,F,0.0391,-8.866,1,0.0806,99.682,4,0.864,Energizing,2,0,Very Good
+2017,Rhythm of Youth,Men Without Hats,Gaming,The Safety Dance (Video Version) - Bonus Track,0.0197,0.572,166920,0.837,0,D,0.163,-7.876,1,0.0367,100.343,4,0.627,Empowering,0,1,Very Good
+2017,Singles (Remastered),New Order,Gaming,Blue Monday - 2016 Remastered Version,0.000726,0.793,450800,0.703,0.88,A,0.075,-9.548,1,0.0581,130.27,4,0.856,Energizing,2,0,Very Good
+2017,Violent Femmes,Violent Femmes,Gaming,Blister in the Sun - 2002 Remastered Version,0.219,0.701,144333,0.261,0,A,0.0821,-19.846,1,0.0938,97.042,4,0.89,Cool,-1,-1,Very Good
+2017,The Captain And Me,The Doobie Brothers,Gaming,Long Train Runnin',0.0916,0.575,207267,0.912,0.00211,E,0.0562,-7.275,0,0.0393,117.399,4,0.843,Cool,-1,-1,Very Good
+2017,Sublime (Explicit Version),Sublime,Gaming,What I Got,0.0172,0.795,171067,0.706,0.000384,E,0.326,-7.494,1,0.101,95.593,4,0.623,Cool,-1,-1,Very Good
+2017,The Best Of Cutting Crew,Cutting Crew,Gaming,(I Just) Died in Your Arms,0.0119,0.632,278627,0.727,7.64E-05,G#,0.0678,-11.209,0,0.0438,124.919,4,0.499,Empowering,0,1,Very Good
+2017,The Gift Of Game,Crazy Town,Gaming,Butterfly,0.00132,0.736,216733,0.811,0.000142,F#,0.107,-4.17,0,0.081,103.502,4,0.609,Energizing,2,0,Very Good
+2017,Burning Down The House / I Get Wild/Wild Gravity [Digital 45],Talking Heads,Gaming,Burning Down The House (45 Version),0.00644,0.779,241920,0.87,0.0107,D,0.0399,-13.141,0,0.0574,102.689,4,0.555,Energizing,2,0,Very Good
+2017,Monstercat 007 - Solace,Feint,Gaming,Time Bomb (feat. Veela),0.00049,0.335,211644,0.811,0.0231,G#,0.178,-4.911,1,0.0339,175.015,4,0.222,Energizing,2,0,Very Good
+2017,Years,Alesso,Gaming,Years - ラジオ・エディット,0.00234,0.37,195480,0.823,1.91E-06,B,0.174,-6.245,1,0.0805,128.008,4,0.323,Cool,-1,-1,Very Good
+2017,Clarity,Zedd,Gaming,Clarity,0.0371,0.514,271427,0.776,0,F,0.0735,-3.393,1,0.0783,127.975,4,0.21,Romantic,-1,1,Very Good
+2017,Bangarang EP,Skrillex,Gaming,Kyoto (feat. Sirah),0.0012,0.605,200787,0.92,0.000596,C#,0.483,-2.298,0,0.0713,174.974,4,0.219,Aggressive,2,-2,Very Good
+2017,4x4=12,deadmau5,Gaming,Animal Rights,0.000179,0.976,375049,0.406,0.17,G#,0.676,-6.962,0,0.288,128.015,4,0.387,Aggressive,2,-2,Very Good
+2017,Blow The Roof,Flux Pavilion,Gaming,Starlight,0.00349,0.501,250952,0.869,0.161,A#,0.0578,-5.113,0,0.0296,140.006,4,0.067,Aggressive,2,-2,Very Good
+2017,4x4=12,deadmau5,Gaming,Some Chords,6.42E-05,0.786,444141,0.427,0.537,A#,0.0732,-8.015,1,0.0669,128.005,4,0.42,Energizing,2,0,Very Good
+2017,La La La,Naughty Boy,Gaming,La La La,0.123,0.748,220779,0.685,0,D#,0.113,-4.39,0,0.0314,125.041,4,0.269,Energizing,2,0,Very Good
+2017,No Mercy,T.I.,Gaming,That's All She Wrote (feat. Eminem),0.0328,0.496,318360,0.785,0,E,0.0941,-3.472,1,0.306,170.02,4,0.357,Cool,-1,-1,Very Good
+2017,Get Wet,Krewella,Gaming,Live for the Night,0.0138,0.499,206480,0.843,0,D#,0.124,-2.224,1,0.113,127.932,4,0.533,Energizing,2,0,Very Good
+2017,Sunlight (2011),Modestep,Gaming,Sunlight,0.000289,0.359,230120,0.822,1.21E-05,A,0.148,-5.447,1,0.115,139.416,4,0.395,Aggressive,2,-2,Very Good
+2017,Injustice / Affliction,Sabre,Gaming,Injustice,0.00911,0.535,341322,0.91,0.561,B,0.163,-6.298,0,0.0583,84.807,4,0.506,Energizing,2,0,Very Good
+2017,Disc-Overy,Tinie Tempah,Gaming,Wonderman - feat. Ellie Goulding,0.178,0.619,219080,0.745,0,G#,0.202,-4.801,0,0.13,91.969,4,0.532,Energizing,2,0,Very Good
+2017,Burn,Ellie Goulding,Gaming,Burn,0.302,0.558,231212,0.778,0,G,0.101,-4.793,0,0.0459,86.93,4,0.339,Energizing,2,0,Very Good
+2017,"Urban by Nature, Sound Design by DJ Ravin",Phonique,Gaming,Feel what you want - Feat. Rebecca,0.0327,0.854,361973,0.662,0.0637,F#,0.101,-10.617,0,0.0629,121.998,4,0.409,Energizing,2,0,Very Good
+2017,Monstercat 009 - Reunion,Feint,Gaming,Fury,0.000735,0.415,231728,0.955,0.876,D,0.218,-3.538,0,0.0903,174.087,4,0.143,Aggressive,2,-2,Very Good
+2017,I Could Be The One [Avicii vs Nicky Romero],Avicii,Gaming,I Could Be The One (Avicii Vs. Nicky Romero) - Nicktim / Radio Edit,0.332,0.509,208316,0.79,6.67E-05,D#,0.316,-3.782,0,0.0374,127.946,4,0.638,Aggressive,2,-2,Very Good
+2017,La Musica [The Trumpeter] (feat. Lovelle),Ray Foxx,Gaming,La Musica [The Trumpeter] - feat. Lovelle [Radio Edit],0.0562,0.758,186748,0.747,0.00179,A#,0.16,-4.772,1,0.071,128.106,4,0.677,Aggressive,2,-2,Very Good
+2017,Club Tracks In Bm (10a) World Edition 1,PH Electro,Gaming,Englishman In New York (Radio Edit),0.0081,0.442,171914,0.868,0,G#,0.331,-4.555,0,0.0564,125.855,4,0.37,Energizing,2,0,Very Good
+2017,Atmosphere (Radio Edit) - Single,Kaskade,Gaming,Atmosphere (Radio Edit),0.0215,0.589,231440,0.76,3.85E-06,C,0.074,-4.622,1,0.0403,122.967,4,0.448,Romantic,-1,1,Very Good
+2017,Atmosphere,Kaskade,Gaming,Last Chance,0.0632,0.416,258293,0.848,0.0172,C,0.105,-4.688,0,0.0596,127.905,4,0.165,Empowering,0,1,Very Good
+2017,Tomorrowland 2012_02,Martin Solveig,Gaming,The Night Out - A-Trak vs. Martin Rework,0.00237,0.545,232510,0.928,1.66E-06,A#,0.338,-3.358,0,0.135,127.985,4,0.617,Energizing,2,0,Very Good
+2017,Rewind,Emma Hewitt,Gaming,Rewind - Mikkas Remix,0.000783,0.654,362091,0.901,0.729,A#,0.206,-5.645,1,0.0929,127.995,4,0.188,Energizing,2,0,Very Good
+2017,Damaged,Antillas,Gaming,Damaged - Radio Mix,0.084,0.599,197813,0.656,0,G#,0.146,-5.047,0,0.0552,130.063,4,0.353,Energizing,2,0,Very Good
+2017,Feint EP1,Feint,Gaming,Reprise - Original Mix,1.21E-05,0.274,246861,0.868,0.815,E,0.201,-7.955,1,0.0332,175.084,4,0.212,Lively,1,2,Very Good
+2017,Nobody's Perfect,Jessie J,Gaming,Nobody's Perfect - Netsky Full Vocal Remix,0.000982,0.601,295840,0.746,0.000105,E,0.0922,-8.097,0,0.0415,86.505,4,0.172,Energizing,2,0,Very Good
+2017,The Dead Symphonic EP,Zomboy,Gaming,Nuclear (Hands Up),0.00526,0.499,316209,0.969,0.000681,C#,0.0832,-1.074,0,0.0649,174.019,4,0.526,Aggressive,2,-2,Very Good
+2017,Play Hard EP,Krewella,Gaming,Alive,0.00413,0.663,290760,0.822,0.00318,F#,0.234,-2.909,1,0.0557,128.002,4,0.567,Energizing,2,0,Very Good
+2017,Jar Of Hearts,Dash Berlin,Gaming,Jar Of Hearts - Official Radio Edit,0.157,0.52,191225,0.755,2.14E-05,C,0.216,-5.102,1,0.0481,127.912,4,0.107,Empowering,0,1,Very Good
+2017,"Armada Deep House Selection, Vol. 1 (The Finest Deep House Tunes)",Tube & Berger,Gaming,Come On Now (Set It Off),0.0805,0.789,185156,0.79,0.00012,G,0.0507,-6.984,0,0.035,121.994,4,0.626,Energizing,2,0,Very Good
+2017,Stay The Night,Zedd,Gaming,Stay The Night - featuring Hayley Williams of Paramore,0.101,0.607,217080,0.74,0,F,0.0924,-3.116,1,0.0387,127.955,4,0.474,Empowering,0,1,Very Good
+2017,Falling Down feat. Kenzie May,Sub Focus,Gaming,Falling Down - xKore Remix,0.00084,0.564,292768,0.812,0.00333,A#,0.258,-6.975,1,0.0518,174.926,4,0.115,Aggressive,2,-2,Very Good
+2017,Ten Feet Tall,Afrojack,Gaming,Ten Feet Tall,0.0337,0.523,233353,0.862,0,A,0.14,-3.451,1,0.0658,126.984,4,0.353,Empowering,0,1,Very Good
+2017,What If I Go?,Mura Masa,Gaming,What If I Go? - Single Version,0.354,0.737,200550,0.616,0,E,0.307,-7.314,1,0.312,100.459,4,0.88,Cool,-1,-1,Very Good
+2017,Oh Wonder,Oh Wonder,Gaming,Technicolour Beat,0.639,0.533,180120,0.362,5.59E-05,D,0.0855,-10.409,0,0.0321,65.035,4,0.0739,Melancholy,-2,-1,Very Good
+2017,Dawn,RY X,Gaming,Berlin,0.962,0.398,174172,0.0662,0.186,E,0.107,-20.412,1,0.0388,136.92,4,0.0391,Melancholy,-2,-1,Very Good
+2017,Begin,LION BABE,Gaming,Jump Hi,0.000226,0.553,178560,0.811,0.000145,G,0.0914,-5.356,0,0.0864,93.028,4,0.575,Energizing,2,0,Excellent
+2017,99 Cents,Santigold,Gaming,Walking In A Circle,0.438,0.654,236267,0.455,3.74E-06,F,0.0878,-9.714,1,0.0378,112.993,4,0.16,Cool,-1,-1,Excellent
+2017,One in a Million,Midnight To Monaco,Gaming,One in a Million,0.447,0.51,234703,0.499,0,G,0.0618,-9.115,0,0.0339,77.986,4,0.437,Energizing,2,0,Excellent
+2017,Love Again,Ta-ku,Gaming,Love Again,0.063,0.513,316339,0.327,0.000253,A,0.117,-8.798,0,0.0346,78.412,4,0.146,Melancholy,-2,-1,Excellent
+2017,Give It All,Foals,Gaming,Give It All - Bondax Remix,0.0283,0.788,264425,0.627,0.00785,C#,0.112,-7.114,0,0.0556,118.006,4,0.447,Cool,-1,-1,Excellent
+2017,Roll Up Your Sleeves,Meg Mac,Gaming,Roll Up Your Sleeves,0.426,0.597,185059,0.526,0.0393,E,0.116,-6.825,1,0.0286,79.015,4,0.396,Empowering,0,1,Excellent
+2017,The Song They Play Every Night,Little Green Cars,Gaming,The Song They Play Every Night,0.408,0.512,224960,0.563,0.0262,C#,0.153,-11.8,0,0.0309,79.888,4,0.636,Melancholy,-2,-1,Excellent
+2017,Black Dignity,Sampa the Great,Gaming,Black Dignity,0.616,0.459,197139,0.424,0.00957,G#,0.151,-9.609,0,0.533,35.868,4,0.641,Cool,-1,-1,Excellent
+2017,Overgrown,James Blake,Gaming,Retrograde,0.869,0.324,223600,0.256,0.078,E,0.134,-11.229,0,0.042,77.906,4,0.182,Melancholy,-2,-1,Excellent
+2017,Fall Into The Light,Fink,Gaming,Fall Into The Light,0.843,0.36,298670,0.515,0.24,G#,0.131,-15.086,0,0.0308,87.685,3,0.378,Sentimental,-2,0,Excellent
+2017,FOVERE,TOKiMONSTA,Gaming,Giving Up (feat. Jonny Pierce),0.253,0.539,228148,0.842,3.22E-06,A#,0.139,-5.413,1,0.0432,161.933,4,0.251,Energizing,2,0,Excellent
+2017,Oh Wonder,Oh Wonder,Gaming,Lose It,0.739,0.433,229935,0.336,4.88E-06,B,0.318,-9.345,0,0.0433,87.554,4,0.157,Melancholy,-2,-1,Excellent
+2017,"i hate u, i love u (feat. olivia o'brien)",gnash,Gaming,"i hate u, i love u (feat. olivia o'brien)",0.727,0.5,226558,0.268,0,D#,0.104,-13.59,0,0.235,92.056,4,0.187,Cool,-1,-1,Excellent
+2017,Realise,Carmada,Gaming,On Fire,0.0302,0.486,230507,0.744,6.68E-05,E,0.0914,-6.082,0,0.356,94.965,4,0.402,Energizing,2,0,Excellent
+2017,Quiet Achiever,Yeo,Gaming,Quiet Achiever,0.105,0.49,214347,0.605,0.00275,A#,0.391,-8.595,1,0.176,94.914,4,0.358,Cool,-1,-1,Excellent
+2017,Graduation,Kanye West,Gaming,Stronger,0.00728,0.625,311867,0.726,0,G,0.318,-7.731,0,0.155,103.98,4,0.483,Cool,-1,-1,Excellent
+2017,Views,Drake,Gaming,Pop Style,0.187,0.718,212947,0.458,3.43E-06,C#,0.105,-10.024,0,0.117,132.998,4,0.0514,Cool,-1,-1,Excellent
+2017,Islah (Deluxe),Kevin Gates,Gaming,2 Phones,0.157,0.895,240000,0.681,0,E,0.189,-5.267,0,0.358,121.918,4,0.554,Cool,-1,-1,Excellent
+2017,So Far Gone,Drake,Gaming,Best I Ever Had,0.219,0.427,257760,0.861,0,A#,0.277,-4.874,1,0.376,161.776,4,0.581,Cool,-1,-1,Excellent
+2017,The Pinkprint (Deluxe),Nicki Minaj,Gaming,Only,0.409,0.67,312027,0.485,0,F,0.0973,-7.272,0,0.737,119.886,4,0.242,Cool,-1,-1,Excellent
+2017,Tha Smokin' Nephew,Baby Bash,Gaming,Suga Suga,0.657,0.701,239027,0.75,3.13E-06,D,0.0845,-3.191,0,0.274,82.531,4,0.515,Cool,-1,-1,Excellent
+2017,Vanilla Ice Is Back! - Hip Hop Classics,Vanilla Ice,Gaming,Ice Ice Baby,0.0023,0.978,254467,0.787,4.60E-06,B,0.102,-2.79,1,0.0394,116.006,4,0.597,Energizing,2,0,Excellent
+2017,What A Time To Be Alive,Drake,Gaming,Jumpman,0.0565,0.853,205879,0.547,0,A#,0.341,-7.535,1,0.194,142.065,4,0.676,Cool,-1,-1,Excellent
+2017,24K Magic,Bruno Mars,Gaming,That's What I Like,0.013,0.853,206693,0.56,0,A#,0.0944,-4.961,1,0.0406,134.066,4,0.86,Energizing,2,0,Excellent
+2017,SremmLife,Rae Sremmurd,Gaming,This Could Be Us,0.275,0.718,206307,0.692,0,D,0.118,-5.06,0,0.148,142.992,4,0.721,Energizing,2,0,Excellent
+2017,The Massacre,50 Cent,Gaming,Candy Shop,0.0305,0.609,208533,0.588,0.000142,E,0.369,-7.992,1,0.481,128.763,5,0.797,Cool,-1,-1,Excellent
+2017,Oops!... I Did It Again,Britney Spears,Gaming,Oops!...I Did It Again,0.3,0.751,211160,0.834,1.77E-05,A#,0.355,-5.444,0,0.0437,95.053,4,0.894,Energizing,2,0,Excellent
+2017,Survivor,Destiny's Child,Gaming,Bootylicious,0.00281,0.84,207907,0.835,1.11E-06,A#,0.152,-4.386,0,0.275,103.376,4,0.637,Energizing,2,0,Excellent
+2017,iSpy,KYLE,Gaming,iSpy,0.378,0.746,253107,0.653,0,E,0.229,-6.745,1,0.289,75.016,4,0.672,Energizing,2,0,Excellent
+2017,Doll Domination,The Pussycat Dolls,Gaming,When I Grow Up,0.00164,0.675,245680,0.693,0,G#,0.38,-5.682,0,0.0514,118.423,4,0.353,Energizing,2,0,Excellent
+2017,Uber Everywhere,MadeinTYO,Gaming,Uber Everywhere,0.0542,0.779,153429,0.455,0,A#,0.177,-15.025,1,0.28,140.181,4,0.197,Cool,-1,-1,Excellent
+2017,OOOUUU,Young M.A,Gaming,OOOUUU,0.533,0.64,234526,0.819,0,E,0.156,-4.108,1,0.455,166.012,4,0.623,Energizing,2,0,Excellent
+2017,Caroline,Aminé,Gaming,Caroline,0.303,0.945,209747,0.394,0,G,0.131,-8.571,1,0.492,120.058,4,0.743,Energizing,2,0,Excellent
+2018,Summer Sampler,Rich Homie Quan,Gaming,"Flex (Ooh, Ooh, Ooh)",0.038,0.728,176675,0.62,0,B,0.342,-7.533,1,0.0434,81.998,4,0.885,Energizing,2,0,Excellent
+2018,Nellyville,Nelly,Gaming,Hot In Herre,0.218,0.965,228227,0.736,0,F#,0.0595,-5.005,0,0.144,107.07,4,0.921,Energizing,2,0,Excellent
+2018,Sorry For Party Rocking (Deluxe Version),LMFAO,Gaming,Sexy And I Know It,0.115,0.698,199480,0.875,0,E,0.166,-4.164,1,0.322,129.986,4,0.734,Aggressive,2,-2,Excellent
+2018,FutureSex/LoveSounds,Justin Timberlake,Gaming,SexyBack,0.0584,0.967,242733,0.583,0,E,0.0519,-5.562,0,0.0789,117,4,0.964,Cool,-1,-1,Excellent
+2018,Mail On Sunday,Flo Rida,Gaming,Low (feat T-Pain),0.0928,0.918,231400,0.609,0,G,0.139,-5.64,0,0.0791,128.008,4,0.304,Cool,-1,-1,Excellent
+2018,Confessions,Usher,Gaming,Yeah!,0.0183,0.894,250373,0.791,0,B,0.0388,-4.699,1,0.112,105.018,4,0.583,Cool,-1,-1,Excellent
+2018,Late Registration,Kanye West,Gaming,Gold Digger,0.0192,0.646,207401,0.696,0,A#,0.0762,-5.572,0,0.342,92.88,4,0.625,Aggressive,2,-2,Excellent
+2018,Reflection (Deluxe),Fifth Harmony,Gaming,BO$$,0.00621,0.813,171413,0.872,0,F#,0.0498,-5.224,1,0.107,103.016,4,0.736,Energizing,2,0,Excellent
+2018,Pink Friday ... Roman Reloaded (Deluxe),Nicki Minaj,Gaming,Beez In The Trap,0.0199,0.821,268493,0.789,0.00114,A#,0.0943,-5.998,1,0.209,150.027,4,0.66,Cool,-1,-1,Excellent
+2018,BEYONCÉ [Platinum Edition],Beyoncé,Gaming,Partition,0.0296,0.412,319467,0.441,0.0726,G#,0.306,-11.523,0,0.291,185.571,4,0.174,Cool,-1,-1,Excellent
+2018,Believe,Justin Bieber,Gaming,Boyfriend,0.0269,0.711,171333,0.554,0.00776,A#,0.101,-6.099,1,0.0502,96.972,4,0.348,Energizing,2,0,Excellent
+2018,SremmLife,Rae Sremmurd,Gaming,Come Get Her,0.184,0.687,212947,0.563,0,B,0.0681,-6.214,1,0.163,185.056,4,0.112,Cool,-1,-1,Excellent
+2018,The Dutchess,Fergie,Gaming,London Bridge,0.214,0.748,241307,0.63,0,A#,0.204,-5.832,1,0.381,90.889,4,0.61,Cool,-1,-1,Excellent
+2018,Animal,Kesha,Gaming,TiK ToK,0.0746,0.755,199693,0.832,1.27E-06,B,0.291,-2.741,0,0.116,120.032,4,0.735,Energizing,2,0,Excellent
+2018,The Pinkprint (Deluxe),Nicki Minaj,Gaming,Feeling Myself,0.453,0.682,237840,0.707,0.00733,B,0.419,-5.611,1,0.207,139.163,4,0.439,Cool,-1,-1,Excellent
+2018,Cole World: The Sideline Story,J. Cole,Gaming,Work Out,0.0531,0.831,234773,0.427,0,B,0.316,-6.903,1,0.106,93.004,4,0.216,Energizing,2,0,Excellent
+2018,Shapes,Guru Griff,Jazz,Waves,0.0274,0.692,120000,0.584,0.554,D#,0.156,-15.771,0,0.0406,86.985,4,0.934,Energizing,2,0,Excellent
+2018,Summer Lounger,Konteks,Jazz,Summer Lounger,0.565,0.552,122000,0.316,0.856,A#,0.123,-9.625,0,0.0588,174.414,4,0.539,Empowering,0,1,Excellent
+2018,Water Wisdom,.Sinh,Jazz,Water Wisdom,0.551,0.717,140976,0.156,0.0515,F,0.142,-22.672,1,0.0886,92.102,3,0.405,Sentimental,-2,0,Excellent
+2018,Share a Bottle,Fortnight,Jazz,The Keys,0.337,0.733,111429,0.231,0.677,F,0.0681,-13.106,1,0.05,166.056,4,0.681,Energizing,2,0,Excellent
+2018,No Confusion,STRAANGE,Jazz,..Prowess..,0.889,0.49,53466,0.56,0.869,A,0.105,-10.801,1,0.149,170.972,1,0.0572,Lively,1,2,Excellent
+2018,Roach Ritual,Joe Corfield,Jazz,Cheat Sheet,0.926,0.75,88500,0.205,0.923,A#,0.0893,-10.868,1,0.0558,87.977,4,0.825,Romantic,-1,1,Excellent
+2018,Space High,High John,Jazz,Spacewalk,0.413,0.442,149333,0.232,0.895,G,0.0937,-14.193,0,0.0377,179.485,4,0.794,Romantic,-1,1,Excellent
+2018,Beat Batch 2016,mt. fujitive,Jazz,Home,0.614,0.663,70244,0.096,0.948,A#,0.11,-11.933,1,0.0961,81.981,4,0.817,Cool,-1,-1,Excellent
+2018,fall apart,potsu,Jazz,fall apart,0.826,0.566,172404,0.43,0.562,G,0.145,-11.333,0,0.0361,171.961,4,0.233,Aggressive,2,-2,Excellent
+2018,No More,Dontcry,Jazz,No More,0.954,0.628,96400,0.268,0.651,D,0.112,-11.807,0,0.31,93.375,3,0.467,Empowering,0,1,Excellent
+2018,Cruise Control,Kavv,Jazz,My Sunshine,0.933,0.695,106667,0.185,0.908,D,0.111,-10.311,0,0.071,144.36,4,0.932,Cool,-1,-1,Excellent
+2018,Music for Happiness,Joey Pecoraro,Jazz,Don't Be a Fool,0.613,0.664,172314,0.332,0.704,F#,0.0995,-14.093,1,0.0388,169.947,4,0.26,Cool,-1,-1,Excellent
+2018,The Fog,Freddie Joachim,Jazz,The Fog,0.0309,0.559,170667,0.564,0.947,C#,0.141,-9.688,0,0.103,91.102,4,0.358,Empowering,0,1,Excellent
+2018,Love Libations,Bry.Zen,Jazz,Afternoon,0.0643,0.419,154022,0.658,0.0358,A#,0.0656,-5.325,1,0.224,175.61,4,0.767,Empowering,0,1,Excellent
+2018,Sanctuary,Mirrorish,Jazz,Stick It,0.115,0.903,87715,0.268,0.899,G#,0.0998,-9.051,0,0.457,137.167,4,0.281,Aggressive,2,-2,Excellent
+2018,Nurse Joy,Grumpysnorlax,Jazz,Exquisite Livin',0.903,0.636,79062,0.565,0.873,G#,0.16,-9.618,0,0.497,147.808,4,0.745,Lively,1,2,Excellent
+2018,Lethal Chops,Sadiva,Jazz,Dragons,0.00317,0.585,114625,0.668,0.921,F#,0.0802,-4.599,1,0.0428,82.052,4,0.647,Cool,-1,-1,Excellent
+2018,Lost Pieces / Drink One More / Infinito,Brous One,Jazz,Infinito,0.13,0.72,114701,0.467,0.959,F#,0.113,-10.303,1,0.0821,85.996,4,0.357,Cool,-1,-1,Poor
+2018,roses [beat tape],Flavors,Jazz,by my side,0.486,0.638,135500,0.0489,0.892,F#,0.0881,-12.737,0,0.173,81.804,4,0.419,Sentimental,-2,0,Poor
+2018,Evergreen Tape,Otesla,Jazz,Strollin',0.757,0.649,90396,0.246,0.919,G,0.113,-9.689,0,0.261,188.666,4,0.548,Sentimental,-2,0,Poor
+2018,Cafe Nervosa,Too Ugly,Jazz,Cafe Nervosa,0.703,0.824,160022,0.265,0.709,F#,0.103,-14.298,1,0.0463,84.014,4,0.903,Melancholy,-2,-1,Poor
+2018,All Natural,Kupla,Jazz,Seasons,0.538,0.708,125300,0.253,0.475,E,0.0622,-10.268,1,0.0631,78.015,4,0.293,Empowering,0,1,Poor
+2018,Trouvaille,Freddie Joachim,Jazz,Breeze,0.0137,0.825,156787,0.472,0.834,A#,0.0992,-7.146,1,0.069,92.013,4,0.831,Cool,-1,-1,Poor
+2018,After You've Gone,Eddie Henderson,Jazz,After You've Gone,0.986,0.382,424243,0.158,0.823,G,0.127,-12.962,1,0.0466,46.95,4,0.314,Sentimental,-2,0,Poor
+2018,Beloved of the Sky,Renee Rosnes,Jazz,The Winter of My Discontent,0.897,0.487,440513,0.259,0.778,B,0.0957,-12.391,0,0.0386,111.218,4,0.108,Sentimental,-2,0,Poor
+2018,Pick Yourself Up,Jimmy Forrest,Jazz,That's All,0.953,0.406,293933,0.175,0.92,C,0.0841,-17.018,1,0.0525,180.707,3,0.436,Romantic,-1,1,Poor
+2018,Atonement,Trio X of Sweden,Jazz,Atonement,0.966,0.578,242067,0.0801,0.539,F,0.106,-20.314,1,0.0501,105.706,4,0.0747,Sentimental,-2,0,Poor
+2018,Love Jumped Out,Bob Brookmeyer,Jazz,Who Could Care,0.972,0.336,286067,0.0937,0.0123,A,0.145,-20.317,1,0.0414,90.587,4,0.0992,Romantic,-1,1,Poor
+2018,Travelin',Echoes of Swing,Jazz,On a Turquoise Cloud,0.987,0.347,228404,0.151,0.958,A#,0.13,-13.445,1,0.0321,70.602,4,0.087,Sentimental,-2,0,Poor
+2018,The Winter of My Discontent,Renee Rosnes,Jazz,The Winter of My Discontent,0.897,0.487,440513,0.259,0.778,B,0.0957,-12.391,0,0.0386,111.218,4,0.108,Sentimental,-2,0,Poor
+2018,Love & Peace (with Eric Schaefer & Chris Jennings),Joachim Kühn,Jazz,Love and Peace,0.967,0.445,119890,0.216,0.914,F,0.149,-14.707,1,0.0503,109.969,3,0.237,Energizing,2,0,Poor
+2018,Romaria,Andy Sheppard Quartet,Jazz,Romaria,0.964,0.38,311480,0.054,0.687,E,0.151,-21.941,1,0.037,134.176,3,0.181,Melancholy,-2,-1,Poor
+2018,Powell to the People,Massimo Colombo,Jazz,I'll Keep Loving You,0.892,0.487,314763,0.12,0.853,G,0.0996,-20.964,1,0.04,56.822,4,0.131,Sentimental,-2,0,Poor
+2018,"Uptown, Downtown",Bill Charlap Trio,Jazz,Spring Can Really Hang You Up The Most,0.934,0.386,474787,0.0481,0.852,B,0.101,-25.336,0,0.04,148.305,3,0.0714,Sentimental,-2,0,Poor
+2018,E.S:T. Tuesday Wonderland (US Version),Esbjörn Svensson Trio,Jazz,Where We Used To Live,0.871,0.421,265320,0.0867,0.429,A,0.115,-18.732,1,0.037,95.438,4,0.07,Sentimental,-2,0,Poor
+2018,Triple Play,Harold Danko,Jazz,A Quiet Dawn,0.75,0.484,316747,0.0231,0.853,A,0.0913,-28.641,0,0.0423,117.583,1,0.347,Sentimental,-2,0,Poor
+2018,Canción Contra La Indecisión,Bobo Stenson Trio,Jazz,Canción Contra La Indecisión,0.945,0.591,252773,0.141,0.865,A,0.0822,-23.536,1,0.039,125.06,4,0.368,Sentimental,-2,0,Poor
+2018,Mélodies en noir & blanc,Aldo Romano,Jazz,Song for Ellis,0.974,0.401,265527,0.209,0.853,A#,0.0905,-17.161,0,0.0308,72.415,3,0.075,Sentimental,-2,0,Poor
+2018,After All,Yuri Honing Acoustic Quartet,Jazz,After All,0.921,0.433,322080,0.217,0.714,F#,0.096,-13.799,1,0.0343,105.96,3,0.179,Melancholy,-2,-1,Poor
+2018,The Atlantic Studio Album Collection,John Coltrane,Jazz,I'll Wait And Pray,0.89,0.475,206360,0.0588,0.0238,D,0.129,-17.464,0,0.0418,115.642,4,0.241,Sentimental,-2,0,Poor
+2018,Marshall (Original Motion Picture Soundtrack),Marcus Miller,Jazz,For the Love of Freedom,0.967,0.538,152107,0.0687,0.461,B,0.0854,-17.993,0,0.0371,103.808,4,0.132,Sentimental,-2,0,Poor
+2018,Black Notes from the Deep,Courtney Pine,Jazz,How Many More,0.799,0.403,387450,0.307,0.124,D,0.143,-13.426,1,0.0357,119.845,4,0.371,Sentimental,-2,0,Poor
+2018,The Path Up,Joran Cariou Trio,Jazz,La fin justifie les moyens,0.935,0.459,433787,0.204,0.905,C,0.0969,-16.941,0,0.0365,108.573,3,0.1,Sentimental,-2,0,Poor
+2018,"Uptown, Downtown",Bill Charlap Trio,Jazz,"Uptown, Downtown",0.833,0.592,360354,0.231,0.911,D#,0.0992,-16.446,0,0.0371,62.693,4,0.377,Sentimental,-2,0,Poor
+2018,The Comedian (Original Motion Picture Soundtrack),Terence Blanchard,Jazz,Jackie Gets Out,0.941,0.349,176297,0.227,0.819,D#,0.109,-12.298,1,0.031,100.449,4,0.151,Sentimental,-2,0,Poor
+2018,Hidden Beauty,Triosence,Jazz,Leave Me Here,0.859,0.456,243013,0.257,0.475,G,0.111,-16.877,0,0.0298,104.311,4,0.181,Sentimental,-2,0,Poor
+2018,Ménage à trois,Enrico Pieranunzi,Jazz,Romance / Hommage à Milhaud,0.935,0.428,285601,0.187,0.853,G,0.103,-21.001,1,0.0375,108.962,4,0.186,Sentimental,-2,0,Poor
+2018,Blooming Tall Phlox,Yelena Eckemoff,Jazz,Mommy's Shawl,0.95,0.34,305427,0.237,0.927,F,0.14,-14.901,1,0.0302,162.892,4,0.0716,Sentimental,-2,0,Poor
+2018,Jazz Flute Traditions,Nestor Torres,Jazz,So in Love,0.8,0.343,505032,0.307,0.467,A#,0.664,-14.526,1,0.0521,78.165,4,0.186,Sentimental,-2,0,Poor
+2018,Ah Um,Charles Mingus,Jazz,Goodbye Pork Pie Hat,0.957,0.356,342373,0.0937,0.096,F,0.209,-16.64,0,0.0353,86.669,3,0.278,Sentimental,-2,0,Poor
+2018,Landmarks,Brian Blade & The Fellowship Band,Jazz,Landmarks,0.928,0.384,500507,0.13,0.823,F,0.122,-22.154,1,0.031,105.198,4,0.12,Sentimental,-2,0,Poor
+2018,Countdown,Joey Alexander,Jazz,For Wee Folks,0.973,0.478,388040,0.0757,0.939,D,0.108,-20.847,1,0.0505,76.952,4,0.233,Sentimental,-2,0,Poor
+2018,Trying to Figure It Out,Grace Kelly,Jazz,Ballad for MC,0.974,0.385,182653,0.0562,0.532,G#,0.107,-14.812,1,0.0415,116.666,4,0.192,Romantic,-1,1,Poor
+2018,From Here I See,Ben Wolfe,Jazz,So Lovely,0.967,0.296,340507,0.0709,0.804,C,0.105,-14.832,0,0.0312,95.028,4,0.0696,Sentimental,-2,0,Poor
+2018,Duke's Dream,Enrico Pieranunzi,Jazz,I Got It Bad,0.988,0.479,440133,0.146,0.692,E,0.103,-14.319,1,0.0351,111.643,3,0.07,Melancholy,-2,-1,Poor
+2018,Plays George Gershwin: The American Soul,Bill Charlap,Jazz,"I Was So Young, and You Were So Beautiful",0.94,0.317,234373,0.0302,0.298,A#,0.0792,-30.447,1,0.0342,47.859,4,0.165,Sentimental,-2,0,Poor
+2018,Invitation,Passport Quartet,Jazz,I'm a Fool to Want You,0.986,0.371,66762,0.0295,0.937,G,0.125,-22.038,0,0.0335,82.313,3,0.258,Sentimental,-2,0,Poor
+2018,French Fries & Champagne,The Hot Sardines,Jazz,Gramercy Sunset,0.886,0.466,255107,0.0753,0.927,A,0.0984,-18.864,1,0.0297,87.791,4,0.0841,Sentimental,-2,0,Poor
+2018,Look Out! (RVG Edition),Stanley Turrentine,Jazz,Journey Into Melody - 2007 Digital Remaster,0.946,0.505,294940,0.159,0.0127,E,0.218,-11.235,0,0.0336,59.385,4,0.196,Cool,-1,-1,Poor
+2018,MoodScape,Bill Mobley,Jazz,I'm Glad There Is You,0.929,0.55,484627,0.249,0.828,D,0.258,-15.919,0,0.0325,121.37,4,0.296,Sentimental,-2,0,Poor
+2018,Phil's Mood,Phil Woods,Jazz,Blue Ballad,0.623,0.47,394920,0.156,0.187,B,0.104,-17.036,1,0.0399,118.176,4,0.059,Sentimental,-2,0,Poor
+2018,Nearness,Joshua Redman,Jazz,The Nearness of You,0.992,0.447,1004627,0.163,0.776,F,0.654,-14.835,1,0.0707,74.933,3,0.197,Cool,-1,-1,Poor
+2018,Kind Of Blue (Legacy Edition),Miles Davis,Jazz,Blue in Green,0.81,0.421,337733,0.0161,0.0021,B,0.0978,-25.358,0,0.0374,110.926,4,0.16,Sentimental,-2,0,Average
+2018,Let's Call the Whole Thing Off,Seamus Blake,Jazz,Count Your Blessings,0.87,0.446,492080,0.242,0.497,F,0.105,-14.152,1,0.0368,126.681,4,0.171,Sentimental,-2,0,Average
+2018,Standard Time Vol. 3: The Resolution Of Romance,Wynton Marsalis,Jazz,Where or When,0.99,0.326,168667,0.0575,0.887,C#,0.281,-16.5,1,0.0393,127.397,5,0.301,Sentimental,-2,0,Average
+2018,Remembering Billie,Scott Hamilton,Jazz,Good Morning Heartache,0.823,0.526,322133,0.17,0.777,F#,0.114,-13.089,0,0.0411,117.414,4,0.18,Sentimental,-2,0,Average
+2018,The Sequel,Mulgrew Miller,Jazz,It Never Entered my Mind,0.921,0.445,391707,0.223,0.884,C,0.131,-17.402,1,0.0374,110.821,4,0.225,Sentimental,-2,0,Average
+2018,The Way You Look Tonight,Beegie Adair,Jazz,Can't Help Loving,0.924,0.533,221733,0.148,0.932,A,0.112,-18.275,1,0.0329,63.637,4,0.108,Sentimental,-2,0,Average
+2018,Jay McShann: Going to Kansas City,Julian Dash,Jazz,Blue and Sentimental,0.961,0.484,389893,0.0291,0.474,G,0.115,-23.363,1,0.0459,98.434,4,0.379,Sentimental,-2,0,Average
+2018,Today And Tomorrow,McCoy Tyner,Jazz,When Sunny Gets Blue,0.846,0.569,282320,0.117,0.852,D,0.0978,-22.741,1,0.0446,60.483,4,0.101,Sentimental,-2,0,Average
+2018,Songbook,Kenny Garrett,Jazz,Before It's Time To Say Goodbye,0.857,0.364,317946,0.114,0.635,A#,0.0839,-16.552,1,0.0333,117.715,3,0.0575,Sentimental,-2,0,Average
+2018,Blues Walk,Lou Donaldson,Jazz,Autumn Nocturne,0.967,0.539,294667,0.0678,0.168,A,0.114,-18.039,1,0.0468,124.105,4,0.263,Sentimental,-2,0,Average
+2018,Save US,Dan Cray Trio,Jazz,Good Morning.Goodbye,0.868,0.42,336373,0.105,0.587,D#,0.0957,-20.502,1,0.035,99.873,4,0.0985,Sentimental,-2,0,Average
+2018,Wind,Ibrahim Maalouf,Jazz,Doubts 2,0.971,0.428,294587,0.212,0.73,A,0.169,-15.442,0,0.032,98.096,3,0.314,Sentimental,-2,0,Average
+2018,The Trio,"Tommy Flanagan, Ron Carter & Tony Williams",Jazz,Angel Eyes,0.886,0.386,348533,0.125,0.878,F#,0.189,-19.892,0,0.0572,78.553,3,0.14,Sentimental,-2,0,Average
+2018,Walking Shadows,Joshua Redman,Jazz,The Folks Who Live on the Hill,0.937,0.428,240093,0.3,0.658,A,0.168,-8.885,1,0.034,122.667,5,0.235,Sentimental,-2,0,Average
+2018,Nothing Serious,Roy Hargrove,Jazz,Trust,0.912,0.399,325587,0.307,0.623,A#,0.115,-14.38,1,0.0347,116.308,4,0.0659,Sentimental,-2,0,Average
+2018,The Best Of Lee Morgan,Lee Morgan,Jazz,I Remember Clifford,0.901,0.368,428973,0.14,0.874,A,0.0688,-15.005,0,0.045,61.758,4,0.172,Sentimental,-2,0,Average
+2018,Gershwin For Lovers,Marcus Roberts,Jazz,The Man I Love,0.748,0.52,341667,0.0748,0.633,F,0.102,-24.477,1,0.0497,107.327,4,0.122,Sentimental,-2,0,Average
+2018,Another Standard,Bob Berg,Jazz,All The Way,0.717,0.423,335333,0.158,0.0075,A,0.0975,-15.59,0,0.0346,106.974,4,0.185,Sentimental,-2,0,Average
+2018,West of 5th,Hank Jones,Jazz,Eleanor,0.971,0.45,289693,0.0437,0.88,G,0.0948,-29.46,1,0.0374,63.938,4,0.0988,Sentimental,-2,0,Average
+2018,Eternal,Branford Marsalis,Jazz,Gloomy Sunday,0.91,0.421,763467,0.0967,0.415,E,0.218,-16.441,0,0.0509,77.401,4,0.183,Sentimental,-2,0,Average
+2018,Out Here,Christian McBride,Jazz,I Have Dreamed,0.918,0.331,507533,0.0861,0.902,D,0.106,-21.226,1,0.0354,107.436,4,0.152,Sentimental,-2,0,Average
+2018,The Return Of Art Pepper,Art Pepper,Jazz,You Go To My Head,0.978,0.575,258040,0.0935,0.452,C,0.109,-15.906,1,0.0858,65.23,4,0.301,Sentimental,-2,0,Average
+2015,Dreamsville,David Halliday,Jazz,Dreamsville,0.899,0.461,477173,0.0389,0.015,A,0.0927,-20.482,1,0.0399,109.374,4,0.125,Sentimental,-2,0,Average
+2015,The Noble Art Of Teddy Wilson,Teddy Wilson,Jazz,Fools Rush In,0.971,0.633,149072,0.12,0.871,D,0.121,-20.066,0,0.0428,115.51,3,0.456,Sentimental,-2,0,Average
+2015,Where Do You Start,Brad Mehldau Trio,Jazz,Where Do You Start,0.96,0.411,246067,0.0416,0.925,A#,0.064,-23.23,1,0.0414,97.96,4,0.0782,Sentimental,-2,0,Average
+2015,Dance of Life,Xavier Davis,Jazz,Old Folks,0.827,0.458,482187,0.217,0.805,D,0.194,-16.582,1,0.0328,107.506,4,0.128,Sentimental,-2,0,Average
+2015,Blues For Hiroshi,Anthony Wonsey Trio,Jazz,The Peacocks,0.949,0.386,567920,0.148,0.792,A,0.0665,-18.921,0,0.0367,94.88,4,0.128,Sentimental,-2,0,Average
+2015,A Hundred Dreams from Now,Ray Bryant,Jazz,A Hundred Dreams from Now,0.967,0.384,206040,0.0544,0.964,A,0.115,-19.791,1,0.0485,181.262,3,0.31,Sentimental,-2,0,Average
+2015,Boss Tenor,Gene Ammons,Jazz,My Romance,0.97,0.509,252947,0.0461,0.911,A#,0.134,-10.693,1,0.0427,132.709,4,0.362,Melancholy,-2,-1,Average
+2015,Blues-a-Plenty (feat. Ben Webster) [Bonus Track Version],Johnny Hodges,Jazz,I Didn't Know About You,0.936,0.358,212493,0.16,0.34,F,0.0896,-12.658,0,0.0352,179.955,3,0.244,Melancholy,-2,-1,Average
+2015,Night Train,Oscar Peterson Trio,Jazz,I Got It Bad And That Ain't Good,0.972,0.448,308893,0.0532,0.876,D,0.0863,-27.35,1,0.0454,99.757,4,0.186,Sentimental,-2,0,Average
+2015,Smile,Jacky Terrasson,Jazz,Sous le Ciel de Paris,0.195,0.323,244867,0.118,0.694,D,0.241,-22.751,0,0.0449,79.554,4,0.0747,Sentimental,-2,0,Average
+2015,Payton's Place,Nicholas Payton,Jazz,The Last Goodbye,0.96,0.32,325400,0.156,0.904,B,0.0775,-12.258,1,0.033,159.618,3,0.0664,Sentimental,-2,0,Average
+2015,Music From Man Of La Mancha,Eliane Elias,Jazz,What Does He Want Of Me,0.692,0.529,403267,0.467,0.853,D,0.0974,-13.935,0,0.0294,138.423,4,0.496,Lively,1,2,Average
+2015,West End (Live),Mike Casey,Jazz,West End - Live,0.0999,0.482,379919,0.619,0.853,D,0.683,-10.337,1,0.0407,114.579,4,0.531,Romantic,-1,1,Average
+2015,Live: Sfjazz Center 2017,SFJazz Collective,Jazz,Reflections - Live,0.958,0.404,348351,0.205,0.681,G,0.696,-18.916,0,0.0584,115.511,4,0.205,Sentimental,-2,0,Average
+2015,Breaking English,Rafiq Bhatia,Jazz,Breaking English,0.682,0.384,354574,0.411,0.892,G#,0.112,-11.204,0,0.0527,130.049,4,0.18,Melancholy,-2,-1,Average
+2015,Sagaye,Coherence Quartet,Jazz,Jerzmanowa,0.877,0.392,377747,0.307,0.57,B,0.113,-13.605,0,0.0292,107.901,3,0.175,Sentimental,-2,0,Average
+2015,No Defense,Addison Frei Trio,Jazz,T Tune,0.667,0.403,295573,0.303,0.626,C#,0.117,-15.594,0,0.0332,173.582,4,0.464,Sentimental,-2,0,Average
+2015,It Might As Well Be Swing,Allan Vaché,Jazz,It Might As Well Be Spring,0.576,0.553,343220,0.397,0.734,E,0.208,-13.258,0,0.0423,119.966,4,0.486,Lively,1,2,Average
+2015,Beloved of the Sky,Renee Rosnes,Jazz,Rhythm of the River,0.906,0.509,227458,0.355,0.91,D,0.154,-14.963,0,0.0409,115.558,4,0.732,Sentimental,-2,0,Good
+2015,Rise Up,Lakecia Benjamin,Jazz,Lonely,0.659,0.509,360320,0.163,0.246,A#,0.322,-13.665,1,0.0348,118.985,4,0.174,Melancholy,-2,-1,Good
+2015,Steve Gadd Band,Steve Gadd Band,Jazz,Where's Earth?,0.163,0.818,254600,0.447,0.739,B,0.0808,-12.798,1,0.0338,102.027,4,0.791,Cool,-1,-1,Good
+2015,Factotum,Thijs de Klijn Quintet,Jazz,Alternative Fact,0.389,0.547,320480,0.406,0.832,D#,0.0886,-13.349,1,0.0413,121.323,4,0.482,Aggressive,2,-2,Good
+2015,Spiral,Brad Mehldau Trio,Jazz,Spiral,0.534,0.396,513907,0.46,0.891,A,0.102,-15.001,1,0.0356,79.384,4,0.348,Sentimental,-2,0,Good
+2015,Monsieur Claude (A Travel with Claude Debussy),Enrico Pieranunzi,Jazz,Rêverie,0.941,0.449,465056,0.168,0.219,E,0.117,-19.436,0,0.0317,123.618,4,0.141,Sentimental,-2,0,Good
+2015,Free as the Birds,Jay Phelps,Jazz,Amphitrite's Bounty,0.939,0.527,487057,0.32,0.88,B,0.108,-10.102,1,0.0297,102.12,4,0.405,Aggressive,2,-2,Good
+2015,Sonic Fiction,Matthew Shipp Quartet,Jazz,First Step,0.905,0.336,204080,0.187,0.313,F,0.126,-14.719,1,0.0315,82.179,4,0.0388,Sentimental,-2,0,Good
+2015,Dystopia,Progger,Jazz,Choom,0.575,0.579,453367,0.526,0.607,E,0.125,-10.28,0,0.0397,87.109,4,0.297,Melancholy,-2,-1,Good
+2015,Fifteen,Nostalgia 77 and the Monster,Jazz,Measures,0.139,0.397,257427,0.424,0.942,A#,0.274,-11.058,1,0.031,89.761,3,0.662,Cool,-1,-1,Good
+2015,Way Down Here,Simon Jefferis,Jazz,Way Down Here,0.41,0.827,225833,0.384,0.708,A#,0.867,-12.359,0,0.134,90.005,4,0.518,Melancholy,-2,-1,Good
+2015,Sundae Sauuce Presents: Morning Gelato,A Sol Mechanic,Jazz,Memory Well,0.887,0.331,296065,0.268,0.883,C,0.0789,-14.396,0,0.037,121.854,4,0.0565,Cool,-1,-1,Good
+2015,I've Always Been,Mac Ayres,Jazz,I've Always Been,0.664,0.787,114930,0.38,0.00403,A#,0.357,-11.113,0,0.267,71.072,4,0.453,Lively,1,2,Good
+2015,Celebrate Life!,Elaquent,Jazz,Sao Paulo,0.0362,0.803,165773,0.528,0.776,F,0.0712,-9.717,1,0.0563,112.041,5,0.277,Cool,-1,-1,Good
+2015,In the Moment,Silo,Jazz,In the Moment,0.432,0.833,200046,0.383,0.0248,A#,0.0767,-8.073,0,0.18,89.966,4,0.385,Empowering,0,1,Good
+2015,Grooves Vol. 1,Penthouse Penthouse,Jazz,Untitled,0.454,0.865,132250,0.432,0.0611,E,0.168,-10.832,0,0.464,75.007,4,0.625,Aggressive,2,-2,Good
+2015,Beats For Days - Vol. 2,Gonza,Jazz,Neo Zoul,0.0151,0.598,83693,0.201,0.745,E,0.106,-20.695,1,0.0766,84.89,4,0.665,Aggressive,2,-2,Good
+2015,Birdsongs,Suff Daddy,Jazz,Macrowave,0.238,0.852,223146,0.299,0.0315,B,0.113,-9.073,0,0.17,140.032,4,0.519,Cool,-1,-1,Good
+2015,La Planta,Sumwun,Jazz,Honey,0.662,0.7,109197,0.0772,0.89,D,0.132,-12.013,0,0.302,176.255,4,0.712,Energizing,2,0,Good
+2015,Charlie Eastern,Jalen Santoy,Jazz,Foreplay,0.143,0.793,171371,0.315,0.0142,A#,0.113,-7.457,1,0.0825,118.824,4,0.541,Cool,-1,-1,Good
+2015,Zodiacs,The Deli,Jazz,Fire,0.601,0.811,196000,0.258,0.758,A,0.0817,-6.405,0,0.0857,90.104,4,0.598,Romantic,-1,1,Good
+2015,Wikipedia,Jean Deaux,Jazz,Wikipedia,0.391,0.771,199970,0.462,5.72E-06,G#,0.267,-8.717,0,0.128,145.908,4,0.875,Cool,-1,-1,Good
+2015,Con Todo El Mundo,Khruangbin,Jazz,Shades of Man,0.0475,0.659,227148,0.498,0.855,C#,0.777,-8.301,0,0.0597,82.633,4,0.796,Melancholy,-2,-1,Good
+2015,Habitats EP,Pablo Queu,Jazz,Is This Real,0.00904,0.742,215500,0.635,4.44E-05,E,0.102,-9.168,0,0.031,112.047,4,0.526,Romantic,-1,1,Good
+2015,Chillhop Essentials Winter 2017,The Breed,Jazz,Salmiakki,0.0674,0.852,177009,0.46,0.532,F,0.0924,-6.357,1,0.197,86.996,4,0.731,Aggressive,2,-2,Good
+2015,Children of Nu,Reginald Omas Mamode IV,Jazz,I Guess,0.0108,0.97,189627,0.577,0.21,B,0.0603,-10.397,1,0.0459,103.978,4,0.989,Cool,-1,-1,Good
+2015,Strings Attached (with Kiyoshi Kitagawa & Toni Moreno),Dan Rose,Jazz,Strings Attached,0.915,0.507,247747,0.285,0.00627,F#,0.0803,-15.694,1,0.0381,111.331,4,0.233,Sentimental,-2,0,Good
+2015,A Swingin' Affair (The Rudy Van Gelder Edition),Dexter Gordon,Jazz,Don't Explain - 2005 Digital Remaster,0.926,0.488,366280,0.146,0.0291,D,0.105,-12.949,1,0.0349,114.464,4,0.149,Sentimental,-2,0,Good
+2015,Erroll Garner's Finest Hour,Erroll Garner,Jazz,Misty,0.958,0.434,166800,0.25,0.675,G,0.172,-13.641,0,0.0416,106.767,4,0.117,Sentimental,-2,0,Good
+2015,Easy Living,Jack Segal,Jazz,When Joanna Loved Me,0.968,0.527,341627,0.032,0.147,C,0.097,-26.809,1,0.0326,99.179,4,0.177,Sentimental,-2,0,Good
+2015,The Complete Riverside Recordings,Thelonious Monk,Jazz,Trust In Me,0.941,0.574,270999,0.0336,0.359,G,0.0936,-19.726,1,0.0474,128.799,4,0.206,Sentimental,-2,0,Good
+2015,Time Further Out,The Dave Brubeck Quartet,Jazz,Blue Shadows in the Street,0.812,0.608,394867,0.153,0.635,D,0.104,-20.75,0,0.0482,116.853,4,0.372,Sentimental,-2,0,Good
+2015,Underground,Thelonious Monk,Jazz,Easy Street,0.709,0.547,352867,0.181,0.749,G,0.0741,-18.268,1,0.0468,136.409,4,0.253,Sentimental,-2,0,Good
+2015,Kind Of Blue (Legacy Edition),Miles Davis,Jazz,So What,0.705,0.517,562640,0.151,0.00136,A,0.116,-17.266,1,0.0373,136.356,4,0.21,Sentimental,-2,0,Good
+2015,Mingus Ah Um,Charles Mingus,Jazz,Goodbye Pork Pie Hat,0.959,0.291,287800,0.103,0.0573,F,0.14,-17.985,0,0.0347,77.544,3,0.224,Melancholy,-2,-1,Good
+2015,Autumn Piano Jazz,Bill Evans,Jazz,Goodbye,0.939,0.542,309493,0.022,0.851,A,0.0927,-30.394,0,0.0408,103.553,4,0.0554,Sentimental,-2,0,Good
+2015,Kind Of Blue,Miles Davis,Jazz,All Blues,0.764,0.501,692973,0.24,0.00253,A,0.103,-14.657,1,0.0308,139.445,3,0.365,Sentimental,-2,0,Good
+2015,Speak Like A Child,Herbie Hancock,Jazz,First Trip - 2004 Digital Remaster,0.904,0.614,361627,0.407,0.102,A,0.101,-12.729,1,0.0384,103.221,3,0.668,Sentimental,-2,0,Good
+2015,On 52nd Street,Marian McPartland,Jazz,Lullaby In Rhythm,0.908,0.587,180160,0.329,0.91,D,0.0958,-14.6,1,0.0374,111.779,4,0.737,Lively,1,2,Good
+2015,Kind Of Blue,Miles Davis,Jazz,Blue in Green,0.79,0.443,337160,0.0335,0.00152,B,0.109,-21.052,0,0.0409,117.285,4,0.144,Sentimental,-2,0,Good
+2015,Page One (The Rudy Van Gelder Edition),Joe Henderson,Jazz,Homestretch - 1999 Digital Remaster,0.64,0.52,255373,0.709,1.68E-05,D,0.281,-8.429,0,0.0453,137.202,4,0.695,Sentimental,-2,0,Good
+2015,Piano Solos,Bud Powell,Jazz,"So Sorry, Please",0.857,0.351,195280,0.503,0.552,D,0.326,-10.93,0,0.0314,174.288,4,0.837,Sentimental,-2,0,Very Good
+2015,At The Village Gate,Herbie Mann,Jazz,Comin' Home Baby - Live at the Village Gate,0.589,0.664,517507,0.259,0.461,D,0.0956,-18.952,1,0.0485,78.473,4,0.519,Sentimental,-2,0,Very Good
+2015,The Kicker,Bobby Hutcherson,Jazz,Bedouin - 1999 Digital Remaster,0.72,0.638,491467,0.439,0.000184,C#,0.159,-15.338,0,0.0307,95.976,4,0.634,Sentimental,-2,0,Very Good
+2015,The Bill Evans Album,Bill Evans,Jazz,Waltz for Debby,0.939,0.388,461493,0.276,0.915,D,0.0784,-17.168,1,0.0374,92.415,4,0.191,Sentimental,-2,0,Very Good
+2015,Modern Jazz Classics,Art Pepper,Jazz,Move,0.579,0.596,205507,0.512,0.000634,F,0.0994,-9.858,1,0.11,123.277,4,0.846,Lively,1,2,Very Good
+2015,The Invasion Parade,Alfredo Rodriguez,Jazz,Veinte Años (Twenty Years),0.93,0.585,298920,0.0699,0.926,C,0.113,-24.295,1,0.0366,109.788,4,0.461,Sentimental,-2,0,Very Good
+2015,Lapeitah,Corey Henry,Jazz,Keep Steppin,0.072,0.755,207867,0.853,0.0172,G,0.235,-6.282,0,0.054,104.967,4,0.759,Energizing,2,0,Very Good
+2015,The Complete Art Blakey On Emarcy,Art Blakey,Jazz,Minority,0.262,0.6,187573,0.405,0.00199,D,0.156,-13.437,0,0.0695,118.47,4,0.628,Sentimental,-2,0,Very Good
+2015,Mustang,Donald Byrd,Jazz,Dixie Lee,0.757,0.651,403773,0.705,0.0122,A,0.12,-9.879,1,0.0353,129.377,4,0.8,Lively,1,2,Very Good
+2015,The Rite of Spring,The Bad Plus,Jazz,First Part: Adoration of the Earth: Spring Rounds,0.818,0.386,292040,0.187,0.783,G,0.1,-14.526,0,0.0282,95.409,4,0.234,Melancholy,-2,-1,Very Good
+2015,Young Men from Memphis - Down Home Reunion,Booker Little,Jazz,After Hours,0.962,0.584,506880,0.165,0.78,A,0.0928,-17.859,1,0.037,69.084,4,0.265,Sentimental,-2,0,Very Good
+2015,"Songs: The Art Of The Trio, Volume Three",Brad Mehldau,Jazz,Exit Music - For A Film,0.921,0.283,263933,0.174,0.676,C#,0.0582,-21.064,0,0.0331,154.72,4,0.117,Sentimental,-2,0,Very Good
+2015,"Julian ""Cannonball"" Adderley",Cannonball Adderley,Jazz,You'd Be So Nice To Come Home To,0.9,0.527,216693,0.412,0.686,F#,0.137,-7.838,0,0.0503,145.728,4,0.483,Sentimental,-2,0,Very Good
+2015,Great Moments,Buddy Rich,Jazz,Nellie's Nightmare,0.812,0.674,312808,0.244,0.508,E,0.227,-19.605,0,0.118,127.941,4,0.75,Lively,1,2,Very Good
+2015,The Sound of the Wide Open Spaces! & Straight Ahead,"David ""Fathead"" Newman",Jazz,Cousin Slim,0.674,0.596,426627,0.381,5.06E-05,D,0.0511,-12.975,0,0.0434,136.755,4,0.469,Sentimental,-2,0,Very Good
+2015,Grass Roots,Andrew Hill,Jazz,Mira,0.616,0.541,380107,0.457,0.00302,B,0.0593,-11.479,0,0.0414,85.353,4,0.805,Sentimental,-2,0,Very Good
+2015,Modernistic,Jason Moran,Jazz,Gentle Shifts South,0.98,0.526,211440,0.0773,0.954,D#,0.0987,-15.518,1,0.0676,118.641,4,0.0904,Melancholy,-2,-1,Very Good
+2015,The Clown,Charles Mingus,Jazz,Blue Cee,0.86,0.437,471827,0.333,0.00687,B,0.106,-15.057,0,0.0402,167.36,4,0.42,Sentimental,-2,0,Very Good
+2015,Essential Jazz Masters,Dizzy Reece,Jazz,Comin' On,0.792,0.689,407373,0.294,0.0507,D,0.0624,-12.981,0,0.0481,122.063,4,0.39,Sentimental,-2,0,Very Good
+2015,Coleman Hawkins Encounters Ben Webster (Expanded Edition),Coleman Hawkins,Jazz,It Never Entered My Mind,0.957,0.468,346920,0.109,0.0578,D,0.116,-16.378,1,0.0466,65.6,4,0.382,Romantic,-1,1,Very Good
+2015,The Albert Ayler Story,U.S. Army 76th Adjutant General's Band,Jazz,Tenderly,0.949,0.322,270293,0.184,0.75,E,0.662,-16.476,0,0.0277,95.23,4,0.169,Sentimental,-2,0,Very Good
+2015,Notes From New York,Bill Charlap Trio,Jazz,Little Rascal On A Rock,0.768,0.685,307667,0.127,0.906,B,0.103,-20.555,1,0.0447,114.552,4,0.161,Sentimental,-2,0,Very Good
+2015,"Her Trio, Her Quartet",Toshiko Akiyoshi,Jazz,All The Things You Are,0.84,0.582,277173,0.545,0.496,D,0.193,-6.979,0,0.0352,115.292,4,0.607,Lively,1,2,Very Good
+2015,Tocororo,Alfredo Rodriguez,Jazz,Chan Chan,0.688,0.56,129613,0.338,0.908,G,0.0704,-12.464,0,0.091,146.024,4,0.39,Sentimental,-2,0,Very Good
+2015,New Faces - New Sounds From Germany,Jutta Hipp Quintet,Jazz,What's New,0.986,0.375,285364,0.143,0.954,F,0.129,-25.325,1,0.0384,84.811,4,0.557,Sentimental,-2,0,Very Good
+2015,An Evening At The Club,Marian McPartland,Jazz,Love Is Here to Stay,0.99,0.548,169893,0.148,0.832,B,0.151,-16.486,1,0.0541,75.123,4,0.129,Sentimental,-2,0,Very Good
+2015,Notes From New York,Bill Charlap Trio,Jazz,Not A Care In The World,0.835,0.479,359147,0.2,0.837,F,0.12,-20.923,1,0.043,116.275,4,0.367,Sentimental,-2,0,Very Good
+2015,New Faces - New Sounds From Germany,Jutta Hipp Quintet,Jazz,Laura,0.822,0.497,187273,0.0781,3.86E-05,E,0.232,-18.718,0,0.173,168.885,4,0.854,Lively,1,2,Very Good
+2015,Coltrane Plays The Blues,John Coltrane,Jazz,Mr. Knight,0.601,0.524,451333,0.305,0.279,G#,0.0946,-16.051,1,0.0402,91.061,4,0.191,Sentimental,-2,0,Very Good
+2015,Moanin' (The Rudy Van Gelder Edition),Art Blakey,Jazz,Moanin',0.804,0.612,570720,0.493,0.266,D,0.202,-8.589,0,0.0467,126.358,4,0.484,Sentimental,-2,0,Very Good
+2015,Money Jungle,Duke Ellington,Jazz,Very Special - 2002 Digital Remaster,0.499,0.59,266133,0.549,0.00244,E,0.212,-9.221,1,0.0255,95.355,4,0.706,Sentimental,-2,0,Very Good
+2015,Time Out,The Dave Brubeck Quartet,Jazz,Take Five,0.5,0.447,324680,0.189,0.000742,G,0.0524,-17.987,0,0.0396,173.591,5,0.653,Sentimental,-2,0,Very Good
+2015,April In Paris,Count Basie,Jazz,Corner Pocket,0.743,0.515,315000,0.329,0.0708,D#,0.0493,-11.935,1,0.0391,137.825,4,0.758,Lively,1,2,Very Good
+2015,Art Pepper Meets The Rhythm Section (OJC Remaster),Art Pepper,Jazz,Birk's Works,0.159,0.687,259587,0.401,6.88E-05,A#,0.11,-13.581,1,0.0738,78.719,4,0.629,Sentimental,-2,0,Very Good
+2015,Genius Of Modern Music: Vol. 1,Thelonious Monk,Jazz,Ruby My Dear - 1998 - Remaster,0.875,0.553,190467,0.317,0.00955,A#,0.102,-13.658,1,0.0343,72.518,4,0.169,Sentimental,-2,0,Very Good
+2015,Atlantic Jazz - Great Moments In Jazz,Art Blakey & The Jazz Messengers,Jazz,In Walked Bud,0.723,0.639,395667,0.216,0.00939,F,0.276,-18.879,1,0.0698,90.293,4,0.426,Sentimental,-2,0,Very Good
+2015,Know What I Mean?,Cannonball Adderley,Jazz,Toy,0.676,0.637,306627,0.411,0.00654,E,0.0777,-11.118,1,0.0382,122.551,4,0.71,Lively,1,2,Very Good
+2015,Time Out,The Dave Brubeck Quartet,Jazz,Blue Rondo à la Turk,0.786,0.59,403920,0.281,0.0602,E,0.0979,-17.507,0,0.0457,113.959,4,0.561,Sentimental,-2,0,Very Good
+2015,Open Sesame (The Rudy Van Gelder Edition),Freddie Hubbard,Jazz,One Mint Julep - 2002 Digital Remaster;The Rudy Van Gelder Edition,0.414,0.557,364000,0.473,2.91E-05,D,0.0671,-9.441,0,0.0311,132.245,4,0.476,Sentimental,-2,0,Very Good
+2015,The Blues And The Abstract Truth,Oliver Nelson,Jazz,Stolen Moments,0.884,0.536,526827,0.249,0.854,A,0.123,-14.381,0,0.0431,116.289,4,0.35,Sentimental,-2,0,Very Good
+2015,Duke Ellington & John Coltrane,Duke Ellington,Jazz,In A Sentimental Mood,0.951,0.47,258227,0.244,0.0509,G,0.109,-13.608,0,0.0335,108.154,4,0.264,Sentimental,-2,0,Very Good
+2016,Wrapped Tight,Coleman Hawkins,Jazz,Bean's Place,0.867,0.669,176613,0.259,0.0174,D,0.161,-13.269,1,0.0291,119.088,4,0.355,Sentimental,-2,0,Very Good
+2016,Milestones,Miles Davis,Jazz,Milestones,0.442,0.553,342067,0.546,0.000514,F#,0.167,-7.459,0,0.0341,118.215,4,0.7,Lively,1,2,Very Good
+2016,The Best Of Thelonious Monk,Thelonious Monk,Jazz,Straight No Chaser,0.832,0.473,177840,0.525,7.71E-05,D,0.337,-12.86,0,0.0763,166.523,3,0.772,Lively,1,2,Very Good
+2016,The Best of The Maytals,The Maytals,reggae,54-46 Was My Number,0.158,0.68,190493,0.373,1.47E-05,A,0.0725,-7.26,1,0.137,160.798,4,0.677,Cool,-1,-1,Very Good
+2016,Revelation Part 1: The Root Of Life,Stephen Marley,reggae,Break Us Apart,0.0371,0.66,225333,0.603,0,F#,0.174,-5.816,0,0.438,122.161,4,0.687,Energizing,2,0,Very Good
+2016,Welcome to Jamrock,Damian Marley,reggae,Welcome To Jamrock,0.0208,0.835,213200,0.661,0,E,0.449,-6.502,0,0.333,76.723,4,0.753,Cool,-1,-1,Very Good
+2016,Morning Is Coming (with Shaggy),Sting,reggae,Morning Is Coming (with Shaggy),0.195,0.761,191322,0.668,0,E,0.0612,-7.807,1,0.265,79.959,4,0.938,Cool,-1,-1,Very Good
+2016,Bob Marley 3CD,Bob Marley & The Wailers,reggae,Buffalo Soldier,0.137,0.932,257440,0.462,7.91E-06,F#,0.0654,-8.664,1,0.284,124.122,4,0.749,Cool,-1,-1,Very Good
+2016,War Ina Babylon (Expanded Edition),Max Romeo,reggae,Chase The Devil,0.183,0.818,206307,0.623,0,B,0.0829,-6.158,1,0.251,150.585,4,0.735,Cool,-1,-1,Very Good
+2016,Exodus (Deluxe Edition),Bob Marley & The Wailers,reggae,Three Little Birds,0.0111,0.814,180267,0.482,1.57E-06,F#,0.0476,-10.493,1,0.0588,148.404,4,0.615,Cool,-1,-1,Very Good
+2016,Fally Lover,Johnny Osbourne,reggae,Ice Cream Love,0.21,0.74,203400,0.687,1.82E-05,E,0.109,-6.608,0,0.278,73.083,4,0.782,Energizing,2,0,Very Good
+2016,Art And Life,Beenie Man,reggae,Girls Dem Sugar - Feat. Mya,0.118,0.603,257893,0.782,0,B,0.363,-4.832,1,0.162,124.303,5,0.731,Energizing,2,0,Excellent
+2016,Police In Helicopter,John Holt,reggae,Police In Helicopter,0.0331,0.686,219160,0.652,8.34E-06,F#,0.0578,-7.586,0,0.111,141.185,4,0.503,Cool,-1,-1,Excellent
+2016,Red Pond,Junior Kelly,reggae,Nuthin' Wrong With The World,0.172,0.699,251507,0.82,0,G#,0.465,-4.027,0,0.246,146.955,4,0.931,Cool,-1,-1,Excellent
+2016,In The Dark,Toots & The Maytals,reggae,54-46 Was My Number,0.177,0.687,204027,0.361,0,A,0.0721,-9.693,1,0.0538,161.134,4,0.578,Cool,-1,-1,Excellent
+2016,The Best Of Big Mountain,Big Mountain,reggae,"Baby, I Love Your Way",0.0528,0.651,249520,0.747,0,A#,0.207,-7.269,0,0.0699,147.518,4,0.776,Cool,-1,-1,Excellent
+2016,Blackheart Man,Bunny Wailer,reggae,Dream Land,0.36,0.807,165893,0.494,0.00983,D#,0.044,-13.028,1,0.19,146.07,4,0.96,Cool,-1,-1,Excellent
+2016,Survival,Bob Marley & The Wailers,reggae,One Drop,0.113,0.901,231773,0.472,1.00E-05,A,0.152,-7.365,1,0.231,121.242,4,0.828,Cool,-1,-1,Excellent
+2016,Classic Reggae: The Universal Masters Collection,Gregory Isaacs,reggae,Night Nurse,0.0405,0.826,244933,0.294,0.0384,E,0.0309,-14.54,1,0.164,74.582,4,0.937,Cool,-1,-1,Excellent
+2016,Reggae Reggae (International Version),Rihanna,reggae,"You Don't Love Me (No, No, No)",0.00626,0.688,259600,0.64,2.72E-06,B,0.073,-7.044,1,0.0728,84.003,4,0.63,Empowering,0,1,Excellent
+2016,Live at Stubb's,Matisyahu,reggae,King Without a Crown - Live,0.0876,0.604,288600,0.771,0,A,0.716,-6.591,0,0.0609,94.161,4,0.7,Cool,-1,-1,Excellent
+2016,Night Nurse,Gregory Isaacs,reggae,Cool Down The Pace,0.0887,0.87,315027,0.266,0.0217,G,0.0709,-15.559,1,0.264,76.37,4,0.929,Cool,-1,-1,Excellent
+2016,Legend (The Definitive Remasters),Bob Marley & The Wailers,reggae,Could You Be Loved,0.372,0.913,237133,0.724,0.000201,A,0.0824,-8.527,1,0.105,103.33,4,0.748,Energizing,2,0,Excellent
+2016,Reggae Anthology: Sweet Reggae Music (1979-84),Barrington Levy,reggae,Here I Come,0.161,0.582,217200,0.663,0,C#,0.198,-6.547,0,0.0828,170.82,4,0.695,Cool,-1,-1,Excellent
+2016,Good Vibes - The Very Best of Laid Back,Laid Back,reggae,Sunshine Reggae - Original Mix '82,0.101,0.704,257667,0.79,0.00657,F,0.0769,-5.756,1,0.0432,167.816,4,0.933,Cool,-1,-1,Excellent
+2016,Wake Up - Single,Sizzla,reggae,Wake Up,0.000678,0.42,192296,0.778,0,G,0.626,-5.001,0,0.301,75.325,4,0.642,Empowering,0,1,Excellent
+2016,Welcome to Jamrock (UK Version),Damian Marley,reggae,Road To Zion,0.106,0.662,317333,0.698,0,D,0.107,-6.337,0,0.221,93.322,4,0.441,Cool,-1,-1,Excellent
+2016,Inna Heights,Buju Banton,reggae,Hills And Valleys,0.477,0.687,273040,0.544,0,C,0.0937,-8.642,1,0.162,72.082,4,0.742,Lively,1,2,Excellent
+2016,Life,Sizzla,reggae,Marijuana,0.0879,0.716,240760,0.58,0,F#,0.0919,-7.906,0,0.281,89.204,4,0.696,Cool,-1,-1,Excellent
+2016,Pressure Drop: The Definitive Collection,Toots & The Maytals,reggae,Funky Kingston,0.0884,0.765,294773,0.571,0.000409,G#,0.0498,-7.766,1,0.108,98.956,4,0.922,Cool,-1,-1,Excellent
+2016,Dangerously Roots - Journey From August Town,Duane Stephenson,reggae,Cool Runnings,0.0337,0.852,234800,0.564,0,E,0.0546,-6.409,0,0.181,73.241,4,0.766,Cool,-1,-1,Excellent
+2016,Tanya...Collection Of Hits,Tanya Stephens,reggae,It's A Pity,0.00788,0.66,253160,0.811,0,E,0.0145,-5.448,1,0.332,139.619,4,0.821,Energizing,2,0,Excellent
+2016,70's Pop,10cc,reggae,Dreadlock Holiday,0.435,0.837,267747,0.407,0.000487,E,0.174,-12.416,0,0.0563,105.013,4,0.922,Cool,-1,-1,Excellent
+2016,The Very Best Of The Wailing Souls,Wailing Souls,reggae,Firehouse Rock,0.2,0.814,253867,0.407,0.00253,F#,0.159,-13.455,1,0.0536,130.355,4,0.906,Cool,-1,-1,Excellent
+2016,Reign Of Fire,Capleton,reggae,That Day Will Come,0.0674,0.672,246453,0.839,0,A,0.114,-5.034,0,0.114,153.37,4,0.917,Energizing,2,0,Excellent
+2016,Lava Ground,I Wayne,reggae,Living In Love,0.122,0.608,213133,0.827,0,A,0.176,-4.848,0,0.242,78.524,4,0.964,Energizing,2,0,Excellent
+2016,Ancient Future,Protoje,reggae,Who Knows,0.0909,0.683,208467,0.724,0,D,0.339,-4.436,0,0.0988,80.932,4,0.742,Cool,-1,-1,Excellent
+2016,The Best Of Shaggy,Maxi Priest,reggae,That Girl - feat. Shaggy,0.056,0.667,240947,0.698,0,D,0.335,-7.35,0,0.119,138.654,4,0.662,Cool,-1,-1,Excellent
+2016,Kaya - Deluxe Edition,Bob Marley & The Wailers,reggae,Kaya,0.0068,0.815,195880,0.529,1.72E-05,G#,0.0955,-11.37,1,0.066,97.63,4,0.857,Cool,-1,-1,Excellent
+2016,Reign Of Fire,Capleton,reggae,That Day Will Come,0.0647,0.696,246453,0.837,0,A,0.113,-5.034,0,0.118,153.294,4,0.916,Energizing,2,0,Excellent
+2016,Fly Rasta,Ziggy Marley,reggae,Fly Rasta,0.0621,0.816,219907,0.694,0,A#,0.0615,-5.94,1,0.156,112.957,4,0.822,Energizing,2,0,Excellent
+2016,Too Long In Slavery,Culture,reggae,The International Herb,0.0585,0.825,200960,0.433,0,D,0.0618,-13.085,0,0.337,127.686,4,0.687,Lively,1,2,Excellent
+2016,Crystal Woman & Musik - Two Riddim Sampler,Lutan Fyah,reggae,When mi rise it,0.224,0.693,254813,0.783,0,E,0.214,-3.993,0,0.215,77.769,4,0.774,Cool,-1,-1,Excellent
+2016,Cocodi Rock !!! - Remastered Edition,The Wailers,reggae,Cocody Rock,0.107,0.796,294000,0.669,0.000113,D#,0.0891,-6.333,0,0.0911,147.374,4,0.96,Cool,-1,-1,Excellent
+2016,Collector's Classics,Jacob Miller,reggae,Tenement Yard,0.445,0.887,159173,0.387,0,C#,0.103,-13.19,1,0.212,144.184,4,0.973,Cool,-1,-1,Excellent
+2016,Hot Shot (International Version #2),Shaggy,reggae,Angel,0.116,0.74,235133,0.766,0,D#,0.0406,-2.939,1,0.178,170.531,4,0.807,Cool,-1,-1,Excellent
+2016,Stay Bless,Kiko Bun,reggae,Stay Bless,0.0411,0.636,207463,0.817,0,D#,0.878,-4.492,1,0.161,148.46,4,0.804,Cool,-1,-1,Excellent
+2016,War Ina Babylon,Max Romeo,reggae,Chase The Devil,0.0807,0.838,207667,0.34,0,B,0.105,-14.334,1,0.565,149.079,4,0.836,Cool,-1,-1,Excellent
+2016,Coconut Girl,Local Uprising,reggae,Coconut Girl,0.187,0.852,197590,0.668,0.0134,F#,0.207,-6.72,1,0.0478,136.962,4,0.752,Energizing,2,0,Excellent
+2016,Looking,Chante,reggae,Looking,0.0143,0.894,243032,0.463,0,G,0.227,-9.992,1,0.367,94.005,4,0.666,Empowering,0,1,Excellent
+2017,Go Back,Lapi Mariner,reggae,Go Back,0.219,0.787,211479,0.655,0,C,0.0836,-5.303,1,0.0419,141.99,4,0.962,Cool,-1,-1,Excellent
+2017,Love Today - Single,Katchafire,reggae,Love Today,0.0141,0.682,246779,0.69,0,A,0.299,-5.654,1,0.103,165.871,4,0.576,Cool,-1,-1,Excellent
+2017,The Trail,Leilani Wolfgramm,reggae,The Trail,0.0458,0.721,240811,0.785,0.0393,B,0.183,-5.583,1,0.0838,148.059,4,0.555,Energizing,2,0,Excellent
+2017,Can't Get Enough,Eli Mac,reggae,Can't Get Enough,0.036,0.697,200385,0.456,0.0445,A#,0.09,-9.483,0,0.0568,158.986,4,0.577,Cool,-1,-1,Excellent
+2017,Colors,Mahkess,reggae,Dance & Groove (feat. Fiji),0.00241,0.871,262408,0.749,0,C#,0.0395,-5.291,0,0.0923,99.998,4,0.884,Energizing,2,0,Excellent
+2017,Today's a New Day,Common Kings,reggae,Today's a New Day,0.0326,0.838,213674,0.688,1.24E-05,A#,0.219,-6.173,1,0.198,84.992,4,0.266,Cool,-1,-1,Excellent
+2017,Live Wire,Leilani Wolfgramm,reggae,Live Wire,0.000854,0.641,216296,0.666,0.00401,B,0.265,-5.907,0,0.0382,121.545,4,0.181,Cool,-1,-1,Excellent
+2017,Addicted - Single,Katchafire,reggae,Addicted,0.0712,0.633,203267,0.624,0,E,0.338,-7.487,1,0.217,175.185,4,0.8,Cool,-1,-1,Excellent
+2017,Brown Boys,Damon Williams,reggae,Shaky Girl,0.622,0.573,197373,0.601,0,G#,0.366,-5.993,0,0.0461,119.96,4,0.636,Empowering,0,1,Excellent
+2017,We Are Culture.,Culture Crew,reggae,We Are Culture.,0.00135,0.646,246489,0.634,0,E,0.327,-7.477,0,0.0436,160.061,4,0.555,Cool,-1,-1,Excellent
+2017,Broken Crowns,Matisyahu,reggae,Broken Crowns,0.0189,0.753,212000,0.676,1.79E-05,F#,0.113,-5.326,0,0.0678,99.991,4,0.47,Romantic,-1,1,Excellent
+2017,Cali Girl,Common Kings,reggae,Cali Girl,0.172,0.867,184413,0.7,0,B,0.0536,-5.301,1,0.0768,130.062,4,0.865,Cool,-1,-1,Excellent
+2017,I Will,The Green,reggae,I Will,0.00824,0.828,196341,0.732,0,F,0.0512,-5.05,0,0.147,139.979,4,0.96,Energizing,2,0,Excellent
+2017,Walk This World,Chala,reggae,Sweet Maui,0.126,0.837,200000,0.69,0,B,0.0905,-5.503,1,0.06,149.979,4,0.725,Cool,-1,-1,Excellent
+2017,Sea of Love,Kimie Miner,reggae,Sea of Love,0.625,0.596,195000,0.278,0,A,0.112,-10.555,1,0.0288,90.137,4,0.523,Romantic,-1,1,Excellent
+2017,Mr Sensi,Eli Mac,reggae,Mr Sensi,0.11,0.728,231500,0.632,0,E,0.273,-7.422,0,0.163,144.818,4,0.873,Energizing,2,0,Excellent
+2017,Think of Me,Pati,reggae,Kiss and Say Goodbye,0.0521,0.768,241277,0.363,0,F#,0.158,-9.17,1,0.0651,139.941,4,0.7,Cool,-1,-1,Excellent
+2017,Love & Affection,Three Houses Down,reggae,Love & Affection,0.317,0.643,223360,0.585,0,C#,0.0942,-5.969,0,0.244,80.062,4,0.678,Cool,-1,-1,Excellent
+2017,A Dollar Short & a Minute Late,Landon McNamara,reggae,Don't Go Away,0.155,0.917,214552,0.448,0,G#,0.0693,-6.907,0,0.0681,116.032,4,0.808,Cool,-1,-1,Excellent
+2017,He Kanaka (feat. The Vitals 808),Ka'ikena Scanlan,reggae,He Kanaka,0.607,0.833,183375,0.56,0,D#,0.104,-7.107,0,0.0484,120.965,4,0.871,Cool,-1,-1,Excellent
+2017,Thicker Than Blood,Lovd Ones,reggae,Sail Away (feat. Leilani Wolfgramm),0.384,0.922,308800,0.311,0,F,0.0685,-8.258,1,0.0636,119.945,4,0.732,Cool,-1,-1,Excellent
+2017,I Love You,Sammielz,reggae,I Love You,0.373,0.738,235566,0.68,5.55E-05,A,0.259,-5.226,1,0.0539,90.075,4,0.441,Cool,-1,-1,Excellent
+2017,Sweet Sugah,Kawao,reggae,Sweet Sugah,0.0105,0.692,220137,0.722,0,G,0.0775,-4.201,0,0.174,176.94,4,0.852,Cool,-1,-1,Excellent
+2017,We Are Hawaii's Finest,Ekolu,reggae,We Are Hawaii's Finest,0.23,0.845,241250,0.677,0,B,0.338,-5.515,0,0.0464,139.999,4,0.746,Romantic,-1,1,Excellent
+2017,Nice to See U Trying,Bo Napoleon,reggae,Nice to See U Trying,0.106,0.679,177512,0.517,0,E,0.0691,-7.394,1,0.189,76.543,4,0.702,Cool,-1,-1,Excellent
+2017,Reborn,Spawnbreezie,reggae,Like U Love Me,0.159,0.428,206809,0.848,0,A#,0.339,-5.905,0,0.0853,93.875,4,0.438,Empowering,0,1,Excellent
+2018,Wanna Be Loved,Zander,reggae,Wanna Be Loved,0.782,0.778,170208,0.391,0,F#,0.103,-8.469,0,0.116,145.879,4,0.851,Lively,1,2,Excellent
+2018,4 the People,Rebel Souljahz,reggae,Chauffeur,0.0569,0.706,286512,0.687,2.18E-05,F#,0.146,-5.752,1,0.207,171.805,4,0.707,Cool,-1,-1,Poor
+2018,Did You Know?,Fiji,reggae,Did You Know?,0.165,0.788,264735,0.553,0,A#,0.112,-8.166,0,0.0686,130.009,4,0.895,Melancholy,-2,-1,Poor
+2018,Jugglerz City,J Boog,reggae,Worth My Time,0.0243,0.721,180381,0.667,0,E,0.054,-5.154,1,0.191,86.011,4,0.868,Cool,-1,-1,Poor
+2018,Best Of,Maoli,reggae,Rocky Road,0.327,0.755,269302,0.796,0,D,0.096,-6.146,0,0.127,84.95,4,0.962,Cool,-1,-1,Poor
+2018,Hawai'i,Hot Rain,reggae,Hawai'i,0.107,0.84,259912,0.559,8.27E-06,B,0.174,-7.76,1,0.0608,132.903,4,0.84,Lively,1,2,Poor
+2018,The Beginning,Sammielz,reggae,Let Us Be,0.144,0.689,258625,0.474,0,G#,0.131,-7.256,1,0.0378,90.041,4,0.791,Cool,-1,-1,Poor
+2018,Find Ya Riddum (feat. Jemere Morgan),Jordan T,reggae,Find Ya Riddum (feat. Jemere Morgan),0.459,0.686,194125,0.725,0,D#,0.547,-5.854,1,0.137,151.962,4,0.961,Energizing,2,0,Poor
+2018,Burn It Down - single,Katchafire,reggae,If I Had The World,0.0349,0.679,215533,0.682,0,E,0.0841,-4.759,1,0.0485,145.874,4,0.832,Cool,-1,-1,Poor
+2018,She Knows What She's Doing,Samu,reggae,She Knows What She's Doing,0.263,0.796,202493,0.555,2.10E-06,G,0.0644,-7.657,0,0.0876,74.997,4,0.961,Cool,-1,-1,Poor
+2018,Mama Roots (feat. J Boog),The Green,reggae,Mama Roots (feat. J Boog),0.055,0.687,231757,0.689,0,E,0.304,-4.469,1,0.186,149.922,4,0.727,Cool,-1,-1,Poor
+2018,Reclamation,Tribal Theory,reggae,My Roots,0.269,0.841,217324,0.582,0,G,0.1,-7.178,1,0.0574,139.963,4,0.93,Cool,-1,-1,Poor
+2018,Talking,Positive Motion,reggae,Talking,0.236,0.834,213808,0.838,0,F#,0.0751,-3.359,0,0.0634,73.982,4,0.966,Energizing,2,0,Poor
+2018,Burn It Down - single,Katchafire,reggae,Burn It Down,0.0189,0.773,202639,0.757,1.09E-06,A#,0.0768,-3.994,1,0.0342,120.003,4,0.922,Energizing,2,0,Poor
+2018,Everlasting,Raging Fyah,reggae,Live Your Life (feat. J Boog & Busy Signal),0.066,0.659,213000,0.69,0,E,0.104,-4.109,1,0.203,81.858,4,0.687,Energizing,2,0,Poor
+2018,Fantastic Freeriding The Next Chapter,Kabanjak,reggae,Revelation Dub,0.0327,0.521,215000,0.807,0.841,E,0.125,-7.954,1,0.0852,163.998,4,0.647,Aggressive,2,-2,Poor
+2018,True Reggae,Augustus Pablo,reggae,King Tubby Meets The Rockers Uptown,0.0324,0.768,151487,0.739,0.85,A#,0.316,-10.412,1,0.0502,133.689,4,0.874,Cool,-1,-1,Poor
+2018,Good Times Skank: Joey Jay (Good Times Sound System),Roots Radics,reggae,The Alien Aborts,0.0243,0.752,198547,0.491,0.499,G#,0.264,-12.526,1,0.0731,147.942,4,0.531,Aggressive,2,-2,Poor
+2018,Smoke The Herb: The 2nd Pound,Anthony B,reggae,Low Di Herb,0.449,0.714,200533,0.489,5.47E-05,F#,0.0759,-10.305,1,0.315,172.291,4,0.826,Energizing,2,0,Poor
+2018,Breaking Out,Jah Free,reggae,Hear Me Dub,7.06E-05,0.84,223980,0.375,0.877,A,0.0905,-13.114,1,0.0739,129.269,4,0.762,Energizing,2,0,Poor
+2018,Trojan Dub Collection,Tommy McCook,reggae,A Dancing Version,0.00687,0.677,146053,0.836,0.742,G,0.108,-4.894,1,0.11,82.309,4,0.643,Cool,-1,-1,Poor
+2018,Scientist Rids The World Of The Curse Of The Evil Vampires,Scientist,reggae,Your Teeth In My Neck,0.0615,0.836,278307,0.492,0.00936,D#,0.0482,-8.463,0,0.259,145.138,4,0.528,Cool,-1,-1,Poor
+2018,Tree Of Satta,The Abyssinians,reggae,Satta Massa Gana,0.294,0.564,217573,0.705,0,D#,0.425,-5.938,0,0.0543,75.102,4,0.701,Cool,-1,-1,Poor
+2018,Original Sounds Of The Zion,Zion Train,reggae,Earthquake,0.00113,0.709,278947,0.93,0.81,D,0.36,-6.787,0,0.0398,145.01,4,0.801,Energizing,2,0,Poor
+2018,Scientist Rids The World Of The Curse Of The Evil Vampires,Scientist,reggae,Blood On His Lips,0.135,0.907,180467,0.571,0.722,F#,0.367,-9.959,0,0.151,143.329,4,0.774,Cool,-1,-1,Poor
+2018,Trojan Dub Collection,The G.G. All Stars,reggae,Love Of Jah Jah Children,0.349,0.755,151560,0.55,0.866,F#,0.0924,-7.675,0,0.25,78.578,4,0.846,Cool,-1,-1,Poor
+2018,Island Records Reggae Box Set - War Ina Babylon,Jah Lion,reggae,Soldier And Police War,0.0482,0.907,248573,0.556,0,G#,0.276,-11.332,0,0.132,127.51,4,0.965,Cool,-1,-1,Poor
+2018,Trojan Dub Collection,The Upsetters,reggae,Dub Dat,0.00198,0.909,202040,0.512,0.654,D#,0.0663,-7.948,0,0.174,133.98,4,0.791,Energizing,2,0,Poor
+2018,The Frontline,East Park Reggae Collective,reggae,Bomber Jacket,0.019,0.716,214707,0.694,0.00381,F#,0.089,-7.475,0,0.118,78.175,4,0.447,Cool,-1,-1,Poor
+2018,Satta Dub,The Abyssinians,reggae,African Dub,0.00474,0.804,132027,0.21,0.0156,F#,0.0706,-18.514,0,0.0479,130.497,4,0.851,Energizing,2,0,Poor
+2018,The Inspirational Sounds Of Mad Professor,Mad Professor,reggae,Asylum Of Dub,0.00559,0.727,237573,0.397,0.64,A#,0.243,-10.829,1,0.0373,136.423,4,0.56,Energizing,2,0,Poor
+2018,Uptown Top Ranking,The Upsetters,reggae,Return Of Django,0.12,0.752,149444,0.595,0.846,A#,0.128,-9.306,1,0.04,76.998,4,0.949,Cool,-1,-1,Poor
+2018,Trojan Dub Collection,King Tubby,reggae,King Tubby's Conversation - Dub,0.0642,0.777,189467,0.604,0.825,B,0.0536,-9.324,1,0.0587,137.381,4,0.651,Energizing,2,0,Poor
+2018,Scientist Rids The World Of The Curse Of The Evil Vampires,Scientist,reggae,Dance Of The Vampires,0.0479,0.798,205627,0.757,0.675,B,0.328,-7.576,1,0.174,136.993,4,0.74,Cool,-1,-1,Poor
+2018,Forces Of Victory,Linton Kwesi Johnson,reggae,It Noh Funny,0.000449,0.737,223600,0.435,0.000447,G#,0.0326,-15.229,0,0.163,135.984,4,0.461,Energizing,2,0,Poor
+2018,Dub Plates Vol. 3,Twilight Circus Dub Sound System,reggae,Slicer Dub Plate,0.021,0.634,278947,0.824,0.849,E,0.35,-5.918,0,0.0686,133.541,4,0.396,Aggressive,2,-2,Poor
+2018,Reggae Chartbusters Vol. 6,Linval Thompson,reggae,I Love Marijuana,0.0026,0.903,204227,0.617,0.00103,A#,0.0791,-7.277,0,0.0645,124.167,4,0.84,Cool,-1,-1,Poor
+2018,African Anthem Deluxe: The Mikey Dread Show Dubwise,Mikey Dread,reggae,Saturday Night Style - Dub / Instrumental Reggae Music,0.249,0.73,293347,0.847,0.143,G,0.9,-7.454,0,0.0528,123.878,4,0.643,Energizing,2,0,Poor
+2018,True Reggae,Black Uhuru,reggae,Guess Who's Coming To Dinner,0.0622,0.87,293067,0.542,0.00647,F,0.105,-11.072,0,0.0673,133.724,4,0.736,Energizing,2,0,Poor
+2018,Dub Massive Vol. 1,Jah Thomas,reggae,White Rice Dub,0.0408,0.761,179266,0.662,0.858,E,0.0872,-10.303,1,0.112,137.332,4,0.458,Aggressive,2,-2,Poor
+2018,"African Roots, Act 1",Wackies,reggae,Betrayers Call,0.175,0.608,182360,0.538,0.904,E,0.108,-11.874,1,0.0469,155.562,4,0.509,Cool,-1,-1,Poor
+2018,Jazzie B Presents School Days,Big Youth,reggae,Hit The Road Jack,0.0021,0.642,187333,0.669,2.69E-06,A#,0.311,-8.943,0,0.0686,141.946,4,0.731,Cool,-1,-1,Poor
+2018,Police In Helicopter Rhythm,"John Holt, Sizzla",reggae,Police In Helicopter - N/A,0.345,0.759,184667,0.764,0,D#,0.137,-5.314,1,0.105,77.002,4,0.909,Cool,-1,-1,Poor
+2018,Dub To Africa,Prince Far I,reggae,Dub To Africa,1.70E-05,0.755,199973,0.439,0.699,F,0.254,-11.276,0,0.0448,129.815,4,0.499,Cool,-1,-1,Poor
+2018,Dub Massive Vol. 1,Sly & Robbie,reggae,Burial Dub,0.0682,0.748,256480,0.563,0.821,F#,0.36,-12.31,1,0.0846,122.788,4,0.836,Aggressive,2,-2,Poor
+2018,Reggae Rasta Dub,Sly & Robbie Meet King Tubby,reggae,Roots Of Africa Dub,0.0063,0.864,213640,0.253,0.862,A#,0.127,-19.09,0,0.0583,124.92,4,0.458,Cool,-1,-1,Poor
+2018,Dub Come Save Me,Roots Manuva,reggae,Highest Grade Dub,0.0266,0.787,226480,0.631,0.813,G#,0.253,-5.364,1,0.0597,97.021,4,0.578,Aggressive,2,-2,Average
+2018,Nothing To Proove,Overproof Soundsystem Ft. Chesire Cat,reggae,The 'Erb,0.00342,0.933,249940,0.792,1.25E-06,E,0.67,-7.913,1,0.0842,139.745,4,0.917,Cool,-1,-1,Average
+2018,George Phang: Power House Selector's Choice Vol. 4,Charlie Chaplin,reggae,Batta Batta,0.0866,0.875,200293,0.777,0.091,B,0.206,-5.379,1,0.043,95.242,4,0.636,Cool,-1,-1,Average
+2018,Shapes 10:02,Natural Self,reggae,Midnight Sun - Prince Fatty Dub,0.0459,0.65,247640,0.762,0.599,F,0.31,-5.88,1,0.0975,82.87,4,0.763,Energizing,2,0,Average
+2018,Bass Température,High Tone,reggae,Mother Dubber,0.00427,0.589,315587,0.638,0.839,E,0.0934,-8.87,1,0.0468,82.071,4,0.164,Cool,-1,-1,Average
+2018,Shapes 10:02,Alice Russell,reggae,Hurry On Now - Boub Remix,0.0892,0.791,268187,0.536,0.145,G#,0.102,-9.336,1,0.0612,166.679,4,0.848,Cool,-1,-1,Average
+2018,Indubstria,B.R. Stylers,reggae,Let them Shine (Dub Version),7.07E-05,0.708,189160,0.769,0.68,G#,0.37,-8.658,0,0.0622,144.005,4,0.816,Energizing,2,0,Average
+2018,One Two,Sister Nancy,reggae,Only Woman D.J. With Degree,0.123,0.746,209293,0.553,0,D,0.218,-8.597,0,0.363,76.451,4,0.662,Cool,-1,-1,Average
+2018,In Dub,Tappa Zukie,reggae,Tapper Zukie In Dub,0.102,0.74,190333,0.774,0.781,A#,0.511,-11.259,1,0.106,127.852,4,0.594,Cool,-1,-1,Average
+2018,The Same Song,Israel Vibration,reggae,The Same Song - Edit,0.141,0.924,239613,0.546,0.00136,F,0.0361,-6.583,0,0.233,123.33,4,0.685,Cool,-1,-1,Average
+2018,Handsworth Revolution,Steel Pulse,reggae,Ku Klux Klan,0.0205,0.735,221693,0.514,0,F#,0.0316,-12.18,0,0.141,128.865,4,0.817,Cool,-1,-1,Average
+2018,Jah No Dead - An Introduction To Burning Spear,Burning Spear,reggae,Slavery Days,0.00144,0.756,203613,0.419,0.00155,G,0.1,-9.205,1,0.131,143.045,4,0.72,Cool,-1,-1,Average
+2018,Words Of Wisdom,Dennis Brown,reggae,Money In My Pocket,0.604,0.742,228867,0.45,0,A,0.107,-13.333,1,0.0569,137.914,4,0.964,Cool,-1,-1,Average
+2018,Blackheart Man,Bunny Wailer,reggae,Blackheart Man,0.457,0.791,381827,0.39,0.0237,B,0.402,-15.474,1,0.451,147.605,4,0.809,Cool,-1,-1,Average
+2018,Police And Thieves,Junior Murvin,reggae,Roots Train,0.0442,0.864,223067,0.429,0.205,E,0.289,-12.019,1,0.0851,127.747,4,0.97,Cool,-1,-1,Average
+2018,Absolutely The Best Of Reggae Vol. 1,Horace Andy,reggae,Ain't No Sunshine,0.667,0.774,133427,0.479,0,F,0.221,-9.703,1,0.284,128.7,4,0.918,Cool,-1,-1,Average
+2018,Harder Than The Rest,Culture,reggae,Behold - 2000 Digital Remaster,0.0262,0.813,279160,0.683,0.00105,B,0.159,-9.413,1,0.0549,143.553,4,0.966,Cool,-1,-1,Average
+2018,Right Time,Mighty Diamonds,reggae,Right Time - 2001 Digital Remaster,0.33,0.837,197200,0.382,6.14E-05,B,0.127,-10.726,1,0.052,139.042,4,0.56,Cool,-1,-1,Average
+2018,Reggae Chartbusters Vol. 5,Johnny Clarke,reggae,None Shall Escape The Judgement,0.107,0.731,193453,0.653,0,A#,0.0909,-6.528,1,0.0357,102.203,4,0.933,Cool,-1,-1,Average
+2018,Legend (The Definitive Remasters),Bob Marley & The Wailers,reggae,Three Little Birds,0.00974,0.825,180440,0.494,5.15E-06,F#,0.0361,-10.486,1,0.0698,74.103,4,0.626,Cool,-1,-1,Average
+2018,Reggae Roots 1972-1995 Vol.5,Jacob Miller,reggae,Tenement Yard,0.247,0.889,156760,0.391,0,C#,0.0859,-11.157,1,0.37,143.844,4,0.965,Cool,-1,-1,Average
+2018,Night Nurse,Gregory Isaacs,reggae,Cool Down The Pace,0.0748,0.865,315000,0.253,0.0404,G,0.0699,-16.122,1,0.234,76.351,4,0.954,Cool,-1,-1,Average
+2018,Police In Helicopter,John Holt,reggae,Police In Helicopter,0.0331,0.686,219160,0.652,8.34E-06,F#,0.0578,-7.586,0,0.111,141.185,4,0.503,Cool,-1,-1,Average
+2018,Rockers Time Now,Johnny Clarke,reggae,Declaration Of Rights - 2000 Digital Remaster,0.731,0.766,206200,0.427,0.000572,C#,0.184,-10.959,0,0.336,74.063,4,0.823,Cool,-1,-1,Average
+2018,Funky Kingston,The Maytals,reggae,Funky Kingston,0.276,0.771,298027,0.501,0.000449,G#,0.0543,-10.694,1,0.111,98.696,4,0.94,Cool,-1,-1,Average
+2018,The Harder They Come (Remastered),Jimmy Cliff,reggae,"The Harder They Come - From ""The Harder They Come"" Soundtrack",0.632,0.679,219907,0.575,0,A#,0.165,-8.037,1,0.0717,102.588,4,0.79,Empowering,0,1,Average
+2018,Wanted Dread And Alive,Peter Tosh,reggae,Wanted Dread and Alive - 2002 Remastered Version,0.381,0.795,268213,0.731,0.00163,F#,0.0548,-6.056,1,0.0529,96.161,4,0.884,Lively,1,2,Average
+2018,96 Degrees In The Shade,Third World,reggae,1865 (96º In The Shade),0.0301,0.916,268760,0.397,0.000132,E,0.0236,-16.065,1,0.147,131.832,4,0.781,Cool,-1,-1,Average
+2018,Party Time,The Heptones,reggae,Party Time,0.00117,0.807,244600,0.474,0,A,0.287,-12.29,1,0.0534,133.479,4,0.729,Cool,-1,-1,Average
+2018,The Harder They Come (Remastered),The Slickers,reggae,Johnny Too Bad,0.107,0.764,183200,0.606,0.179,E,0.267,-8.754,1,0.155,165.797,4,0.717,Cool,-1,-1,Average
+2018,Blackheart Man,Bunny Wailer,reggae,Fighting Against Conviction,0.0937,0.703,310707,0.336,0.0258,A#,0.0447,-15.422,0,0.334,73.911,4,0.712,Cool,-1,-1,Average
+2018,Trenchtown Mix Up,The Gladiators,reggae,Soul Rebel - 2000 Digital Remaster,0.0261,0.825,237693,0.481,0.000164,A,0.0583,-7.785,1,0.0345,84.328,4,0.671,Cool,-1,-1,Average
+2018,Handsworth Revolution,Steel Pulse,reggae,Handsworth Revolution,0.0259,0.928,321373,0.411,1.06E-05,G,0.0597,-14.2,1,0.0916,118.23,4,0.693,Cool,-1,-1,Average
+2018,Aux Armes Et Caetera 1979,Serge Gainsbourg,reggae,Aux armes et caetera,0.0183,0.912,185907,0.307,0.0223,A,0.0807,-14.405,1,0.0587,136.565,4,0.716,Cool,-1,-1,Average
+2018,Blackheart Man,Bunny Wailer,reggae,Rastaman,0.0733,0.81,231067,0.473,0.00892,E,0.366,-12.919,1,0.162,136.106,4,0.854,Cool,-1,-1,Average
+2018,Bad Boy Skanking,Yellowman,reggae,Bam Bam,0.0167,0.872,194293,0.434,0,G#,0.0867,-11.54,0,0.188,75.159,4,0.458,Cool,-1,-1,Average
+2018,Police In Helicopter,John Holt,reggae,Fat She Fat,0.0559,0.885,226707,0.567,2.99E-06,D#,0.0633,-9.214,1,0.368,146.117,4,0.93,Cool,-1,-1,Average
+2018,Aswad,Aswad,reggae,I A Rebel Soul,0.0452,0.741,301800,0.436,2.06E-05,A,0.15,-13.471,0,0.335,132.902,4,0.871,Energizing,2,0,Average
+2018,Aux Armes Et Caetera 1979,Serge Gainsbourg,reggae,Vieille canaille,0.00833,0.862,181573,0.27,0.00609,D,0.059,-13.566,1,0.223,84.904,4,0.834,Cool,-1,-1,Average
+2018,Night Food,The Heptones,reggae,Country Boy,0.0309,0.872,176000,0.403,0.000623,A#,0.0884,-12.507,1,0.191,124.109,4,0.683,Cool,-1,-1,Average
+2018,Firehouse Rock,Wailing Souls,reggae,Act Of Affection,0.101,0.821,164907,0.612,0.000202,B,0.0368,-7.013,1,0.0637,137.46,4,0.864,Cool,-1,-1,Good
+2018,Visions Of Dennis Brown,Dennis Brown,reggae,Concrete Castle King,0.0508,0.81,218427,0.762,5.63E-06,F,0.0797,-6.688,0,0.0624,137.389,4,0.93,Cool,-1,-1,Good
+2018,Arise,The Abyssinians,reggae,Meditation - 2002 Digital Remaster,0.0932,0.73,175560,0.442,0,A,0.0804,-9.811,1,0.15,129.297,4,0.481,Cool,-1,-1,Good
+2018,Party Time,The Heptones,reggae,I Shall Be Released,0.00069,0.755,282293,0.373,3.85E-06,G,0.0522,-12.82,1,0.0425,136.364,4,0.833,Cool,-1,-1,Good
+2018,Jah Shaka Meets Mad Professor at Ariwa Sounds,Jah Shaka & Mad Professor,reggae,Creation Dub,0.00195,0.73,277656,0.511,0.781,A,0.448,-14.009,1,0.128,135.726,4,0.501,Aggressive,2,-2,Good
+2018,Two Bad D.J.,Clint Eastwood & General Saint,reggae,Sweet Sweet Matilda,0.102,0.631,243600,0.54,0,B,0.131,-9.027,0,0.0446,146.392,4,0.692,Cool,-1,-1,Good
+2018,Mo' Roots,Taj Mahal,reggae,Blackjack Davey,0.576,0.859,223373,0.407,0,G,0.143,-15.889,1,0.0762,106.008,4,0.925,Cool,-1,-1,Good
+2018,Aux Armes Et Caetera,Spectacular,reggae,Les Locataires - Sing It Like A Song To Me,0.0103,0.595,218387,0.611,0,A#,0.107,-8.449,1,0.491,76.043,4,0.631,Cool,-1,-1,Good
+2018,Mahogany Road,Abja,reggae,Good Sensimilia,0.0923,0.881,257358,0.447,3.14E-06,F,0.0821,-6.259,0,0.45,113.046,4,0.589,Cool,-1,-1,Good
+2018,Super Ape,The Upsetters,reggae,Underground,0.0241,0.748,176693,0.745,0.686,A#,0.719,-15.918,1,0.109,75.137,4,0.887,Cool,-1,-1,Good
+2018,Reggae Street,Mighty Diamonds,reggae,Reggae Street,0.00405,0.878,220915,0.318,0,F#,0.0445,-14.605,0,0.068,131.643,4,0.965,Cool,-1,-1,Good
+2018,Fally Lover,Johnny Osbourne,reggae,Mushroom,0.218,0.754,223467,0.417,0,G,0.116,-10.261,0,0.103,131.045,4,0.59,Cool,-1,-1,Good
+2018,Reggae Anthology: Niney The Observer - Roots With Quality,Reggae Crusaders,reggae,Bring The Couchie Come,0.267,0.914,159720,0.546,6.81E-05,A,0.105,-6.554,1,0.295,130.258,4,0.697,Cool,-1,-1,Good
+2018,Motivando A La Yal (Special Edition),Zion & Lennox,reggae,Yo Voy (feat. Daddy Yankee),0.0579,0.786,231015,0.729,0,E,0.101,-4.973,0,0.187,95.027,4,0.607,Energizing,2,0,Good
+2018,Motivando a la Yal,Zion & Lennox,reggae,Zion y Lennox Remix,0.0451,0.808,329987,0.867,0.00418,D#,0.129,-5.12,0,0.0434,95.998,4,0.56,Energizing,2,0,Good
+2018,Motivando a la Yal,Zion & Lennox,reggae,Ahora (feat. Angel Doze),0.0309,0.775,180987,0.917,5.00E-05,F#,0.0798,-4.27,0,0.0413,96.033,4,0.596,Energizing,2,0,Good
+2018,No Te Veo,Casa De Leones,reggae,No Te Veo - Digital Single,0.0558,0.847,255987,0.873,3.21E-06,F,0.325,-4.805,0,0.0804,116.007,4,0.966,Cool,-1,-1,Good
+2018,It's My Time,"Tito ""El Bambino""",reggae,"Sol, Playa Y Arena",0.254,0.822,188320,0.656,0,D,0.329,-6.159,0,0.11,94.039,4,0.734,Energizing,2,0,Good
+2018,Top Of The Line,"Tito ""El Bambino""",reggae,Tu Cintura,0.0842,0.802,187640,0.835,0,G#,0.142,-7.15,1,0.117,94.007,4,0.877,Energizing,2,0,Good
+2018,12 Discipulos,Eddie Dee,reggae,los Disicipulos,0.181,0.629,269559,0.893,0,A#,0.115,-4.009,0,0.275,94.042,4,0.86,Energizing,2,0,Good
+2018,El Abayarde,Tego Calderon,reggae,"Guasa, Guasa",0.446,0.841,240200,0.898,5.61E-06,A#,0.267,-3.439,1,0.236,96.059,4,0.862,Energizing,2,0,Good
+2018,El Abayarde,Tego Calderon,reggae,Pa' Que Retozen,0.4,0.815,151667,0.856,8.34E-05,A#,0.244,-3.825,0,0.122,91.995,4,0.872,Energizing,2,0,Good
+2018,PR CD #3,Tego Calderon,reggae,Punto Y Aparte,0.291,0.8,205929,0.765,0.0416,D#,0.0977,-5.013,0,0.0478,95.007,4,0.722,Energizing,2,0,Good
+2018,El Principe,Cosculluela,reggae,Prrrum,0.102,0.839,237547,0.731,0,A#,0.336,-4.201,1,0.233,90.018,4,0.718,Energizing,2,0,Good
+2018,Flow Music Presenta: Flow la Discoteka,DJ Nelson,reggae,Esta Noche de Travesuras (feat. Hector el Father),0.457,0.828,212533,0.666,0,F#,0.0834,-7.454,1,0.152,91.961,4,0.44,Energizing,2,0,Good
+2018,Hoy (feat. Cheka) - Single,LDA,reggae,Hoy (feat. Cheka),0.0651,0.799,174185,0.842,0.00184,G,0.0608,-6.916,0,0.046,95.012,4,0.586,Energizing,2,0,Good
+2018,El Documental II,L.D.A.,reggae,Hoy - Chosen Few Remix,0.138,0.606,202387,0.888,9.29E-05,G,0.0645,-4.795,0,0.0724,174.039,4,0.813,Energizing,2,0,Good
+2018,"Music From The Motion Picture ""Feel The Noise""",Ñejo,reggae,No Quiere Novio,0.446,0.87,196480,0.614,0.00035,D#,0.0911,-9.892,0,0.259,95.016,4,0.804,Energizing,2,0,Good
+2018,The Last Don,Don Omar,reggae,Dale Don Dale,0.0269,0.832,212413,0.815,0.00028,D#,0.0892,-7.81,0,0.0971,95.031,4,0.809,Energizing,2,0,Good
+2018,Pa'l Mundo,Wisin & Yandel,reggae,Llamé Pa' Verte (Bailando Sexy),0.0813,0.856,194733,0.809,0,E,0.084,-5.132,0,0.072,95.007,4,0.649,Energizing,2,0,Good
+2018,Pa'l Mundo,Wisin & Yandel,reggae,Solo Una Noche,0.0945,0.82,179722,0.641,0,D#,0.0676,-7.339,0,0.111,90.011,4,0.545,Energizing,2,0,Good
+2018,Pa'l Mundo,Wisin & Yandel,reggae,Sin El,0.131,0.715,172707,0.66,0,G#,0.11,-5.543,0,0.197,89.604,4,0.693,Energizing,2,0,Good
+2018,Pa'l Mundo,Wisin & Yandel,reggae,Sensación,0.14,0.827,154587,0.783,0,G,0.304,-5.622,1,0.0509,94.983,4,0.771,Energizing,2,0,Good
+2018,Pa'l Mundo,Wisin & Yandel,reggae,Mírala Bien,0.235,0.818,156560,0.86,0,A#,0.074,-4.348,0,0.152,95.997,4,0.687,Energizing,2,0,Good
+2018,Pa'l Mundo,Wisin & Yandel,reggae,Lento,0.086,0.826,176427,0.91,1.31E-05,G,0.133,-4.394,0,0.0664,93.981,4,0.692,Energizing,2,0,Good
+2018,Pa'l Mundo,Wisin & Yandel,reggae,Yo Quiero,0.305,0.86,164520,0.806,0,G,0.101,-4.292,0,0.0544,94.982,4,0.725,Energizing,2,0,Good
+2018,La Revolucion (Deluxe),Wisin & Yandel,reggae,Me Estas Tentando,0.324,0.808,229680,0.914,6.24E-06,C#,0.32,-2.654,0,0.0549,116.01,4,0.779,Energizing,2,0,Good
+2018,Quien Contra Mi,Yandel,reggae,Te Suelto el Pelo,0.0153,0.792,136027,0.712,1.43E-06,G#,0.573,-5.338,1,0.0663,94.994,4,0.928,Energizing,2,0,Good
+2018,The Perfect Melody,Zion,reggae,Fantasma - Main,0.061,0.633,234920,0.704,1.16E-06,F,0.947,-6.936,0,0.134,183.939,4,0.751,Energizing,2,0,Good
+2018,El Fenomeno,Arcangel,reggae,Chica Virtual - Bonus,0.172,0.89,264067,0.607,3.41E-05,F#,0.246,-4.625,0,0.0539,110.986,4,0.699,Cool,-1,-1,Good
+2018,Masterpiece,R.K.M & Ken-Y,reggae,Dame Lo Que Quiero,0.217,0.861,214973,0.719,0,E,0.186,-5.109,1,0.072,94.975,4,0.566,Energizing,2,0,Good
+2018,Reggaeton Simply The Best,R.K.M & Ken-Y,reggae,Down,0.544,0.805,225693,0.792,0.00145,F,0.11,-6.511,0,0.0882,94.99,4,0.791,Energizing,2,0,Very Good
+2018,Toby Love,Toby Love,reggae,Tengo Un Amor - Remix Version,0.59,0.783,260293,0.608,0,F,0.158,-5.674,1,0.0345,134.005,4,0.914,Romantic,-1,1,Very Good
+2018,Masterpiece Commemorative Edition,R.K.M & Ken-Y,reggae,Down - Remix,0.664,0.857,227880,0.745,0.000147,C#,0.191,-6.925,1,0.168,95.003,4,0.871,Energizing,2,0,Very Good
+2015,Sobrenatural,Alexis y Fido,reggae,5 Letras,0.272,0.82,195573,0.788,1.65E-06,D#,0.0404,-5.478,0,0.191,93.961,4,0.648,Energizing,2,0,Very Good
+2015,The Pitbulls,Alexis y Fido,reggae,Eso Ehh..!!!,0.347,0.908,195200,0.81,3.49E-05,A#,0.268,-6.753,0,0.132,95.006,4,0.76,Energizing,2,0,Very Good
+2015,The Pitbulls,Alexis y Fido,reggae,El Tiburón,0.158,0.881,163573,0.822,4.42E-06,F#,0.119,-6.375,1,0.0995,94.033,4,0.523,Energizing,2,0,Very Good
+2015,La Mision 4,Yaviah,reggae,Wiki Wiki,0.089,0.783,169400,0.879,0.003,A,0.277,-3.938,1,0.0765,82.017,4,0.898,Energizing,2,0,Very Good
+2015,Guillaera,Las Guanabanas,reggae,Vamos Pa' La Disco,0.0647,0.821,168000,0.761,0.00161,D,0.112,-8.465,1,0.0452,92.997,4,0.78,Energizing,2,0,Very Good
+2015,Broke & Famous,Ñejo & Dalmata,reggae,No Quiere Novio,0.286,0.868,184640,0.785,0.00587,C#,0.0952,-6.358,1,0.253,94.994,4,0.788,Energizing,2,0,Very Good
+2015,Top Of The Line,"Tito ""El Bambino""",reggae,Flow Natural,0.121,0.831,173867,0.789,0,A,0.328,-5.498,1,0.0661,101.035,4,0.827,Energizing,2,0,Very Good
+2015,La Melodia De La Calle,Tony Dize,reggae,Permitame,0.0247,0.631,185013,0.67,0,F,0.128,-6.958,1,0.153,213.99,4,0.884,Energizing,2,0,Very Good
+2015,Los Vaqueros Wild Wild Mixes,Wisin & Yandel,reggae,Nadie Como Tu,0.413,0.81,223453,0.73,0,C#,0.155,-5.151,0,0.202,93.004,4,0.726,Cool,-1,-1,Very Good
+2015,Los Vaqueros Wild Wild Mixes,Wisin & Yandel,reggae,Pegao,0.529,0.797,233400,0.814,0,C,0.362,-4.716,1,0.252,96.039,4,0.833,Cool,-1,-1,Very Good
+2015,Los Vaqueros Wild Wild Mixes,Wisin & Yandel,reggae,Yo Te Quiero,0.594,0.801,208347,0.687,0,C,0.116,-5.92,0,0.295,93.982,4,0.791,Cool,-1,-1,Very Good
+2015,El Documental II (Explicit),Wisin & Yandel,reggae,Atrevete,0.22,0.879,234653,0.775,0,A,0.191,-5.799,0,0.119,96.006,4,0.775,Energizing,2,0,Very Good
+2015,M.I.A.M.I.,Lil Jon,reggae,Culo,0.114,0.858,219080,0.656,0,D#,0.141,-4.96,0,0.358,59.972,4,0.969,Energizing,2,0,Very Good
+2015,M.I.A.M.I.,Pitbull,reggae,Culo Miami Mix,0.107,0.967,249480,0.639,0,G#,0.0959,-6.42,1,0.192,119.895,4,0.965,Energizing,2,0,Very Good
+2015,2007 Años De Exitos Reggaeton,Yomo,reggae,Dale Con Pepa,0.116,0.823,172840,0.876,6.35E-06,D,0.689,-6.346,1,0.263,93.966,4,0.773,Cool,-1,-1,Very Good
+2015,Love and Sex,Plan B,reggae,Candy,0.252,0.897,207627,0.864,0,G#,0.517,-3.735,0,0.147,95.981,4,0.542,Energizing,2,0,Very Good
+2015,Mas Flow,Plan B,reggae,Tu Sabes,0.255,0.838,186893,0.432,0.000135,A#,0.15,-12.304,1,0.125,95.007,4,0.578,Energizing,2,0,Very Good
+2015,House of Pleasure,Plan B,reggae,Es Un Secreto,0.106,0.841,190560,0.783,2.49E-06,D#,0.0528,-4.915,0,0.0432,94.989,4,0.514,Energizing,2,0,Very Good
+2015,House of Pleasure,Plan B,reggae,Si No Le Contesto,0.0945,0.844,220133,0.757,0,A#,0.16,-4.61,0,0.0523,94.977,4,0.532,Energizing,2,0,Very Good
+2015,La Reunión,Yaga & Mackie,reggae,Aparentemente,0.0996,0.874,303640,0.695,0.00146,C,0.207,-6.267,0,0.0925,93.996,4,0.885,Energizing,2,0,Very Good
+2015,Perreología,Alexis y Fido,reggae,Rescate,0.0383,0.659,252107,0.88,0.176,B,0.102,-4.254,1,0.0595,179.985,4,0.652,Energizing,2,0,Very Good
+2015,Reggaeton Hitmakers Love Stories,Hector & Tito,reggae,Ay Amor - Reggaeton,0.188,0.572,233013,0.764,6.36E-06,F#,0.138,-5.056,1,0.1,90.314,4,0.611,Energizing,2,0,Very Good
+2015,La Pregunta Remix (feat. Tito El Bambino & Daddy Yankee),J Alvarez,reggae,La Pregunta Remix (feat. Tito El Bambino & Daddy Yankee),0.0627,0.738,274027,0.726,0,F,0.288,-5.318,0,0.0735,171.962,4,0.836,Energizing,2,0,Very Good
+2015,De Camino Pa' la Cima (Deluxe Edition),J Alvarez,reggae,El Duelo,0.127,0.772,184253,0.698,0,F,0.144,-6.79,0,0.0498,93.004,4,0.747,Cool,-1,-1,Very Good
+2015,Otro Nivel De Musica,J Alvarez,reggae,La Pregunta,0.0585,0.74,269240,0.65,0,F,0.0793,-5.849,0,0.136,172.081,4,0.808,Energizing,2,0,Very Good
+2015,La Familia B Sides,J Balvin,reggae,Ay Vamos,0.174,0.718,226413,0.702,0.00011,F,0.111,-5.719,0,0.116,173.928,4,0.879,Energizing,2,0,Very Good
+2015,La Familia,J Balvin,reggae,Yo Te Lo Dije,0.0842,0.743,220853,0.61,0,D#,0.169,-5.824,1,0.0799,87.983,4,0.96,Energizing,2,0,Very Good
+2015,Raised By The People,Notch,reggae,Que Te Pica,0.263,0.755,192280,0.844,0,F#,0.394,-4.687,1,0.3,181.847,4,0.796,Energizing,2,0,Very Good
+2015,Tp.3 Reloaded,R. Kelly,reggae,Burn It Up,0.112,0.784,231773,0.793,0,G,0.134,-4.573,0,0.123,95.977,4,0.638,Energizing,2,0,Very Good
+2015,e5,Ivy Queen,reggae,Quiero Saber,0.137,0.868,172440,0.912,3.83E-06,D#,0.169,-3.585,0,0.0581,95.018,4,0.857,Energizing,2,0,Very Good
+2015,"Reggaeton, Vol. 2",Reggaeton Band,reggae,Gata Fiera,0.163,0.769,241760,0.848,0.1,D#,0.0783,-6.998,1,0.0499,93.692,4,0.955,Energizing,2,0,Very Good
+2015,Tempted OST Part.4,Yang Da Il,K-pop,With you,0.746,0.471,218857,0.456,0,C,0.116,-6.931,1,0.0355,127.58,4,0.213,Energizing,2,0,Very Good
+2015,LIVE OST Part.4,Punch,K-pop,Why Why Why,0.914,0.477,195320,0.524,0,C#,0.112,-5.398,1,0.0315,133.463,4,0.361,Cool,-1,-1,Very Good
+2015,"Mother (Original Television Soundtrack), Pt. 2",Peter Han,K-pop,Next To You,0.657,0.512,193948,0.366,0.00187,B,0.109,-10.194,1,0.0294,76.97,4,0.346,Melancholy,-2,-1,Very Good
+2015,"Welcome to Waikiki, Pt. 5 (Music from the Original TV Series)",SeungHee,K-pop,Taking the First Step,0.308,0.877,200320,0.382,6.67E-06,B,0.0726,-7.148,1,0.0647,127.97,4,0.585,Empowering,0,1,Very Good
+2015,"마녀의 법정 OST, Part. 06 Witch at Court OST, Part. 06",Yoon Hyun Min,K-pop,사랑했다고 That You Loved Me,0.884,0.631,228747,0.373,0,G#,0.108,-6.521,1,0.0355,126.178,4,0.382,Empowering,0,1,Very Good
+2015,A Day Before Us Season 2 OST Part.3 (Spring Love),Yu Seung Woo,K-pop,A Day Before Us Season 2 OST Part.3 - Spring Love,0.209,0.368,176060,0.75,0,F#,0.232,-5.098,1,0.29,199.631,4,0.601,Romantic,-1,1,Very Good
+2015,"Mother (Original Television Soundtrack), Pt. 5",SEUNGKWAN,K-pop,Kind of Love,0.657,0.359,235034,0.346,0,A#,0.109,-7.706,1,0.0293,95.941,3,0.2,Energizing,2,0,Very Good
+2015,"마녀의 법정 OST, Part. 04 Witch at Court OST, Part. 04",Park Yong In,K-pop,마음이 될까 Will I Be the Heart,0.53,0.385,256773,0.485,6.47E-06,B,0.0738,-6.097,1,0.0306,135.476,4,0.0949,Empowering,0,1,Very Good
+2015,"Welcome to Waikiki, Pt. 6 (Music from the Original TV Series)",Cho Eunae,K-pop,Grown Up,0.425,0.508,227521,0.57,0,E,0.118,-4.201,1,0.0376,81.312,4,0.249,Empowering,0,1,Very Good
+2015,"마녀의 법정 OST, Part. 03 Witch at Court OST, Part. 03",Bada,K-pop,사랑했다고 That You Loved Me,0.417,0.602,220606,0.553,0,D,0.0881,-5.278,1,0.0306,123.534,4,0.305,Empowering,0,1,Very Good
+2015,"마녀의 법정 OST, Part. 01 Witch at Court OST, Part. 01",Solji,K-pop,바람에 기대 Leaning Against the Wind,0.69,0.374,214733,0.496,0,F,0.169,-6.431,1,0.0383,115.417,3,0.126,Empowering,0,1,Very Good
+2015,RADIO ROMANCE OST Part.5,Lee Seok Hoon,K-pop,Story,0.723,0.496,225188,0.363,0,A#,0.146,-7.84,1,0.0291,76.039,4,0.218,Cool,-1,-1,Very Good
+2015,"Cross (Original Television Soundtrack), Pt. 3",Gonne Choi,K-pop,Childhood,0.949,0.271,224998,0.236,0.333,B,0.102,-11.094,1,0.0352,100.441,4,0.0551,Romantic,-1,1,Very Good
+2015,"Grand Prince, Pt. 2 (Original Television Soundtrack)",Sonnet Son,K-pop,Love Is So Mean,0.675,0.407,265777,0.502,0,E,0.146,-4.674,1,0.0318,146.165,4,0.242,Empowering,0,1,Very Good
+2015,"태양의 후예 (Original Television Soundtrack), Pt. 3",Davichi,K-pop,이 사랑,0.701,0.403,226574,0.447,0,F#,0.0965,-4.559,1,0.0347,138.489,4,0.206,Empowering,0,1,Very Good
+2015,"A Korean Odyssey (Original Television Soundtrack), Pt. 7",Hwang Chi Yeul,K-pop,Like A Miracle (Someday),0.67,0.516,236148,0.41,0,E,0.141,-6.152,1,0.0428,67.044,4,0.249,Empowering,0,1,Very Good
+2015,Flower ever after OST Part.2,Kwon Jin Ah,K-pop,Behind the page,0.788,0.439,280498,0.399,0,C,0.152,-6.955,1,0.0326,132.91,4,0.197,Empowering,0,1,Very Good
+2015,"Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 7",Baek A Yeon,K-pop,A Lot Like Love,0.548,0.758,203047,0.533,0,F#,0.104,-4.189,1,0.0267,76.997,4,0.395,Empowering,0,1,Very Good
+2015,"Cheese In The Trap (Original Television Soundtrack), Pt. 4",Vanilla Acoustic,K-pop,The Time We Shared,0.783,0.571,210811,0.569,0,C#,0.11,-6.928,1,0.0423,147.947,4,0.229,Cool,-1,-1,Excellent
+2015,"Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 4",Davichi,K-pop,Forgetting You,0.58,0.508,192430,0.545,0,G#,0.361,-6.425,1,0.037,129.183,4,0.233,Empowering,0,1,Excellent
+2015,instagram,DEAN,K-pop,instagram,0.196,0.463,255729,0.566,0,F,0.284,-6.195,1,0.145,93.921,4,0.219,Melancholy,-2,-1,Excellent
+2015,be by my side,Crush,K-pop,be by my side,0.61,0.348,213321,0.576,0.000223,D,0.205,-8.326,1,0.12,179.175,4,0.453,Empowering,0,1,Excellent
+2015,Innate,Cavalier,K-pop,White Noise 백색소음,0.67,0.473,290452,0.471,0.00018,A#,0.0753,-8.035,0,0.194,148.013,3,0.274,Energizing,2,0,Excellent
+2015,New Wave City,Muzie,K-pop,I Can't Let You Go (feat. Space Cowboy),0.262,0.734,207398,0.671,0,C#,0.113,-5.144,0,0.105,94.031,4,0.548,Energizing,2,0,Excellent
+2015,ONE,Samuel,K-pop,SOS,0.262,0.81,188627,0.601,0,B,0.0859,-4.216,0,0.0498,103.957,4,0.793,Energizing,2,0,Excellent
+2015,Don't Wanna Lose You,GIWON,K-pop,Don't Wanna Lose You,0.014,0.627,235533,0.535,0,A#,0.125,-7.09,0,0.0488,129.875,4,0.277,Empowering,0,1,Excellent
+2015,Begin-us,Hoons,K-pop,Begin-us,0.557,0.652,205863,0.482,0,E,0.365,-6.344,1,0.0263,82.941,4,0.434,Energizing,2,0,Excellent
+2015,Hold Me,Eric Nam,K-pop,4AM,0.315,0.663,248451,0.488,0,A,0.237,-5.385,1,0.0268,129.962,3,0.584,Empowering,0,1,Excellent
+2015,30,Nuz,K-pop,island,0.985,0.469,192000,0.282,0.252,F,0.105,-12.932,1,0.0363,110.033,3,0.25,Romantic,-1,1,Excellent
+2015,D.O.P.E.,D.O,K-pop,Falling Down,0.165,0.628,208180,0.75,0,G#,0.069,-5.021,1,0.343,75.659,4,0.663,Cool,-1,-1,Excellent
+2015,KARMA,Jeebanoff,K-pop,Timid,0.196,0.907,208174,0.524,1.94E-06,C#,0.0686,-7.764,0,0.199,140.007,4,0.784,Cool,-1,-1,Excellent
+2015,After The Heartbreak,Andup,K-pop,Wait a sec (Feat. hatts) (Prod. Hansen),0.577,0.868,195000,0.595,0,A#,0.102,-2.927,1,0.0945,131.985,4,0.852,Cool,-1,-1,Excellent
+2015,Like You,AOBeats,K-pop,Like You,0.137,0.645,173444,0.671,0,E,0.0543,-6.967,0,0.219,193.883,4,0.373,Empowering,0,1,Excellent
+2015,Guess I Loved You,2BiC,K-pop,Missing You (with Kassy),0.455,0.692,225967,0.633,0,D,0.117,-5.13,0,0.0416,95.005,4,0.33,Lively,1,2,Excellent
+2015,A,BIGBANG,K-pop,BANG BANG BANG,0.0192,0.694,220238,0.832,0,D,0.355,-3.038,0,0.0598,135.011,4,0.424,Cool,-1,-1,Excellent
+2015,A'wesome,HyunA,K-pop,How's This,0.024,0.746,199210,0.923,0,D#,0.0593,-2.169,1,0.0489,100.019,4,0.758,Energizing,2,0,Excellent
+2015,No Make Up - Single,Zion.T,K-pop,No Make Up,0.411,0.758,189154,0.402,0,F#,0.217,-5.066,1,0.0459,92.109,4,0.519,Empowering,0,1,Excellent
+2015,The MOBB,MINO,K-pop,BODY,0.0326,0.754,199393,0.803,0,F#,0.225,-3.233,0,0.0797,140.016,4,0.36,Aggressive,2,-2,Excellent
+2015,Ravi 2nd MIXTAPE [NIRVANA],Ravi,K-pop,NIRVANA (feat. PARK JIMIN),0.273,0.75,220281,0.963,0,C#,0.395,-3.938,0,0.256,130.081,4,0.579,Sentimental,-2,0,Excellent
+2015,JULY,Kris Wu,K-pop,JULY,0.0365,0.609,186981,0.569,1.04E-05,A,0.232,-10.352,1,0.058,159.947,4,0.435,Cool,-1,-1,Excellent
+2015,RUSH,Monsta X,K-pop,Perfect Girl,0.0781,0.716,219666,0.921,0,G,0.0899,-1.643,0,0.102,123.024,4,0.803,Energizing,2,0,Excellent
+2015,Hallelujah,JIMIN,K-pop,Hallelujah,0.11,0.702,178787,0.947,0,A#,0.314,-2.802,1,0.154,97.99,4,0.963,Empowering,0,1,Excellent
+2015,Perfect Velvet - The 2nd Album,Red Velvet,K-pop,피카부 Peek-A-Boo,0.0868,0.839,189050,0.902,0.00257,A#,0.272,-3.612,0,0.0536,114.953,4,0.639,Energizing,2,0,Excellent
+2015,The 4th Album 'I GOT A BOY',Girls' Generation,K-pop,I GOT A BOY,0.0342,0.502,271326,0.863,0,C#,0.538,-1.273,0,0.272,97.911,4,0.527,Empowering,0,1,Excellent
